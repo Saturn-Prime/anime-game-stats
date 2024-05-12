@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 12, 2024 01:42 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 12, 2024 07:25 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -52,7 +52,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>249</td>
+        <td>250</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -69,7 +69,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>3548 (rate -53)</td>
+        <td>3818 (rate -50)</td>
       </tr>
       <tr>
         <td>
@@ -84,9 +84,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1300 (36%)<br />Adventure Rewards: 925 (26%)<br />Mail:
-          720 (20%)<br />Simulated Universe: 560 (15%)<br />Other: 3 (2%)<br />Event:
-          40 (1%)<br />Forgotten Hall: 0 (0%)<br />
+          Daily Activity: 1300 (34%)<br />Adventure Rewards: 1075 (28%)<br />Mail:
+          840 (22%)<br />Simulated Universe: 560 (14%)<br />Event: 40 (1%)<br />Other:
+          3 (1%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -5922,6 +5922,6 @@
   </div>
 </details>
 <h2 align="center">
-  You can also check my Genshin Impact and HSR characters showcase/builds on
-  <a href="https://enka.network/u/saturnprime">Enka.Network</a>
+  You can also check my HSR characters showcase/builds on
+  <a href="https://enka.network/hsr/616546290/">Enka.Network</a>
 </h2>
