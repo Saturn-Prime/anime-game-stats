@@ -1,8 +1,8 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 12, 2024 19:07 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 12, 2024 20:16 +0700</u></h3>
 <br />
 
-<details align="center">
+<details align="center" open>
   <summary>
     <img
       src="https://i.pinimg.com/originals/a3/33/85/a3338541288aa31ff713edaf12c99961.png"
@@ -69,7 +69,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>4128 (rate -46)</td>
+        <td>4488 (rate -41)</td>
       </tr>
       <tr>
         <td>
@@ -79,13 +79,13 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>25 (rate -40)</td>
+        <td>28 (rate -33)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1350 (32%)<br />Adventure Rewards: 1075 (26%)<br />Mail:
-          840 (20%)<br />Simulated Universe: 820 (19%)<br />Other: 3 (3%)<br />Event:
+          Daily Activity: 1500 (33%)<br />Adventure Rewards: 1085 (24%)<br />Simulated
+          Universe: 1020 (22%)<br />Mail: 840 (18%)<br />Other: 3 (3%)<br />Event:
           40 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -4469,7 +4469,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -4679,7 +4679,7 @@
           />
           Mora earned
         </td>
-        <td>352946 (rate 177)</td>
+        <td>392840 (rate 208)</td>
       </tr>
       <tr>
         <td>Categories</td>
@@ -5923,5 +5923,5 @@
 </details>
 <h2 align="center">
   You can also check my HSR characters showcase/builds on
-  <a href="https://enka.network/hsr/616546290/">Enka.Network</a>
+  <a href="https://enka.network/u/SaturnPrime">Enka.Network</a>
 </h2>
