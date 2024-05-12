@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 12, 2024 10:02 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 12, 2024 19:07 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -44,7 +44,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>136</td>
+        <td>137</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -4669,7 +4669,7 @@
           />
           Primogems earned
         </td>
-        <td>924 (rate 143)</td>
+        <td>984 (rate 158)</td>
       </tr>
       <tr>
         <td>
@@ -4679,13 +4679,13 @@
           />
           Mora earned
         </td>
-        <td>352329 (rate 176)</td>
+        <td>352946 (rate 177)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 300 (33%)<br />Adventure: 263 (28%)<br />Daily Activity: 180
-          (19%)<br />Quests: 160 (17%)<br />Mail: 20 (2%)<br />Spiral Abyss: 0
+          Events: 300 (31%)<br />Adventure: 263 (26%)<br />Daily Activity: 240
+          (24%)<br />Quests: 160 (16%)<br />Mail: 20 (2%)<br />Spiral Abyss: 0
           (0%)<br />Other: 1 (1%)<br />
         </td>
       </tr>
@@ -4744,7 +4744,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>20</td>
+                <td>39</td>
               </tr>
               <tr>
                 <td>Friendship</td>
@@ -4798,6 +4798,118 @@
               <tr>
                 <td>Rarity</td>
                 <td>★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>20</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Traveler</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Traveler</h3></th>
+          <th><h3 align="center">Prototype Rancour</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_PlayerBoy.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/17333d29690b4b4c50990b10c6e2b4eb.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>39</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />2 x Berserker<br />2 x Adventurer<br />1 x
+                  Traveling Doctor<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/fd9752f6595c2364f9c7fd02a1897b7e.png"
+                    height="18"
+                  />
+                  Berserker's Rose<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/ae93d802cc6de98c44e966bfc7149764.png"
+                    height="18"
+                  />
+                  Adventurer's Tail Feather<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/acd1bd5cc65d73969e457d4be71a8e70.png"
+                    height="18"
+                  />
+                  Traveling Doctor's Pocket Watch<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/b9306691350810845b09bfe71d2d1f2a.png"
+                    height="18"
+                  />
+                  Berserker's Bone Goblet<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/51b021d72f2f78e7fcfc7d6c8d4ca574.png"
+                    height="18"
+                  />
+                  Adventurer's Bandana<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Prototype Rancour</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -5570,118 +5682,6 @@
               <tr>
                 <td>Rarity</td>
                 <td>★★★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>20</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Traveler</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Traveler</h3></th>
-          <th><h3 align="center">Prototype Rancour</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_PlayerBoy.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/17333d29690b4b4c50990b10c6e2b4eb.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>20</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>
-                  Artifacts<br />2 x Berserker<br />2 x Adventurer<br />1 x
-                  Traveling Doctor<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/fd9752f6595c2364f9c7fd02a1897b7e.png"
-                    height="18"
-                  />
-                  Berserker's Rose<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/ae93d802cc6de98c44e966bfc7149764.png"
-                    height="18"
-                  />
-                  Adventurer's Tail Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/acd1bd5cc65d73969e457d4be71a8e70.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/b9306691350810845b09bfe71d2d1f2a.png"
-                    height="18"
-                  />
-                  Berserker's Bone Goblet<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/51b021d72f2f78e7fcfc7d6c8d4ca574.png"
-                    height="18"
-                  />
-                  Adventurer's Bandana<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Prototype Rancour</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
               </tr>
               <tr>
                 <td>Level</td>
