@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 13, 2024 20:23 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>May 14, 2024 08:09 -0400</u></h3>
 <br />
 
 <details align="center" open>
@@ -52,7 +52,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>257</td>
+        <td>259</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -69,7 +69,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>5878 (rate -23)</td>
+        <td>6148 (rate -19)</td>
       </tr>
       <tr>
         <td>
@@ -79,13 +79,13 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>36 (rate -14)</td>
+        <td>41 (rate -2)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1650 (28%)<br />Simulated Universe: 1185 (20%)<br />Adventure
-          Rewards: 1160 (19%)<br />Other: 883 (17%)<br />Mail: 960 (16%)<br />Event:
+          Daily Activity: 1650 (26%)<br />Simulated Universe: 1385 (22%)<br />Adventure
+          Rewards: 1230 (20%)<br />Other: 883 (17%)<br />Mail: 960 (15%)<br />Event:
           40 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -1210,6 +1210,117 @@
       </table>
     </details>
     <details open>
+      <summary><b>Tingyun </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Tingyun</h3></th>
+          <th><h3>Past and Future</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/95e0ab106b43ff69f947cec598bfbe3c.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/c537ca7e273bdc39e4d315046724c5e1.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>69</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>6</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/88a1664a071a6dcec5bfe7d631f9718c.png"
+                    ,
+                    height="18"
+                  />
+                  Messenger's Holovisor<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/d320c7218db2049f3b8160bab148f7b2.png"
+                    ,
+                    height="18"
+                  />
+                  Messenger's Transformative Arm<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/4a41456e90d1319be0d8de9d03126937.png"
+                    ,
+                    height="18"
+                  />
+                  Messenger's Secret Satchel<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/489072decbe32530d3b6b276731cda33.png"
+                    ,
+                    height="18"
+                  />
+                  Messenger's Par-kool Sneakers<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/ab04e3f60b91681261d72f07db5a1a93.png"
+                    ,
+                    height="18"
+                  />
+                  The Xianzhou Luofu's Celestial Ark<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/09c3c8c140cf91db00ac9b82e43ff187.png"
+                    ,
+                    height="18"
+                  />
+                  The Xianzhou Luofu's Ambrosial Arbor Vines<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Past and Future</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>63</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details open>
       <summary><b>Hook </b></summary>
       <br />
       <table>
@@ -1432,123 +1543,12 @@
       </table>
     </details>
     <details open>
-      <summary><b>Tingyun </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Tingyun</h3></th>
-          <th><h3>Past and Future</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/95e0ab106b43ff69f947cec598bfbe3c.png"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/c537ca7e273bdc39e4d315046724c5e1.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>66</td>
-              </tr>
-              <tr>
-                <td>Eidolon</td>
-                <td>6</td>
-              </tr>
-              <tr>
-                <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/88a1664a071a6dcec5bfe7d631f9718c.png"
-                    ,
-                    height="18"
-                  />
-                  Messenger's Holovisor<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/d320c7218db2049f3b8160bab148f7b2.png"
-                    ,
-                    height="18"
-                  />
-                  Messenger's Transformative Arm<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/4a41456e90d1319be0d8de9d03126937.png"
-                    ,
-                    height="18"
-                  />
-                  Messenger's Secret Satchel<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/489072decbe32530d3b6b276731cda33.png"
-                    ,
-                    height="18"
-                  />
-                  Messenger's Par-kool Sneakers<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Planar</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/ab04e3f60b91681261d72f07db5a1a93.png"
-                    ,
-                    height="18"
-                  />
-                  The Xianzhou Luofu's Celestial Ark<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/09c3c8c140cf91db00ac9b82e43ff187.png"
-                    ,
-                    height="18"
-                  />
-                  The Xianzhou Luofu's Ambrosial Arbor Vines<br />
-                </td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Past and Future</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>63</td>
-              </tr>
-              <tr>
-                <td>Superimpose</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details open>
       <summary><b>Luka </b></summary>
       <br />
       <table>
         <tr>
           <th><h3>Luka</h3></th>
-          <th><h3></h3></th>
+          <th><h3>We Will Meet Again</h3></th>
         </tr>
         <tr>
           <td>
@@ -1559,7 +1559,11 @@
             </p>
           </td>
           <td>
-            <p align="center"><img src="" /></p>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/a884c240caeb905d570e692bbc5b281a.png"
+              />
+            </p>
           </td>
         </tr>
         <tr>
@@ -1634,15 +1638,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td></td>
+                <td>We Will Meet Again</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td></td>
+                <td>60</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td></td>
+                <td>1</td>
               </tr>
             </table>
           </td>
@@ -2583,7 +2587,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>2</td>
+                <td>3</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -4580,7 +4584,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -4612,11 +4616,11 @@
       </tr>
       <tr>
         <td>Common Chests Opened</td>
-        <td>63</td>
+        <td>64</td>
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>30</td>
+        <td>31</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
