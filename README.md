@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 14, 2024 20:23 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>May 15, 2024 08:10 -0400</u></h3>
 <br />
 
 <details align="center" open>
@@ -69,7 +69,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>6461 (rate -15)</td>
+        <td>6469 (rate -15)</td>
       </tr>
       <tr>
         <td>
@@ -85,7 +85,7 @@
         <td>Categories</td>
         <td>
           Daily Activity: 1800 (27%)<br />Simulated Universe: 1495 (23%)<br />Adventure
-          Rewards: 1280 (19%)<br />Other: 886 (17%)<br />Mail: 960 (14%)<br />Event:
+          Rewards: 1285 (19%)<br />Other: 889 (17%)<br />Mail: 960 (14%)<br />Event:
           40 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -4580,11 +4580,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>20</td>
+        <td>21</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>18</td>
+        <td>19</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -4620,7 +4620,7 @@
       </tr>
       <tr>
         <td>Exquisite Chests Opened</td>
-        <td>31</td>
+        <td>32</td>
       </tr>
       <tr>
         <td>Precious Chests Opened</td>
@@ -4784,7 +4784,7 @@
           />
           Primogems earned
         </td>
-        <td>1046 (rate 175)</td>
+        <td>1133 (rate 198)</td>
       </tr>
       <tr>
         <td>
@@ -4794,13 +4794,13 @@
           />
           Mora earned
         </td>
-        <td>433121 (rate 239)</td>
+        <td>459147 (rate 260)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 300 (29%)<br />Daily Activity: 300 (29%)<br />Adventure: 265
-          (25%)<br />Quests: 160 (15%)<br />Mail: 20 (1%)<br />Spiral Abyss: 0
+          Daily Activity: 360 (32%)<br />Events: 300 (26%)<br />Adventure: 272
+          (24%)<br />Quests: 160 (14%)<br />Mail: 40 (3%)<br />Spiral Abyss: 0
           (0%)<br />Other: 1 (1%)<br />
         </td>
       </tr>
