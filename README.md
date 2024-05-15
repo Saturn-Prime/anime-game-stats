@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 14, 2024 08:09 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>May 14, 2024 20:23 -0400</u></h3>
 <br />
 
 <details align="center" open>
@@ -17,17 +17,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>14</td>
+        <td>15</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
             height="20"
           />
-          Credit
+          Energy Drink (sugar-free)
         </td>
       </tr>
     </table>
@@ -44,7 +44,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>138</td>
+        <td>139</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -52,11 +52,11 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>259</td>
+        <td>261</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>308</td>
+        <td>311</td>
       </tr>
     </table>
   </div>
@@ -69,7 +69,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>6148 (rate -19)</td>
+        <td>6461 (rate -15)</td>
       </tr>
       <tr>
         <td>
@@ -84,8 +84,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1650 (26%)<br />Simulated Universe: 1385 (22%)<br />Adventure
-          Rewards: 1230 (20%)<br />Other: 883 (17%)<br />Mail: 960 (15%)<br />Event:
+          Daily Activity: 1800 (27%)<br />Simulated Universe: 1495 (23%)<br />Adventure
+          Rewards: 1280 (19%)<br />Other: 886 (17%)<br />Mail: 960 (14%)<br />Event:
           40 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -1437,7 +1437,7 @@
       <table>
         <tr>
           <th><h3>Arlan</h3></th>
-          <th><h3>Collapsing Sky</h3></th>
+          <th><h3>Indelible Promise</h3></th>
         </tr>
         <tr>
           <td>
@@ -1450,7 +1450,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/dcefb861c58ea240273da2c78b17d245.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/8aaddf7779e673b24086b4a02d05a936.png"
               />
             </p>
           </td>
@@ -1527,15 +1527,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Collapsing Sky</td>
+                <td>Indelible Promise</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>40</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>1</td>
+                <td>3</td>
               </tr>
             </table>
           </td>
@@ -2419,7 +2419,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>40</td>
+                <td>47</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -4553,17 +4553,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>14</td>
+        <td>15</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          5 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Mora
+          Adventurer's Experience
         </td>
       </tr>
     </table>
