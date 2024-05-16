@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 15, 2024 20:22 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>May 16, 2024 08:09 -0400</u></h3>
 <br />
 
 <details align="center" open>
@@ -48,15 +48,15 @@
       </tr>
       <tr>
         <td>Total Avatar</td>
-        <td>40</td>
+        <td>41</td>
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>261</td>
+        <td>262</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>311</td>
+        <td>320</td>
       </tr>
     </table>
   </div>
@@ -69,7 +69,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>6559 (rate -14)</td>
+        <td>6799 (rate -11)</td>
       </tr>
       <tr>
         <td>
@@ -84,8 +84,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1890 (28%)<br />Simulated Universe: 1495 (22%)<br />Adventure
-          Rewards: 1285 (19%)<br />Other: 889 (17%)<br />Mail: 960 (14%)<br />Event:
+          Daily Activity: 1890 (27%)<br />Adventure Rewards: 1520 (22%)<br />Simulated
+          Universe: 1495 (21%)<br />Other: 894 (16%)<br />Mail: 960 (14%)<br />Event:
           40 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -4539,6 +4539,117 @@
         </tr>
       </table>
     </details>
+    <details open>
+      <summary><b>Topaz & Numby </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Topaz & Numby</h3></th>
+          <th><h3>Subscribe for More!</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/85405c5dbee147019759e08cb5fe556e.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/5e01fcdcbe027f3cc22571712ae102d8.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/b06357c8e1978775241be59575c776ff.png"
+                    ,
+                    height="18"
+                  />
+                  Grand Duke's Crown of Netherflame<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/567d3823d92af9f8d551a5a71b094c27.png"
+                    ,
+                    height="18"
+                  />
+                  Grand Duke's Gloves of Fieryfur<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/7f3be1a3a74c049a5157c525a6ab0d9b.png"
+                    ,
+                    height="18"
+                  />
+                  Grand Duke's Robe of Grace<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/cecf985f4f4991472058851b3e1033f6.png"
+                    ,
+                    height="18"
+                  />
+                  Grand Duke's Ceremonial Boots<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/dbdec9e89c5234150348f4a2cabe9ad9.png"
+                    ,
+                    height="18"
+                  />
+                  Salsotto's Moving City<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/24d8f620b91529b8eecea7dfc52acbd9.png"
+                    ,
+                    height="18"
+                  />
+                  Salsotto's Terminator Line<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Subscribe for More!</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>30</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
   </div>
 </details>
 <details align="center">
@@ -4784,7 +4895,7 @@
           />
           Primogems earned
         </td>
-        <td>1133 (rate 198)</td>
+        <td>1193 (rate 213)</td>
       </tr>
       <tr>
         <td>
@@ -4794,13 +4905,13 @@
           />
           Mora earned
         </td>
-        <td>459147 (rate 260)</td>
+        <td>500510 (rate 292)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 360 (32%)<br />Events: 300 (26%)<br />Adventure: 272
-          (24%)<br />Quests: 160 (14%)<br />Mail: 40 (3%)<br />Spiral Abyss: 0
+          Daily Activity: 420 (36%)<br />Events: 300 (25%)<br />Adventure: 272
+          (22%)<br />Quests: 160 (13%)<br />Mail: 40 (3%)<br />Spiral Abyss: 0
           (0%)<br />Other: 1 (1%)<br />
         </td>
       </tr>
@@ -4816,6 +4927,118 @@
       Characters
     </h2>
     <details open>
+      <summary><b>Diluc</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Diluc</h3></th>
+          <th><h3 align="center">Debate Club</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Diluc.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/84ff31fd09487241310df8f2bb6ed7c8.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>40</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />1 x Lucky Dog<br />3 x Adventurer<br />1 x
+                  Traveling Doctor<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/db116e6e4cf8bc07cfd5a8839f50b891.png"
+                    height="18"
+                  />
+                  Lucky Dog's Clover<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/ae93d802cc6de98c44e966bfc7149764.png"
+                    height="18"
+                  />
+                  Adventurer's Tail Feather<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/05e06dcb69a668f0d623d4959611f8f2.png"
+                    height="18"
+                  />
+                  Adventurer's Pocket Watch<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/4afb39c2c69aa506a7da6b629514441e.png"
+                    height="18"
+                  />
+                  Adventurer's Golden Goblet<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/f3d416ccd8ea3382263584ecad07f64e.png"
+                    height="18"
+                  />
+                  Traveling Doctor's Handkerchief<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Debate Club</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>20</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Traveler</b></summary>
       <br />
       <table>
@@ -4928,118 +5151,6 @@
       </table>
     </details>
     <details>
-      <summary><b>Diluc</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Diluc</h3></th>
-          <th><h3 align="center">Debate Club</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_Diluc.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/84ff31fd09487241310df8f2bb6ed7c8.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>39</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>
-                  Artifacts<br />1 x Lucky Dog<br />3 x Adventurer<br />1 x
-                  Traveling Doctor<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/db116e6e4cf8bc07cfd5a8839f50b891.png"
-                    height="18"
-                  />
-                  Lucky Dog's Clover<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/ae93d802cc6de98c44e966bfc7149764.png"
-                    height="18"
-                  />
-                  Adventurer's Tail Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/05e06dcb69a668f0d623d4959611f8f2.png"
-                    height="18"
-                  />
-                  Adventurer's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/4afb39c2c69aa506a7da6b629514441e.png"
-                    height="18"
-                  />
-                  Adventurer's Golden Goblet<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/f3d416ccd8ea3382263584ecad07f64e.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Handkerchief<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Debate Club</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>20</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
       <summary><b>Lisa</b></summary>
       <br />
       <table>
@@ -5111,6 +5222,118 @@
                     height="18"
                   />
                   Adventurer's Pocket Watch<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Emerald Orb</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>20</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Charlotte</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Charlotte</h3></th>
+          <th><h3 align="center">Emerald Orb</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Charlotte.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/f0fa6c47d6f188f97a72483a98407ae1.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>20</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>2</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />3 x Traveling Doctor<br />1 x Adventurer<br />1
+                  x Lucky Dog<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/f0ed092550751f658dae09c2cc1c5dc8.png"
+                    height="18"
+                  />
+                  Traveling Doctor's Silver Lotus<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/fb392a422e50999a1408ced52e22520f.png"
+                    height="18"
+                  />
+                  Traveling Doctor's Owl Feather<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/acd1bd5cc65d73969e457d4be71a8e70.png"
+                    height="18"
+                  />
+                  Traveling Doctor's Pocket Watch<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/4afb39c2c69aa506a7da6b629514441e.png"
+                    height="18"
+                  />
+                  Adventurer's Golden Goblet<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/116436275207976d831bd95317c6940b.png"
+                    height="18"
+                  />
+                  Lucky Dog's Silver Circlet<br />
                 </td>
               </tr>
               <tr>
@@ -5685,118 +5908,6 @@
               <tr>
                 <td>Rarity</td>
                 <td>★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>20</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Charlotte</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Charlotte</h3></th>
-          <th><h3 align="center">Emerald Orb</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_Charlotte.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/f0fa6c47d6f188f97a72483a98407ae1.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>20</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>
-                  Artifacts<br />3 x Traveling Doctor<br />1 x Adventurer<br />1
-                  x Lucky Dog<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/f0ed092550751f658dae09c2cc1c5dc8.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Silver Lotus<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/fb392a422e50999a1408ced52e22520f.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Owl Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/acd1bd5cc65d73969e457d4be71a8e70.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/4afb39c2c69aa506a7da6b629514441e.png"
-                    height="18"
-                  />
-                  Adventurer's Golden Goblet<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/116436275207976d831bd95317c6940b.png"
-                    height="18"
-                  />
-                  Lucky Dog's Silver Circlet<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Emerald Orb</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★</td>
               </tr>
               <tr>
                 <td>Level</td>
