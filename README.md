@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 16, 2024 08:09 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>May 16, 2024 20:23 -0400</u></h3>
 <br />
 
 <details align="center" open>
@@ -17,17 +17,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -44,7 +44,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>140</td>
+        <td>141</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -52,11 +52,11 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>262</td>
+        <td>263</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>320</td>
+        <td>341</td>
       </tr>
     </table>
   </div>
@@ -69,7 +69,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>6799 (rate -11)</td>
+        <td>7194 (rate -5)</td>
       </tr>
       <tr>
         <td>
@@ -79,13 +79,13 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>43 (rate 2)</td>
+        <td>44 (rate 4)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1890 (27%)<br />Adventure Rewards: 1520 (22%)<br />Simulated
-          Universe: 1495 (21%)<br />Other: 894 (16%)<br />Mail: 960 (14%)<br />Event:
+          Daily Activity: 2040 (28%)<br />Adventure Rewards: 1760 (24%)<br />Simulated
+          Universe: 1495 (20%)<br />Other: 899 (15%)<br />Mail: 960 (13%)<br />Event:
           40 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -4581,7 +4581,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>1</td>
+                <td>40</td>
               </tr>
               <tr>
                 <td>Eidolon</td>
@@ -4664,17 +4664,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Fine Enhancement Ore
+          Mora
         </td>
       </tr>
     </table>
@@ -4695,7 +4695,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>20</td>
+        <td>21</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -4895,7 +4895,7 @@
           />
           Primogems earned
         </td>
-        <td>1193 (rate 213)</td>
+        <td>1213 (rate 219)</td>
       </tr>
       <tr>
         <td>
@@ -4905,12 +4905,12 @@
           />
           Mora earned
         </td>
-        <td>500510 (rate 292)</td>
+        <td>507754 (rate 298)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 420 (36%)<br />Events: 300 (25%)<br />Adventure: 272
+          Daily Activity: 440 (37%)<br />Events: 300 (24%)<br />Adventure: 272
           (22%)<br />Quests: 160 (13%)<br />Mail: 40 (3%)<br />Spiral Abyss: 0
           (0%)<br />Other: 1 (1%)<br />
         </td>
