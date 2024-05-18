@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 17, 2024 20:23 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>May 18, 2024 08:08 -0400</u></h3>
 <br />
 
 <details align="center" open>
@@ -44,7 +44,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>142</td>
+        <td>143</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -52,11 +52,11 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>267</td>
+        <td>268</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>362</td>
+        <td>382</td>
       </tr>
     </table>
   </div>
@@ -69,7 +69,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>8054 (rate 5)</td>
+        <td>8549 (rate 11)</td>
       </tr>
       <tr>
         <td>
@@ -79,14 +79,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>46 (rate 9)</td>
+        <td>48 (rate 14)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 2190 (27%)<br />Adventure Rewards: 2185 (27%)<br />Simulated
-          Universe: 1495 (18%)<br />Other: 904 (14%)<br />Mail: 960 (11%)<br />Forgotten
-          Hall: 200 (2%)<br />Event: 120 (1%)<br />
+          Adventure Rewards: 2430 (28%)<br />Daily Activity: 2280 (26%)<br />Simulated
+          Universe: 1495 (17%)<br />Other: 904 (13%)<br />Mail: 960 (11%)<br />Event:
+          280 (3%)<br />Forgotten Hall: 200 (2%)<br />
         </td>
       </tr>
     </table>
@@ -327,7 +327,7 @@
       <table>
         <tr>
           <th><h3>Dr. Ratio</h3></th>
-          <th><h3>Only Silence Remains</h3></th>
+          <th><h3>Swordplay</h3></th>
         </tr>
         <tr>
           <td>
@@ -340,7 +340,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/1fdf25731f172b33f21c1fb64c3a7377.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/fcecbbdf9ea2539f73a713f6dc2e5b99.png"
               />
             </p>
           </td>
@@ -417,15 +417,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Only Silence Remains</td>
+                <td>Swordplay</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>30</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>3</td>
+                <td>2</td>
               </tr>
             </table>
           </td>
@@ -882,7 +882,7 @@
       <table>
         <tr>
           <th><h3>Yanqing</h3></th>
-          <th><h3>Swordplay</h3></th>
+          <th><h3>Only Silence Remains</h3></th>
         </tr>
         <tr>
           <td>
@@ -895,7 +895,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/fcecbbdf9ea2539f73a713f6dc2e5b99.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/1fdf25731f172b33f21c1fb64c3a7377.png"
               />
             </p>
           </td>
@@ -918,7 +918,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>71</td>
+                <td>74</td>
               </tr>
               <tr>
                 <td>Eidolon</td>
@@ -972,15 +972,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Swordplay</td>
+                <td>Only Silence Remains</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>80</td>
+                <td>30</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>2</td>
+                <td>3</td>
               </tr>
             </table>
           </td>
@@ -1092,6 +1092,117 @@
               <tr>
                 <td>Superimpose</td>
                 <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details open>
+      <summary><b>Ruan Mei </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Ruan Mei</h3></th>
+          <th><h3>Dance! Dance! Dance!</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/5cf06f822bba3b9f49e5bdf8c898346a.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/f05015bcba9b13a1830f1c34708124f1.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>70</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/faa558e2d3d17599efecc6c8f4daaac2.png"
+                    ,
+                    height="18"
+                  />
+                  Thief's Myriad-Faced Mask<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/da76e4af162956ff522cc20b63a3bc95.png"
+                    ,
+                    height="18"
+                  />
+                  Thief's Gloves With Prints<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/1faf8e086c4c82e69a702f3ba00ff47e.png"
+                    ,
+                    height="18"
+                  />
+                  Thief's Steel Grappling Hook<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/0db91da83d5dbfeff9bb8b065054ddc0.png"
+                    ,
+                    height="18"
+                  />
+                  Thief's Meteor Boots<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/e287039f6a3b886e3f33a60e0352edca.png"
+                    ,
+                    height="18"
+                  />
+                  Talia's Nailscrap Town<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/5cf4ea89097184f4bd2dc85dc5445583.png"
+                    ,
+                    height="18"
+                  />
+                  Talia's Exposed Electric Wire<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Dance! Dance! Dance!</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>60</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>1</td>
               </tr>
             </table>
           </td>
@@ -2194,117 +2305,6 @@
               <tr>
                 <td>Name</td>
                 <td>Inherently Unjust Destiny</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>60</td>
-              </tr>
-              <tr>
-                <td>Superimpose</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details open>
-      <summary><b>Ruan Mei </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Ruan Mei</h3></th>
-          <th><h3>Dance! Dance! Dance!</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/5cf06f822bba3b9f49e5bdf8c898346a.png"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/f05015bcba9b13a1830f1c34708124f1.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>60</td>
-              </tr>
-              <tr>
-                <td>Eidolon</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/faa558e2d3d17599efecc6c8f4daaac2.png"
-                    ,
-                    height="18"
-                  />
-                  Thief's Myriad-Faced Mask<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/da76e4af162956ff522cc20b63a3bc95.png"
-                    ,
-                    height="18"
-                  />
-                  Thief's Gloves With Prints<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/1faf8e086c4c82e69a702f3ba00ff47e.png"
-                    ,
-                    height="18"
-                  />
-                  Thief's Steel Grappling Hook<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/0db91da83d5dbfeff9bb8b065054ddc0.png"
-                    ,
-                    height="18"
-                  />
-                  Thief's Meteor Boots<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Planar</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/e287039f6a3b886e3f33a60e0352edca.png"
-                    ,
-                    height="18"
-                  />
-                  Talia's Nailscrap Town<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/5cf4ea89097184f4bd2dc85dc5445583.png"
-                    ,
-                    height="18"
-                  />
-                  Talia's Exposed Electric Wire<br />
-                </td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Dance! Dance! Dance!</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -4581,7 +4581,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>40</td>
+                <td>50</td>
               </tr>
               <tr>
                 <td>Eidolon</td>
@@ -4895,7 +4895,7 @@
           />
           Primogems earned
         </td>
-        <td>1253 (rate 229)</td>
+        <td>1415 (rate 272)</td>
       </tr>
       <tr>
         <td>
@@ -4905,13 +4905,13 @@
           />
           Mora earned
         </td>
-        <td>519504 (rate 307)</td>
+        <td>549898 (rate 331)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 480 (39%)<br />Events: 300 (24%)<br />Adventure: 272
-          (21%)<br />Quests: 160 (12%)<br />Mail: 40 (3%)<br />Spiral Abyss: 0
+          Daily Activity: 540 (38%)<br />Adventure: 354 (25%)<br />Events: 300
+          (21%)<br />Quests: 160 (11%)<br />Mail: 60 (4%)<br />Spiral Abyss: 0
           (0%)<br />Other: 1 (1%)<br />
         </td>
       </tr>
