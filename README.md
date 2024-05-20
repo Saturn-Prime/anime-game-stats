@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 19, 2024 09:26 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>May 19, 2024 20:23 -0400</u></h3>
 <br />
 
 <details align="center" open>
@@ -17,17 +17,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>19</td>
+        <td>20</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
             height="20"
           />
-          Credit
+          Stellar Jade
         </td>
       </tr>
     </table>
@@ -44,7 +44,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>143</td>
+        <td>144</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -52,7 +52,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>271</td>
+        <td>273</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -69,7 +69,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>9004 (rate 17)</td>
+        <td>9299 (rate 21)</td>
       </tr>
       <tr>
         <td>
@@ -84,9 +84,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 2560 (28%)<br />Daily Activity: 2340 (25%)<br />Simulated
-          Universe: 1495 (16%)<br />Other: 904 (13%)<br />Mail: 960 (10%)<br />Event:
-          545 (6%)<br />Forgotten Hall: 200 (2%)<br />
+          Adventure Rewards: 2725 (29%)<br />Daily Activity: 2450 (26%)<br />Simulated
+          Universe: 1495 (16%)<br />Other: 904 (12%)<br />Mail: 980 (10%)<br />Event:
+          545 (5%)<br />Forgotten Hall: 200 (2%)<br />
         </td>
       </tr>
     </table>
@@ -2653,6 +2653,117 @@
       </table>
     </details>
     <details open>
+      <summary><b>Topaz & Numby </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Topaz & Numby</h3></th>
+          <th><h3>Only Silence Remains</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/85405c5dbee147019759e08cb5fe556e.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/1fdf25731f172b33f21c1fb64c3a7377.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>60</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/b06357c8e1978775241be59575c776ff.png"
+                    ,
+                    height="18"
+                  />
+                  Grand Duke's Crown of Netherflame<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/567d3823d92af9f8d551a5a71b094c27.png"
+                    ,
+                    height="18"
+                  />
+                  Grand Duke's Gloves of Fieryfur<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/7f3be1a3a74c049a5157c525a6ab0d9b.png"
+                    ,
+                    height="18"
+                  />
+                  Grand Duke's Robe of Grace<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/cecf985f4f4991472058851b3e1033f6.png"
+                    ,
+                    height="18"
+                  />
+                  Grand Duke's Ceremonial Boots<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/dbdec9e89c5234150348f4a2cabe9ad9.png"
+                    ,
+                    height="18"
+                  />
+                  Salsotto's Moving City<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/24d8f620b91529b8eecea7dfc52acbd9.png"
+                    ,
+                    height="18"
+                  />
+                  Salsotto's Terminator Line<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Only Silence Remains</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>30</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>3</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details open>
       <summary><b>Clara </b></summary>
       <br />
       <table>
@@ -3311,7 +3422,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>1</td>
+                <td>3</td>
               </tr>
             </table>
           </td>
@@ -4539,117 +4650,6 @@
         </tr>
       </table>
     </details>
-    <details open>
-      <summary><b>Topaz & Numby </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Topaz & Numby</h3></th>
-          <th><h3>Only Silence Remains</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/85405c5dbee147019759e08cb5fe556e.png"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/1fdf25731f172b33f21c1fb64c3a7377.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>50</td>
-              </tr>
-              <tr>
-                <td>Eidolon</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/b06357c8e1978775241be59575c776ff.png"
-                    ,
-                    height="18"
-                  />
-                  Grand Duke's Crown of Netherflame<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/567d3823d92af9f8d551a5a71b094c27.png"
-                    ,
-                    height="18"
-                  />
-                  Grand Duke's Gloves of Fieryfur<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/7f3be1a3a74c049a5157c525a6ab0d9b.png"
-                    ,
-                    height="18"
-                  />
-                  Grand Duke's Robe of Grace<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/cecf985f4f4991472058851b3e1033f6.png"
-                    ,
-                    height="18"
-                  />
-                  Grand Duke's Ceremonial Boots<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Planar</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/dbdec9e89c5234150348f4a2cabe9ad9.png"
-                    ,
-                    height="18"
-                  />
-                  Salsotto's Moving City<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/24d8f620b91529b8eecea7dfc52acbd9.png"
-                    ,
-                    height="18"
-                  />
-                  Salsotto's Terminator Line<br />
-                </td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Only Silence Remains</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>30</td>
-              </tr>
-              <tr>
-                <td>Superimpose</td>
-                <td>3</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
   </div>
 </details>
 <details align="center">
@@ -4664,17 +4664,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>19</td>
+        <td>20</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Fisherman's Toast
+          Adventurer's Experience
         </td>
       </tr>
     </table>
