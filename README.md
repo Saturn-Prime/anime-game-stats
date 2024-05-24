@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 23, 2024 08:09 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>May 23, 2024 20:23 -0400</u></h3>
 <br />
 
 <details align="center" open>
@@ -17,17 +17,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>23</td>
+        <td>24</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Lost Gold Fragment
+          Credit
         </td>
       </tr>
     </table>
@@ -44,7 +44,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>147</td>
+        <td>148</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -52,7 +52,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>283</td>
+        <td>284</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -69,7 +69,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>11160 (rate 45)</td>
+        <td>11330 (rate 48)</td>
       </tr>
       <tr>
         <td>
@@ -84,8 +84,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 4130 (37%)<br />Daily Activity: 2900 (25%)<br />Simulated
-          Universe: 1495 (13%)<br />Other: 910 (12%)<br />Mail: 980 (8%)<br />Event:
+          Adventure Rewards: 4210 (37%)<br />Daily Activity: 2990 (26%)<br />Simulated
+          Universe: 1495 (13%)<br />Other: 910 (11%)<br />Mail: 980 (8%)<br />Event:
           545 (4%)<br />Forgotten Hall: 200 (1%)<br />
         </td>
       </tr>
@@ -4664,17 +4664,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>23</td>
+        <td>24</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Fine Enhancement Ore
+          Mora
         </td>
       </tr>
     </table>
