@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 23, 2024 20:23 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>May 24, 2024 08:09 -0400</u></h3>
 <br />
 
 <details align="center" open>
