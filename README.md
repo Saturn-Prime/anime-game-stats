@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 24, 2024 21:42 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>May 25, 2024 08:09 -0400</u></h3>
 <br />
 
 <details align="center" open>
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/SaturnPrime_25_05_2024-08_42_44.png" />
+    <img src="images/profile/SaturnPrime_25_05_2024-19_09_20.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>149</td>
+        <td>150</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -60,7 +60,7 @@
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>438</td>
+        <td>440</td>
       </tr>
     </table>
   </div>
@@ -6154,44 +6154,44 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_25_05_2024-08_41_34.png" />
+  <img src="images/showcase/genshin_card_25_05_2024-19_08_16.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_25_05_2024-08_41_35.png" />
+  <img src="images/showcase/genshin_card_25_05_2024-19_08_17.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Luka</summary>
-  <img src="images/showcase/Luka_25_05_2024-08_42_16.png" />
+  <img src="images/showcase/Luka_25_05_2024-19_08_55.png" />
 </details>
 <details align="center">
   <summary>Tingyun</summary>
-  <img src="images/showcase/Tingyun_25_05_2024-08_42_16.png" />
+  <img src="images/showcase/Tingyun_25_05_2024-19_08_55.png" />
 </details>
 <details align="center">
   <summary>Arlan</summary>
-  <img src="images/showcase/Arlan_25_05_2024-08_42_17.png" />
+  <img src="images/showcase/Arlan_25_05_2024-19_08_55.png" />
 </details>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_25_05_2024-08_42_17.png" />
+  <img src="images/showcase/Acheron_25_05_2024-19_08_56.png" />
 </details>
 <details align="center">
   <summary>Luocha</summary>
-  <img src="images/showcase/Luocha_25_05_2024-08_42_17.png" />
+  <img src="images/showcase/Luocha_25_05_2024-19_08_56.png" />
 </details>
 <details align="center">
   <summary>Yanqing</summary>
-  <img src="images/showcase/Yanqing_25_05_2024-08_42_18.png" />
+  <img src="images/showcase/Yanqing_25_05_2024-19_08_57.png" />
 </details>
 <details align="center">
   <summary>Jing Yuan</summary>
-  <img src="images/showcase/Jing-Yuan_25_05_2024-08_42_18.png" />
+  <img src="images/showcase/Jing-Yuan_25_05_2024-19_08_57.png" />
 </details>
 <details align="center">
   <summary>Hook</summary>
-  <img src="images/showcase/Hook_25_05_2024-08_42_19.png" />
+  <img src="images/showcase/Hook_25_05_2024-19_08_58.png" />
 </details>
 <h2 align="center">
   You can also check my HSR characters showcase/builds on
