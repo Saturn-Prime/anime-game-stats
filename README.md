@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 25, 2024 08:09 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>May 25, 2024 20:12 -0400</u></h3>
 <br />
 
 <details align="center" open>
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/SaturnPrime_25_05_2024-19_09_20.png" />
+    <img src="images/profile/SaturnPrime_26_05_2024-07_12_10.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>25</td>
+        <td>26</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/7cb0e487e051f177d3f41de8d4bbc521_1182531883532191221.png"
             height="20"
           />
-          Disposable Kinetic Arm
+          Refined Aether
         </td>
       </tr>
     </table>
@@ -56,11 +56,11 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>287</td>
+        <td>291</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>440</td>
+        <td>462</td>
       </tr>
     </table>
   </div>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>11595 (rate 51)</td>
+        <td>12313 (rate 61)</td>
       </tr>
       <tr>
         <td>
@@ -88,9 +88,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 4385 (37%)<br />Daily Activity: 3080 (26%)<br />Simulated
-          Universe: 1495 (12%)<br />Other: 910 (12%)<br />Mail: 980 (8%)<br />Event:
-          545 (4%)<br />Forgotten Hall: 200 (1%)<br />
+          Adventure Rewards: 4970 (40%)<br />Daily Activity: 3190 (25%)<br />Simulated
+          Universe: 1495 (12%)<br />Other: 913 (11%)<br />Mail: 980 (7%)<br />Event:
+          565 (4%)<br />Forgotten Hall: 200 (1%)<br />
         </td>
       </tr>
     </table>
@@ -4668,17 +4668,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>25</td>
+        <td>26</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
             height="20"
           />
-          Hero's Wit
+          Almond Tofu
         </td>
       </tr>
     </table>
@@ -4699,7 +4699,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>22</td>
+        <td>23</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -4909,7 +4909,7 @@
           />
           Mora earned
         </td>
-        <td>549898 (rate 331)</td>
+        <td>564898 (rate 343)</td>
       </tr>
       <tr>
         <td>Categories</td>
@@ -6154,44 +6154,36 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_25_05_2024-19_08_16.png" />
+  <img src="images/showcase/genshin_card_26_05_2024-07_11_18.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_25_05_2024-19_08_17.png" />
+  <img src="images/showcase/genshin_card_26_05_2024-07_11_19.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
-  <summary>Luka</summary>
-  <img src="images/showcase/Luka_25_05_2024-19_08_55.png" />
+  <summary>Robin</summary>
+  <img src="images/showcase/Robin_26_05_2024-07_11_51.png" />
 </details>
 <details align="center">
-  <summary>Tingyun</summary>
-  <img src="images/showcase/Tingyun_25_05_2024-19_08_55.png" />
-</details>
-<details align="center">
-  <summary>Arlan</summary>
-  <img src="images/showcase/Arlan_25_05_2024-19_08_55.png" />
-</details>
-<details align="center">
-  <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_25_05_2024-19_08_56.png" />
+  <summary>Ruan Mei</summary>
+  <img src="images/showcase/Ruan-Mei_26_05_2024-07_11_51.png" />
 </details>
 <details align="center">
   <summary>Luocha</summary>
-  <img src="images/showcase/Luocha_25_05_2024-19_08_56.png" />
+  <img src="images/showcase/Luocha_26_05_2024-07_11_52.png" />
 </details>
 <details align="center">
-  <summary>Yanqing</summary>
-  <img src="images/showcase/Yanqing_25_05_2024-19_08_57.png" />
+  <summary>SaturnPrime</summary>
+  <img src="images/showcase/SaturnPrime_26_05_2024-07_11_52.png" />
 </details>
 <details align="center">
-  <summary>Jing Yuan</summary>
-  <img src="images/showcase/Jing-Yuan_25_05_2024-19_08_57.png" />
+  <summary>Acheron</summary>
+  <img src="images/showcase/Acheron_26_05_2024-07_11_52.png" />
 </details>
 <details align="center">
-  <summary>Hook</summary>
-  <img src="images/showcase/Hook_25_05_2024-19_08_58.png" />
+  <summary>Dr. Ratio</summary>
+  <img src="images/showcase/Dr.-Ratio_26_05_2024-07_11_53.png" />
 </details>
 <h2 align="center">
   You can also check my HSR characters showcase/builds on
