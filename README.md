@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 26, 2024 14:32 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>May 26, 2024 20:25 -0400</u></h3>
 <br />
 
 <details align="center" open>
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/SaturnPrime_27_05_2024-01_32_32.png" />
+    <img src="images/profile/SaturnPrime_27_05_2024-07_25_23.png" />
   </div>
   <div align="center">
     <h2>
@@ -56,11 +56,11 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>293</td>
+        <td>297</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>468</td>
+        <td>469</td>
       </tr>
     </table>
   </div>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>12659 (rate 65)</td>
+        <td>13064 (rate 70)</td>
       </tr>
       <tr>
         <td>
@@ -83,13 +83,13 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>54 (rate 28)</td>
+        <td>55 (rate 30)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 5155 (40%)<br />Daily Activity: 3340 (26%)<br />Simulated
-          Universe: 1495 (11%)<br />Other: 914 (11%)<br />Mail: 980 (7%)<br />Event:
+          Adventure Rewards: 5175 (39%)<br />Daily Activity: 3340 (25%)<br />Simulated
+          Universe: 1880 (14%)<br />Other: 914 (10%)<br />Mail: 980 (7%)<br />Event:
           575 (4%)<br />Forgotten Hall: 200 (1%)<br />
         </td>
       </tr>
@@ -6154,36 +6154,36 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_27_05_2024-01_31_36.png" />
+  <img src="images/showcase/genshin_card_27_05_2024-07_24_28.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_27_05_2024-01_31_37.png" />
+  <img src="images/showcase/genshin_card_27_05_2024-07_24_29.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_27_05_2024-01_32_13.png" />
+  <img src="images/showcase/Robin_27_05_2024-07_25_06.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_27_05_2024-01_32_13.png" />
+  <img src="images/showcase/Ruan-Mei_27_05_2024-07_25_06.png" />
 </details>
 <details align="center">
   <summary>Luocha</summary>
-  <img src="images/showcase/Luocha_27_05_2024-01_32_14.png" />
+  <img src="images/showcase/Luocha_27_05_2024-07_25_06.png" />
 </details>
 <details align="center">
   <summary>SaturnPrime</summary>
-  <img src="images/showcase/SaturnPrime_27_05_2024-01_32_14.png" />
+  <img src="images/showcase/SaturnPrime_27_05_2024-07_25_07.png" />
 </details>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_27_05_2024-01_32_14.png" />
+  <img src="images/showcase/Acheron_27_05_2024-07_25_07.png" />
 </details>
 <details align="center">
   <summary>Dr. Ratio</summary>
-  <img src="images/showcase/Dr.-Ratio_27_05_2024-01_32_15.png" />
+  <img src="images/showcase/Dr.-Ratio_27_05_2024-07_25_08.png" />
 </details>
 <h2 align="center">
   You can also check my HSR characters showcase/builds on
