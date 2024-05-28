@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 27, 2024 08:10 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>May 27, 2024 20:24 -0400</u></h3>
 <br />
 
 <details align="center" open>
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/SaturnPrime_27_05_2024-19_10_11.png" />
+    <img src="images/profile/SaturnPrime_28_05_2024-07_24_28.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>27</td>
+        <td>28</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/40c4661295cacb4f584fd7787375d7ac_9144584527481294308.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/508229a94e4fa459651f64c1cd02687a_2622619536733353535.png"
             height="20"
           />
-          Lost Crystal
+          Traveler's Guide
         </td>
       </tr>
     </table>
@@ -56,11 +56,11 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>303</td>
+        <td>304</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>484</td>
+        <td>486</td>
       </tr>
     </table>
   </div>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>13719 (rate 79)</td>
+        <td>13834 (rate 80)</td>
       </tr>
       <tr>
         <td>
@@ -88,8 +88,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 5660 (41%)<br />Daily Activity: 3450 (25%)<br />Simulated
-          Universe: 1940 (14%)<br />Other: 914 (8%)<br />Mail: 980 (7%)<br />Event:
+          Adventure Rewards: 5775 (41%)<br />Daily Activity: 3450 (24%)<br />Simulated
+          Universe: 1940 (14%)<br />Other: 914 (9%)<br />Mail: 980 (7%)<br />Event:
           575 (4%)<br />Forgotten Hall: 200 (1%)<br />
         </td>
       </tr>
@@ -3262,17 +3262,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>27</td>
+        <td>28</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
             height="20"
           />
-          Adventurer's Experience
+          Hero's Wit
         </td>
       </tr>
     </table>
@@ -4748,36 +4748,36 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_27_05_2024-19_10_19.png" />
+  <img src="images/showcase/genshin_card_28_05_2024-07_23_32.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_27_05_2024-19_10_20.png" />
+  <img src="images/showcase/genshin_card_28_05_2024-07_23_33.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_27_05_2024-19_09_47.png" />
+  <img src="images/showcase/Robin_28_05_2024-07_24_08.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_27_05_2024-19_09_47.png" />
+  <img src="images/showcase/Ruan-Mei_28_05_2024-07_24_08.png" />
 </details>
 <details align="center">
   <summary>Luocha</summary>
-  <img src="images/showcase/Luocha_27_05_2024-19_09_47.png" />
+  <img src="images/showcase/Luocha_28_05_2024-07_24_09.png" />
 </details>
 <details align="center">
   <summary>SaturnPrime</summary>
-  <img src="images/showcase/SaturnPrime_27_05_2024-19_09_48.png" />
+  <img src="images/showcase/SaturnPrime_28_05_2024-07_24_09.png" />
 </details>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_27_05_2024-19_09_48.png" />
+  <img src="images/showcase/Acheron_28_05_2024-07_24_10.png" />
 </details>
 <details align="center">
   <summary>Dr. Ratio</summary>
-  <img src="images/showcase/Dr.-Ratio_27_05_2024-19_09_49.png" />
+  <img src="images/showcase/Dr.-Ratio_28_05_2024-07_24_10.png" />
 </details>
 <h2 align="center">
   You can also check my HSR characters showcase/builds on
