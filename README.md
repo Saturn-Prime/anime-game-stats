@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 29, 2024 08:10 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>May 29, 2024 20:24 -0400</u></h3>
 <br />
 
 <details align="center" open>
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/SaturnPrime_29_05_2024-19_10_50.png" />
+    <img src="images/profile/SaturnPrime_30_05_2024-07_24_51.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,7 +21,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>153</td>
+        <td>154</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -56,11 +56,11 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>313</td>
+        <td>322</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>513</td>
+        <td>554</td>
       </tr>
     </table>
   </div>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>14931 (rate 95)</td>
+        <td>15803 (rate 106)</td>
       </tr>
       <tr>
         <td>
@@ -88,9 +88,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 6520 (43%)<br />Daily Activity: 3600 (24%)<br />Simulated
-          Universe: 1940 (12%)<br />Other: 916 (9%)<br />Mail: 980 (6%)<br />Event:
-          775 (5%)<br />Forgotten Hall: 200 (1%)<br />
+          Adventure Rewards: 7170 (45%)<br />Daily Activity: 3750 (23%)<br />Simulated
+          Universe: 1940 (12%)<br />Other: 918 (8%)<br />Mail: 1030 (6%)<br />Event:
+          795 (5%)<br />Forgotten Hall: 200 (1%)<br />
         </td>
       </tr>
     </table>
@@ -203,7 +203,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>73</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -881,6 +881,117 @@
       </table>
     </details>
     <details open>
+      <summary><b>Topaz & Numby </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Topaz & Numby</h3></th>
+          <th><h3>Worrisome, Blissful</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/813182b8353b87e7ad867fd1ba673727.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/9ebbfd5ba0f27b9c5ac6e717f449f7e3.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/b64350f8478ee8640e1162e5b5854fc0.png"
+                    ,
+                    height="18"
+                  />
+                  Grand Duke's Crown of Netherflame<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/834a4a0535c85ea563b71b1ad4b518f6.png"
+                    ,
+                    height="18"
+                  />
+                  Grand Duke's Gloves of Fieryfur<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/560a30d73f7f712247f5068925cf62c0.png"
+                    ,
+                    height="18"
+                  />
+                  Grand Duke's Robe of Grace<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/85ca3a88fabb7a02a1497e54932931d1.png"
+                    ,
+                    height="18"
+                  />
+                  Grand Duke's Ceremonial Boots<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/6549d054a354f642b4e593762050a4b1.png"
+                    ,
+                    height="18"
+                  />
+                  Salsotto's Moving City<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/283fee1ca8499da6e8de209cd98c2c87.png"
+                    ,
+                    height="18"
+                  />
+                  Salsotto's Terminator Line<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Worrisome, Blissful</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>60</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details open>
       <summary><b>Kafka </b></summary>
       <br />
       <table>
@@ -1436,117 +1547,6 @@
       </table>
     </details>
     <details open>
-      <summary><b>Topaz & Numby </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Topaz & Numby</h3></th>
-          <th><h3>Worrisome, Blissful</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/813182b8353b87e7ad867fd1ba673727.png"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/9ebbfd5ba0f27b9c5ac6e717f449f7e3.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>70</td>
-              </tr>
-              <tr>
-                <td>Eidolon</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/b64350f8478ee8640e1162e5b5854fc0.png"
-                    ,
-                    height="18"
-                  />
-                  Grand Duke's Crown of Netherflame<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/834a4a0535c85ea563b71b1ad4b518f6.png"
-                    ,
-                    height="18"
-                  />
-                  Grand Duke's Gloves of Fieryfur<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/560a30d73f7f712247f5068925cf62c0.png"
-                    ,
-                    height="18"
-                  />
-                  Grand Duke's Robe of Grace<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/85ca3a88fabb7a02a1497e54932931d1.png"
-                    ,
-                    height="18"
-                  />
-                  Grand Duke's Ceremonial Boots<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Planar</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/6549d054a354f642b4e593762050a4b1.png"
-                    ,
-                    height="18"
-                  />
-                  Salsotto's Moving City<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/283fee1ca8499da6e8de209cd98c2c87.png"
-                    ,
-                    height="18"
-                  />
-                  Salsotto's Terminator Line<br />
-                </td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Worrisome, Blissful</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>19</td>
-              </tr>
-              <tr>
-                <td>Superimpose</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details open>
       <summary><b>Pela </b></summary>
       <br />
       <table>
@@ -1814,7 +1814,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>2</td>
+                <td>3</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -3550,7 +3550,7 @@
       <table>
         <tr>
           <th><h3>Hanya</h3></th>
-          <th><h3>Past and Future</h3></th>
+          <th><h3>Meshing Cogs</h3></th>
         </tr>
         <tr>
           <td>
@@ -3563,7 +3563,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/7f300525192552eb9e4041245b138895.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/4c37c08ffc3874b0f5ad0ab869678fb6.png"
               />
             </p>
           </td>
@@ -3640,15 +3640,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Past and Future</td>
+                <td>Meshing Cogs</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>63</td>
+                <td>30</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>1</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -4668,7 +4668,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -4699,7 +4699,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>23</td>
+        <td>24</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -4909,7 +4909,7 @@
           />
           Mora earned
         </td>
-        <td>564898 (rate 343)</td>
+        <td>569898 (rate 347)</td>
       </tr>
       <tr>
         <td>Categories</td>
@@ -6154,36 +6154,36 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_29_05_2024-19_09_47.png" />
+  <img src="images/showcase/genshin_card_30_05_2024-07_23_53.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_29_05_2024-19_09_48.png" />
+  <img src="images/showcase/genshin_card_30_05_2024-07_23_54.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_29_05_2024-19_10_33.png" />
+  <img src="images/showcase/Robin_30_05_2024-07_24_32.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_29_05_2024-19_10_33.png" />
+  <img src="images/showcase/Ruan-Mei_30_05_2024-07_24_32.png" />
 </details>
 <details align="center">
   <summary>Luocha</summary>
-  <img src="images/showcase/Luocha_29_05_2024-19_10_34.png" />
+  <img src="images/showcase/Luocha_30_05_2024-07_24_33.png" />
 </details>
 <details align="center">
   <summary>SaturnPrime</summary>
-  <img src="images/showcase/SaturnPrime_29_05_2024-19_10_34.png" />
+  <img src="images/showcase/SaturnPrime_30_05_2024-07_24_33.png" />
 </details>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_29_05_2024-19_10_34.png" />
+  <img src="images/showcase/Acheron_30_05_2024-07_24_34.png" />
 </details>
 <details align="center">
   <summary>Dr. Ratio</summary>
-  <img src="images/showcase/Dr.-Ratio_29_05_2024-19_10_35.png" />
+  <img src="images/showcase/Dr.-Ratio_30_05_2024-07_24_34.png" />
 </details>
 <h2 align="center">
   You can also check my HSR characters showcase/builds on
