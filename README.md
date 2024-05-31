@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 30, 2024 20:24 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>May 31, 2024 08:11 -0400</u></h3>
 <br />
 
 <details align="center" open>
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/SaturnPrime_31_05_2024-07_24_24.png" />
+    <img src="images/profile/SaturnPrime_31_05_2024-19_10_58.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>155</td>
+        <td>156</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>17110 (rate 123)</td>
+        <td>17160 (rate 124)</td>
       </tr>
       <tr>
         <td>
@@ -88,7 +88,7 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 8085 (47%)<br />Daily Activity: 3900 (22%)<br />Simulated
+          Adventure Rewards: 8135 (47%)<br />Daily Activity: 3900 (22%)<br />Simulated
           Universe: 1940 (11%)<br />Other: 920 (7%)<br />Event: 1035 (6%)<br />Mail:
           1030 (6%)<br />Forgotten Hall: 200 (1%)<br />
         </td>
@@ -1376,26 +1376,26 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/e330a017307d55fb849a16851db66b58.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/6b570d518c6fa60e4e824958a92442a5.png"
                     ,
                     height="18"
                   />
-                  Knight's Forgiving Casque<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/f1f67e4d5e1021d49274b09e5b6d3abb.png"
+                  Guard's Cast Iron Helmet<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/b90000c24b5cb79e822ab13cb1bb2fe9.png"
                     ,
                     height="18"
                   />
-                  Knight's Silent Oath Ring<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/bc208cf147adda697cf0c3d360e0de55.png"
+                  Guard's Shining Gauntlets<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/3b57f2cf3695bb102c5bfc82ff603d6b.png"
                     ,
                     height="18"
                   />
-                  Knight's Solemn Breastplate<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1d91c0384dc7e544a71d4ae65cc3b6e4.png"
+                  Guard's Uniform of Old<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/81dd31452203d0379c4b08e84d92bb9d.png"
                     ,
                     height="18"
                   />
-                  Knight's Iron Boots of Order<br />
+                  Guard's Silver Greaves<br />
                 </td>
               </tr>
               <tr>
@@ -1820,26 +1820,26 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/8a4d19bc91bc2b441f631ebafeca8884.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/e330a017307d55fb849a16851db66b58.png"
                     ,
                     height="18"
                   />
-                  Wastelander's Breathing Mask<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/05b984e639e7398ed502827309c28bcc.png"
+                  Knight's Forgiving Casque<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/f1f67e4d5e1021d49274b09e5b6d3abb.png"
                     ,
                     height="18"
                   />
-                  Wastelander's Desert Terminal<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/cb651e2eb6aa64d2049e4d4416f20f43.png"
+                  Knight's Silent Oath Ring<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/bc208cf147adda697cf0c3d360e0de55.png"
                     ,
                     height="18"
                   />
-                  Wastelander's Friar Robe<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/f5df38839b346290fa8a798f48492be2.png"
+                  Knight's Solemn Breastplate<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1d91c0384dc7e544a71d4ae65cc3b6e4.png"
                     ,
                     height="18"
                   />
-                  Wastelander's Powered Greaves<br />
+                  Knight's Iron Boots of Order<br />
                 </td>
               </tr>
               <tr>
@@ -2713,21 +2713,21 @@
                     height="18"
                   />
                   Knight's Forgiving Casque<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/95313b9f43b8a0b0c33302021f61c4a7.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/5e54ea18f949fde3292473b08e3a2a47.png"
                     ,
                     height="18"
                   />
-                  Disciple's Ingenium Hand<br /><img
+                  Thief's Gloves With Prints<br /><img
                     src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/80690f4b05462c8d9582f5620623e560.png"
                     ,
                     height="18"
                   />
                   Thief's Steel Grappling Hook<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/cc588a2802e006fd170fc43c93f4f47d.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/fc997a823f758328184eda3f670fed7a.png"
                     ,
                     height="18"
                   />
-                  Disciple's Celestial Silk Sandals<br />
+                  Genius's Gravity Walker<br />
                 </td>
               </tr>
               <tr>
@@ -2760,7 +2760,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>2</td>
+                <td>3</td>
               </tr>
             </table>
           </td>
@@ -3152,26 +3152,26 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/6b570d518c6fa60e4e824958a92442a5.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/3b00f87124d037a6a99c5ea1e673b7d0.png"
                     ,
                     height="18"
                   />
-                  Guard's Cast Iron Helmet<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/b90000c24b5cb79e822ab13cb1bb2fe9.png"
+                  Disciple's Prosthetic Eye<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/95313b9f43b8a0b0c33302021f61c4a7.png"
                     ,
                     height="18"
                   />
-                  Guard's Shining Gauntlets<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/3b57f2cf3695bb102c5bfc82ff603d6b.png"
+                  Disciple's Ingenium Hand<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/78ea5763adc82de7b5beceea414d5cce.png"
                     ,
                     height="18"
                   />
-                  Guard's Uniform of Old<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/81dd31452203d0379c4b08e84d92bb9d.png"
+                  Champion's Chest Guard<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/cc588a2802e006fd170fc43c93f4f47d.png"
                     ,
                     height="18"
                   />
-                  Guard's Silver Greaves<br />
+                  Disciple's Celestial Silk Sandals<br />
                 </td>
               </tr>
               <tr>
@@ -3929,26 +3929,26 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1fec5c124737ec6baf84e8ad041cede5.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1f38b8d397308cb57056d7f6dee2c6f4.png"
                     ,
                     height="18"
                   />
-                  Champion's Headgear<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/3b3cb18d45906e40404aa6196e159b36.png"
+                  Thief's Myriad-Faced Mask<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/5e54ea18f949fde3292473b08e3a2a47.png"
                     ,
                     height="18"
                   />
-                  Champion's Heavy Gloves<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/78ea5763adc82de7b5beceea414d5cce.png"
+                  Thief's Gloves With Prints<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/80690f4b05462c8d9582f5620623e560.png"
                     ,
                     height="18"
                   />
-                  Champion's Chest Guard<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/5b2f3f4c429c77220fd42b0775ff40cd.png"
+                  Thief's Steel Grappling Hook<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/7f9fa40993ccf581fcde1c4427934484.png"
                     ,
                     height="18"
                   />
-                  Champion's Fleetfoot Boots<br />
+                  Thief's Meteor Boots<br />
                 </td>
               </tr>
               <tr>
@@ -4203,7 +4203,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>1</td>
+                <td>2</td>
               </tr>
             </table>
           </td>
@@ -4314,7 +4314,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>2</td>
+                <td>3</td>
               </tr>
             </table>
           </td>
@@ -4536,7 +4536,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>3</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -4721,11 +4721,11 @@
                     height="18"
                   />
                   Watchmaker's Illusory Formal Suit<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/fc997a823f758328184eda3f670fed7a.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/e0f4c2e89f7a6bed2b187df337692493.png"
                     ,
                     height="18"
                   />
-                  Genius's Gravity Walker<br />
+                  Watchmaker's Dream-Concealing Dress Shoes<br />
                 </td>
               </tr>
               <tr>
@@ -6376,36 +6376,36 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_31_05_2024-07_23_26.png" />
+  <img src="images/showcase/genshin_card_31_05_2024-19_09_51.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_31_05_2024-07_23_27.png" />
+  <img src="images/showcase/genshin_card_31_05_2024-19_09_52.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_31_05_2024-07_24_02.png" />
+  <img src="images/showcase/Acheron_31_05_2024-19_10_32.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_31_05_2024-07_24_03.png" />
+  <img src="images/showcase/Ruan-Mei_31_05_2024-19_10_33.png" />
 </details>
 <details align="center">
   <summary>Luocha</summary>
-  <img src="images/showcase/Luocha_31_05_2024-07_24_03.png" />
+  <img src="images/showcase/Luocha_31_05_2024-19_10_33.png" />
 </details>
 <details align="center">
   <summary>SaturnPrime</summary>
-  <img src="images/showcase/SaturnPrime_31_05_2024-07_24_04.png" />
+  <img src="images/showcase/SaturnPrime_31_05_2024-19_10_34.png" />
 </details>
 <details align="center">
   <summary>Dr. Ratio</summary>
-  <img src="images/showcase/Dr.-Ratio_31_05_2024-07_24_04.png" />
+  <img src="images/showcase/Dr.-Ratio_31_05_2024-19_10_34.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_31_05_2024-07_24_04.png" />
+  <img src="images/showcase/Robin_31_05_2024-19_10_35.png" />
 </details>
 <h2 align="center">
   You can also check my HSR characters showcase/builds on
