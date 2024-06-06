@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 31, 2024 08:11 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 06, 2024 08:47 +0700</u></h3>
 <br />
 
 <details align="center" open>
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/SaturnPrime_31_05_2024-19_10_58.png" />
+    <img src="images/profile/SaturnPrime_06_06_2024-08_47_45.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>31</td>
+        <td>6</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Credit
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>156</td>
+        <td>160</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -56,11 +56,11 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>326</td>
+        <td>338</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>558</td>
+        <td>563</td>
       </tr>
     </table>
   </div>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>17160 (rate 124)</td>
+        <td>2194 (rate -87)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>61 (rate 45)</td>
+        <td>15 (rate -75)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 8135 (47%)<br />Daily Activity: 3900 (22%)<br />Simulated
-          Universe: 1940 (11%)<br />Other: 920 (7%)<br />Event: 1035 (6%)<br />Mail:
-          1030 (6%)<br />Forgotten Hall: 200 (1%)<br />
+          Event: 1060 (48%)<br />Adventure Rewards: 570 (25%)<br />Daily
+          Activity: 540 (24%)<br />Other: 4 (3%)<br />Simulated Universe: 0
+          (0%)<br />Forgotten Hall: 0 (0%)<br />Mail: 20 (0%)<br />
         </td>
       </tr>
     </table>
@@ -109,20 +109,20 @@
       <table>
         <tr>
           <th><h3>Trailblazer</h3></th>
-          <th><h3>I Shall Be My Own Sword</h3></th>
+          <th><h3>Flowing Nightglow</h3></th>
         </tr>
         <tr>
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/a6ab2048ac957f96df6c77971006517e.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1230194d719c7e01fad20fcff96de321.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/983945687ee8b25a6c29216369a34d47.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/208e8e797b1e08873e21c52d476ae375.png"
               />
             </p>
           </td>
@@ -138,7 +138,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
                     height="18"
                   />
                 </td>
@@ -149,48 +149,48 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>6</td>
+                <td>1</td>
               </tr>
               <tr>
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1f38b8d397308cb57056d7f6dee2c6f4.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/4ff34aa3236fe0bc5fd4b0e489785454.png"
                     ,
                     height="18"
                   />
-                  Thief's Myriad-Faced Mask<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/5e54ea18f949fde3292473b08e3a2a47.png"
+                  Watchmaker's Telescoping Lens<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/2934f431478e0267fedae92b60e5e1f4.png"
                     ,
                     height="18"
                   />
-                  Thief's Gloves With Prints<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/80690f4b05462c8d9582f5620623e560.png"
+                  Watchmaker's Fortuitous Wristwatch<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/e555076d57660e7a1669b0a3de26710d.png"
                     ,
                     height="18"
                   />
-                  Thief's Steel Grappling Hook<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/7f9fa40993ccf581fcde1c4427934484.png"
+                  Watchmaker's Illusory Formal Suit<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/e0f4c2e89f7a6bed2b187df337692493.png"
                     ,
                     height="18"
                   />
-                  Thief's Meteor Boots<br />
+                  Watchmaker's Dream-Concealing Dress Shoes<br />
                 </td>
               </tr>
               <tr>
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/046bb6c4e21bff57379671fed17249e8.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/c43bd058a4142ce7b5163499414202dc.png"
                     ,
                     height="18"
                   />
-                  Herta's Space Station<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/6e81c0839775ce2e528626126863bafd.png"
+                  Talia's Nailscrap Town<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/adc2ed5105891620a31b2366aede8309.png"
                     ,
                     height="18"
                   />
-                  Herta's Wandering Trek<br />
+                  Talia's Exposed Electric Wire<br />
                 </td>
               </tr>
             </table>
@@ -199,11 +199,11 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>I Shall Be My Own Sword</td>
+                <td>Flowing Nightglow</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>47</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -548,6 +548,117 @@
       </table>
     </details>
     <details open>
+      <summary><b>Aventurine </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Aventurine</h3></th>
+          <th><h3>Inherently Unjust Destiny</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/a8e5c612a6a97d6987fa9b69ec6666b3.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/c764971b8ded3bc944dcc4d557266342.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/e330a017307d55fb849a16851db66b58.png"
+                    ,
+                    height="18"
+                  />
+                  Knight's Forgiving Casque<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/f1f67e4d5e1021d49274b09e5b6d3abb.png"
+                    ,
+                    height="18"
+                  />
+                  Knight's Silent Oath Ring<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/bc208cf147adda697cf0c3d360e0de55.png"
+                    ,
+                    height="18"
+                  />
+                  Knight's Solemn Breastplate<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1d91c0384dc7e544a71d4ae65cc3b6e4.png"
+                    ,
+                    height="18"
+                  />
+                  Knight's Iron Boots of Order<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/6549d054a354f642b4e593762050a4b1.png"
+                    ,
+                    height="18"
+                  />
+                  Salsotto's Moving City<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/283fee1ca8499da6e8de209cd98c2c87.png"
+                    ,
+                    height="18"
+                  />
+                  Salsotto's Terminator Line<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Inherently Unjust Destiny</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>75</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details open>
       <summary><b>Bailu </b></summary>
       <br />
       <table>
@@ -826,16 +937,16 @@
                     height="18"
                   />
                   Passerby's Rejuvenated Wooden Hairstick<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/9e5e797613fb2ca19145b1494d92c553.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/5e54ea18f949fde3292473b08e3a2a47.png"
                     ,
                     height="18"
                   />
-                  Passerby's Roaming Dragon Bracer<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/61743d037f48e43933d70ececbb0f00c.png"
+                  Thief's Gloves With Prints<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/80690f4b05462c8d9582f5620623e560.png"
                     ,
                     height="18"
                   />
-                  Passerby's Ragged Embroided Coat<br /><img
+                  Thief's Steel Grappling Hook<br /><img
                     src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/ff5a99ab02dfc023723cf3382abd1269.png"
                     ,
                     height="18"
@@ -1259,7 +1370,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>0</td>
+                <td>1</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -1477,7 +1588,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td>77</td>
               </tr>
               <tr>
                 <td>Eidolon</td>
@@ -1536,6 +1647,117 @@
               <tr>
                 <td>Level</td>
                 <td>1</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details open>
+      <summary><b>Jingliu </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Jingliu</h3></th>
+          <th><h3>Nowhere to Run</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/a8861828e861d1d42ce2ae2655330507.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/58e676aeaeb7f2ea8bad1980bb2d042d.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>70</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/22340d41e3118708f04b11899cf202d7.png"
+                    ,
+                    height="18"
+                  />
+                  Hunter's Artaius Hood<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/f944a0f2238893b7c9680f18c3942184.png"
+                    ,
+                    height="18"
+                  />
+                  Hunter's Lizard Gloves<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/3060d1bd7d7a95dc231a01b739e90680.png"
+                    ,
+                    height="18"
+                  />
+                  Hunter's Ice Dragon Cloak<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/4b62823b69817f1290e20b44e82a2f6e.png"
+                    ,
+                    height="18"
+                  />
+                  Hunter's Soft Elkskin Boots<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/ad07460e3dc559dbd4ffb42713ed142a.png"
+                    ,
+                    height="18"
+                  />
+                  Taikiyan Laser Stadium<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/93132a48e1f1d93cdd591de94cac017e.png"
+                    ,
+                    height="18"
+                  />
+                  Taikiyan's Arclight Race Track<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Nowhere to Run</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>50</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -1650,7 +1872,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>1</td>
+                <td>4</td>
               </tr>
             </table>
           </td>
@@ -1758,117 +1980,6 @@
               <tr>
                 <td>Level</td>
                 <td>60</td>
-              </tr>
-              <tr>
-                <td>Superimpose</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details open>
-      <summary><b>Aventurine </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Aventurine</h3></th>
-          <th><h3>Inherently Unjust Destiny</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/a8e5c612a6a97d6987fa9b69ec6666b3.png"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/c764971b8ded3bc944dcc4d557266342.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>68</td>
-              </tr>
-              <tr>
-                <td>Eidolon</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/e330a017307d55fb849a16851db66b58.png"
-                    ,
-                    height="18"
-                  />
-                  Knight's Forgiving Casque<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/f1f67e4d5e1021d49274b09e5b6d3abb.png"
-                    ,
-                    height="18"
-                  />
-                  Knight's Silent Oath Ring<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/bc208cf147adda697cf0c3d360e0de55.png"
-                    ,
-                    height="18"
-                  />
-                  Knight's Solemn Breastplate<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1d91c0384dc7e544a71d4ae65cc3b6e4.png"
-                    ,
-                    height="18"
-                  />
-                  Knight's Iron Boots of Order<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Planar</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/6549d054a354f642b4e593762050a4b1.png"
-                    ,
-                    height="18"
-                  />
-                  Salsotto's Moving City<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/283fee1ca8499da6e8de209cd98c2c87.png"
-                    ,
-                    height="18"
-                  />
-                  Salsotto's Terminator Line<br />
-                </td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Inherently Unjust Destiny</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>62</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -2179,16 +2290,16 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/ad07460e3dc559dbd4ffb42713ed142a.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/046bb6c4e21bff57379671fed17249e8.png"
                     ,
                     height="18"
                   />
-                  Taikiyan Laser Stadium<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/93132a48e1f1d93cdd591de94cac017e.png"
+                  Herta's Space Station<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/6e81c0839775ce2e528626126863bafd.png"
                     ,
                     height="18"
                   />
-                  Taikiyan's Arclight Race Track<br />
+                  Herta's Wandering Trek<br />
                 </td>
               </tr>
             </table>
@@ -2435,25 +2546,25 @@
       </table>
     </details>
     <details open>
-      <summary><b>Jingliu </b></summary>
+      <summary><b>Boothill </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Jingliu</h3></th>
-          <th><h3>Nowhere to Run</h3></th>
+          <th><h3>Boothill</h3></th>
+          <th><h3>Sleep Like the Dead</h3></th>
         </tr>
         <tr>
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/a8861828e861d1d42ce2ae2655330507.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/abc6925ea9eb0800ac6f4718334af339.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/58e676aeaeb7f2ea8bad1980bb2d042d.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/34ebc2c109efe4dba574682266f9bebd.png"
               />
             </p>
           </td>
@@ -2469,14 +2580,14 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
                     height="18"
                   />
                 </td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>62</td>
+                <td>60</td>
               </tr>
               <tr>
                 <td>Eidolon</td>
@@ -2486,42 +2597,42 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/22340d41e3118708f04b11899cf202d7.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1f38b8d397308cb57056d7f6dee2c6f4.png"
                     ,
                     height="18"
                   />
-                  Hunter's Artaius Hood<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/f944a0f2238893b7c9680f18c3942184.png"
+                  Thief's Myriad-Faced Mask<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/5e54ea18f949fde3292473b08e3a2a47.png"
                     ,
                     height="18"
                   />
-                  Hunter's Lizard Gloves<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/3060d1bd7d7a95dc231a01b739e90680.png"
+                  Thief's Gloves With Prints<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/80690f4b05462c8d9582f5620623e560.png"
                     ,
                     height="18"
                   />
-                  Hunter's Ice Dragon Cloak<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/4b62823b69817f1290e20b44e82a2f6e.png"
+                  Thief's Steel Grappling Hook<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/7f9fa40993ccf581fcde1c4427934484.png"
                     ,
                     height="18"
                   />
-                  Hunter's Soft Elkskin Boots<br />
+                  Thief's Meteor Boots<br />
                 </td>
               </tr>
               <tr>
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/6549d054a354f642b4e593762050a4b1.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/c43bd058a4142ce7b5163499414202dc.png"
                     ,
                     height="18"
                   />
-                  Salsotto's Moving City<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/283fee1ca8499da6e8de209cd98c2c87.png"
+                  Talia's Nailscrap Town<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/adc2ed5105891620a31b2366aede8309.png"
                     ,
                     height="18"
                   />
-                  Salsotto's Terminator Line<br />
+                  Talia's Exposed Electric Wire<br />
                 </td>
               </tr>
             </table>
@@ -2530,15 +2641,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Nowhere to Run</td>
+                <td>Sleep Like the Dead</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>50</td>
+                <td>30</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>1</td>
+                <td>2</td>
               </tr>
             </table>
           </td>
@@ -2713,11 +2824,11 @@
                     height="18"
                   />
                   Knight's Forgiving Casque<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/5e54ea18f949fde3292473b08e3a2a47.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/cdea04880128862d1b77ee198f2b4b58.png"
                     ,
                     height="18"
                   />
-                  Thief's Gloves With Prints<br /><img
+                  Pioneer's Lacuna Compass<br /><img
                     src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/80690f4b05462c8d9582f5620623e560.png"
                     ,
                     height="18"
@@ -3157,11 +3268,11 @@
                     height="18"
                   />
                   Disciple's Prosthetic Eye<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/95313b9f43b8a0b0c33302021f61c4a7.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/2934f431478e0267fedae92b60e5e1f4.png"
                     ,
                     height="18"
                   />
-                  Disciple's Ingenium Hand<br /><img
+                  Watchmaker's Fortuitous Wristwatch<br /><img
                     src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/78ea5763adc82de7b5beceea414d5cce.png"
                     ,
                     height="18"
@@ -3759,7 +3870,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -4696,7 +4807,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>10</td>
+                <td>50</td>
               </tr>
               <tr>
                 <td>Eidolon</td>
@@ -4711,11 +4822,11 @@
                     height="18"
                   />
                   Genius's Ultraremote Sensing Visor<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/2934f431478e0267fedae92b60e5e1f4.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/95313b9f43b8a0b0c33302021f61c4a7.png"
                     ,
                     height="18"
                   />
-                  Watchmaker's Fortuitous Wristwatch<br /><img
+                  Disciple's Ingenium Hand<br /><img
                     src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/e555076d57660e7a1669b0a3de26710d.png"
                     ,
                     height="18"
@@ -4765,117 +4876,6 @@
         </tr>
       </table>
     </details>
-    <details open>
-      <summary><b>Boothill </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Boothill</h3></th>
-          <th><h3>Sleep Like the Dead</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/abc6925ea9eb0800ac6f4718334af339.png"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/34ebc2c109efe4dba574682266f9bebd.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Eidolon</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1f38b8d397308cb57056d7f6dee2c6f4.png"
-                    ,
-                    height="18"
-                  />
-                  Thief's Myriad-Faced Mask<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/5e54ea18f949fde3292473b08e3a2a47.png"
-                    ,
-                    height="18"
-                  />
-                  Thief's Gloves With Prints<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/80690f4b05462c8d9582f5620623e560.png"
-                    ,
-                    height="18"
-                  />
-                  Thief's Steel Grappling Hook<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/7f9fa40993ccf581fcde1c4427934484.png"
-                    ,
-                    height="18"
-                  />
-                  Thief's Meteor Boots<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Planar</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/c43bd058a4142ce7b5163499414202dc.png"
-                    ,
-                    height="18"
-                  />
-                  Talia's Nailscrap Town<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/adc2ed5105891620a31b2366aede8309.png"
-                    ,
-                    height="18"
-                  />
-                  Talia's Exposed Electric Wire<br />
-                </td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Sleep Like the Dead</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>30</td>
-              </tr>
-              <tr>
-                <td>Superimpose</td>
-                <td>2</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
   </div>
 </details>
 <details align="center">
@@ -4890,17 +4890,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>31</td>
+        <td>4</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          20 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
             height="20"
           />
-          Mora
+          Primogem
         </td>
       </tr>
     </table>
@@ -4921,7 +4921,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>24</td>
+        <td>25</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -5121,7 +5121,7 @@
           />
           Primogems earned
         </td>
-        <td>1415 (rate 272)</td>
+        <td>0 (rate -100)</td>
       </tr>
       <tr>
         <td>
@@ -5131,14 +5131,14 @@
           />
           Mora earned
         </td>
-        <td>569898 (rate 347)</td>
+        <td>0 (rate -100)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 540 (38%)<br />Adventure: 354 (25%)<br />Events: 300
-          (21%)<br />Quests: 160 (11%)<br />Mail: 60 (4%)<br />Spiral Abyss: 0
-          (0%)<br />Other: 1 (1%)<br />
+          Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0
+          (0%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+          0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -5172,7 +5172,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/f5fa626d08bb517e4901f8fbde0c836d.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/8ac48ec25d0eba3deb2ad3e3688f82ed.png"
                 height="250"
               />
             </p>
@@ -5213,23 +5213,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/ebfcbe1961fff8a76cc9264b3ff4db89.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/d7389a7634fcc2f2f690071424c70d83.png"
                     height="18"
                   />
                   Lucky Dog's Clover<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/dbbcf478eab20c51f100c66f30388438.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/de28ee9cabceb589e5d4c3f6e3c558ad.png"
                     height="18"
                   />
                   Adventurer's Tail Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/690969b7f42bc4708fa9712dcf63642e.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/b46733cba02ebd5eed9a3e58ff28f17f.png"
                     height="18"
                   />
                   Adventurer's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/1a5c73af6e7b2a04f9ee808edb226d7b.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/75484152b6bd30208aba1eeb47d01277.png"
                     height="18"
                   />
                   Adventurer's Golden Goblet<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/e41c572dc714755ffc80306d1be3b65b.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/f2ed42184b67e818d324b3ba0b4d9393.png"
                     height="18"
                   />
                   Traveling Doctor's Handkerchief<br />
@@ -5284,7 +5284,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/717309d3c1fb16735e8bca670f469b45.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/e6fcccdfcf9be6477f122adf4a976b9a.png"
                 height="250"
               />
             </p>
@@ -5325,23 +5325,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/181fde541d7f391a9bdf980e9a1de431.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/949964490865684b7cd62058b2bcad6f.png"
                     height="18"
                   />
                   Berserker's Rose<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/dbbcf478eab20c51f100c66f30388438.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/de28ee9cabceb589e5d4c3f6e3c558ad.png"
                     height="18"
                   />
                   Adventurer's Tail Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/fa61994748a68e1bab388560b69dc1bb.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/f0fbe5e3c53d69a6758e86f304d05f35.png"
                     height="18"
                   />
                   Traveling Doctor's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/1327350508323f608069f97d7a0cb78a.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/adb09b3c59cb1ec5f4dfdb044e6fe280.png"
                     height="18"
                   />
                   Berserker's Bone Goblet<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/b6475349fed868a4bcd5344354f3ba27.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/7f04099dba55201b84d630b441526399.png"
                     height="18"
                   />
                   Adventurer's Bandana<br />
@@ -5396,7 +5396,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/dea3163d4630d69111c26c6f1f7fac48.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/555161ba9f9879428992ab25e5a45703.png"
                 height="250"
               />
             </p>
@@ -5436,15 +5436,15 @@
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/b39394ffa473197ed3ed7d3f51085b2c.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/c92429b8615f755718d022327d7b1b61.png"
                     height="18"
                   />
                   Traveling Doctor's Silver Lotus<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/dbbcf478eab20c51f100c66f30388438.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/de28ee9cabceb589e5d4c3f6e3c558ad.png"
                     height="18"
                   />
                   Adventurer's Tail Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/690969b7f42bc4708fa9712dcf63642e.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/b46733cba02ebd5eed9a3e58ff28f17f.png"
                     height="18"
                   />
                   Adventurer's Pocket Watch<br />
@@ -5499,7 +5499,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/dea3163d4630d69111c26c6f1f7fac48.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/555161ba9f9879428992ab25e5a45703.png"
                 height="250"
               />
             </p>
@@ -5540,23 +5540,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/b39394ffa473197ed3ed7d3f51085b2c.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/c92429b8615f755718d022327d7b1b61.png"
                     height="18"
                   />
                   Traveling Doctor's Silver Lotus<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/188a0707ddfeea8016478b7b54cb67a7.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/df35d476c62a1e35342ea33fd8dca3fc.png"
                     height="18"
                   />
                   Traveling Doctor's Owl Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/fa61994748a68e1bab388560b69dc1bb.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/f0fbe5e3c53d69a6758e86f304d05f35.png"
                     height="18"
                   />
                   Traveling Doctor's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/1a5c73af6e7b2a04f9ee808edb226d7b.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/75484152b6bd30208aba1eeb47d01277.png"
                     height="18"
                   />
                   Adventurer's Golden Goblet<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/fc2cf3c1a3027e9568113871cd682a89.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/6922cf7b0e2241a4f7d44e322dcbb320.png"
                     height="18"
                   />
                   Lucky Dog's Silver Circlet<br />
@@ -5611,7 +5611,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/f5fa626d08bb517e4901f8fbde0c836d.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/8ac48ec25d0eba3deb2ad3e3688f82ed.png"
                 height="250"
               />
             </p>
@@ -5651,23 +5651,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/b39394ffa473197ed3ed7d3f51085b2c.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/c92429b8615f755718d022327d7b1b61.png"
                     height="18"
                   />
                   Traveling Doctor's Silver Lotus<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/9039fc668b6b5de7dfa729945892bd08.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/76aea29cc65a84eafa6aa4e55bf63347.png"
                     height="18"
                   />
                   Berserker's Indigo Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/fa61994748a68e1bab388560b69dc1bb.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/f0fbe5e3c53d69a6758e86f304d05f35.png"
                     height="18"
                   />
                   Traveling Doctor's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/a4ccd324ec0680ffe6abd78a07ae3063.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/01726f101a728b373b0af9ac3bb30e40.png"
                     height="18"
                   />
                   Traveling Doctor's Medicine Pot<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/0aa39de7397a716bf8f74a467935000f.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/f63e00897b37c0fd3ce0adb21dc10977.png"
                     height="18"
                   />
                   Berserker's Battle Mask<br />
@@ -5722,7 +5722,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/68f4af20b6d0bfa8cc228fa2e39b1348.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/06112f5bfa6a0d38f6bcd73f78c2325a.png"
                 height="250"
               />
             </p>
@@ -5762,23 +5762,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/b39394ffa473197ed3ed7d3f51085b2c.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/c92429b8615f755718d022327d7b1b61.png"
                     height="18"
                   />
                   Traveling Doctor's Silver Lotus<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/dbbcf478eab20c51f100c66f30388438.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/de28ee9cabceb589e5d4c3f6e3c558ad.png"
                     height="18"
                   />
                   Adventurer's Tail Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/fa61994748a68e1bab388560b69dc1bb.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/f0fbe5e3c53d69a6758e86f304d05f35.png"
                     height="18"
                   />
                   Traveling Doctor's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/a4ccd324ec0680ffe6abd78a07ae3063.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/01726f101a728b373b0af9ac3bb30e40.png"
                     height="18"
                   />
                   Traveling Doctor's Medicine Pot<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/e41c572dc714755ffc80306d1be3b65b.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/f2ed42184b67e818d324b3ba0b4d9393.png"
                     height="18"
                   />
                   Traveling Doctor's Handkerchief<br />
@@ -5833,7 +5833,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/9fb274ac05da387e038465adf61b4e10.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/1657f8f909f6f149ba8bdab952aab577.png"
                 height="250"
               />
             </p>
@@ -5874,23 +5874,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/02ed81690f73418ae8f005ab7567d554.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/1cff3aff0596f3bce2381e8b9be3d042.png"
                     height="18"
                   />
                   Instructor's Brooch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/9039fc668b6b5de7dfa729945892bd08.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/76aea29cc65a84eafa6aa4e55bf63347.png"
                     height="18"
                   />
                   Berserker's Indigo Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/fa61994748a68e1bab388560b69dc1bb.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/f0fbe5e3c53d69a6758e86f304d05f35.png"
                     height="18"
                   />
                   Traveling Doctor's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/a4ccd324ec0680ffe6abd78a07ae3063.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/01726f101a728b373b0af9ac3bb30e40.png"
                     height="18"
                   />
                   Traveling Doctor's Medicine Pot<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/5b152c7cfe732d88071ca4bc429a7907.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/680de0a847540c5fb39c5de8aa128763.png"
                     height="18"
                   />
                   Broken Rime's Echo<br />
@@ -5945,7 +5945,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/983441fc0e8195532e87bb5010eae356.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/30ba8ef8e33e471bde6ca2ce9b286c80.png"
                 height="250"
               />
             </p>
@@ -5986,23 +5986,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/6770f7f78716b5d03bfa2a7a2dcb726c.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/02873569ac6f3cd5b4680565d4878a5f.png"
                     height="18"
                   />
                   Adventurer's Flower<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/188a0707ddfeea8016478b7b54cb67a7.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/df35d476c62a1e35342ea33fd8dca3fc.png"
                     height="18"
                   />
                   Traveling Doctor's Owl Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/4fc0d4fd017945db696635f042ace7e7.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/aab08137d7c17db693403861e5d30a1b.png"
                     height="18"
                   />
                   Berserker's Timepiece<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/1327350508323f608069f97d7a0cb78a.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/adb09b3c59cb1ec5f4dfdb044e6fe280.png"
                     height="18"
                   />
                   Berserker's Bone Goblet<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/b6475349fed868a4bcd5344354f3ba27.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/7f04099dba55201b84d630b441526399.png"
                     height="18"
                   />
                   Adventurer's Bandana<br />
@@ -6057,7 +6057,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/af578c62d2bed978223c29c79507cc06.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/7a9b12d4632c626bd8208edd9a17c50f.png"
                 height="250"
               />
             </p>
@@ -6097,23 +6097,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/6770f7f78716b5d03bfa2a7a2dcb726c.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/02873569ac6f3cd5b4680565d4878a5f.png"
                     height="18"
                   />
                   Adventurer's Flower<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/188a0707ddfeea8016478b7b54cb67a7.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/df35d476c62a1e35342ea33fd8dca3fc.png"
                     height="18"
                   />
                   Traveling Doctor's Owl Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/fa61994748a68e1bab388560b69dc1bb.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/f0fbe5e3c53d69a6758e86f304d05f35.png"
                     height="18"
                   />
                   Traveling Doctor's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/1a5c73af6e7b2a04f9ee808edb226d7b.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/75484152b6bd30208aba1eeb47d01277.png"
                     height="18"
                   />
                   Adventurer's Golden Goblet<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/b6475349fed868a4bcd5344354f3ba27.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/7f04099dba55201b84d630b441526399.png"
                     height="18"
                   />
                   Adventurer's Bandana<br />
@@ -6168,7 +6168,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/75f61a07b5284e53bf6dbbbec82944bd.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/a6afafcbb8f9c0447770861f76c25a91.png"
                 height="250"
               />
             </p>
@@ -6208,23 +6208,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/b39394ffa473197ed3ed7d3f51085b2c.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/c92429b8615f755718d022327d7b1b61.png"
                     height="18"
                   />
                   Traveling Doctor's Silver Lotus<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/dbbcf478eab20c51f100c66f30388438.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/de28ee9cabceb589e5d4c3f6e3c558ad.png"
                     height="18"
                   />
                   Adventurer's Tail Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/fa61994748a68e1bab388560b69dc1bb.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/f0fbe5e3c53d69a6758e86f304d05f35.png"
                     height="18"
                   />
                   Traveling Doctor's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/a4ccd324ec0680ffe6abd78a07ae3063.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/01726f101a728b373b0af9ac3bb30e40.png"
                     height="18"
                   />
                   Traveling Doctor's Medicine Pot<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/e41c572dc714755ffc80306d1be3b65b.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/f2ed42184b67e818d324b3ba0b4d9393.png"
                     height="18"
                   />
                   Traveling Doctor's Handkerchief<br />
@@ -6279,7 +6279,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/f5fa626d08bb517e4901f8fbde0c836d.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/8ac48ec25d0eba3deb2ad3e3688f82ed.png"
                 height="250"
               />
             </p>
@@ -6320,23 +6320,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/181fde541d7f391a9bdf980e9a1de431.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/949964490865684b7cd62058b2bcad6f.png"
                     height="18"
                   />
                   Berserker's Rose<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/9039fc668b6b5de7dfa729945892bd08.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/76aea29cc65a84eafa6aa4e55bf63347.png"
                     height="18"
                   />
                   Berserker's Indigo Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/690969b7f42bc4708fa9712dcf63642e.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/b46733cba02ebd5eed9a3e58ff28f17f.png"
                     height="18"
                   />
                   Adventurer's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/1a5c73af6e7b2a04f9ee808edb226d7b.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/75484152b6bd30208aba1eeb47d01277.png"
                     height="18"
                   />
                   Adventurer's Golden Goblet<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/e41c572dc714755ffc80306d1be3b65b.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u45fag/f2ed42184b67e818d324b3ba0b4d9393.png"
                     height="18"
                   />
                   Traveling Doctor's Handkerchief<br />
@@ -6376,36 +6376,36 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_31_05_2024-19_09_51.png" />
+  <img src="images/showcase/genshin_card_06_06_2024-08_46_50.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_31_05_2024-19_09_52.png" />
+  <img src="images/showcase/genshin_card_06_06_2024-08_46_51.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_31_05_2024-19_10_32.png" />
+  <img src="images/showcase/Acheron_06_06_2024-08_47_28.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_31_05_2024-19_10_33.png" />
+  <img src="images/showcase/Ruan-Mei_06_06_2024-08_47_28.png" />
 </details>
 <details align="center">
   <summary>Luocha</summary>
-  <img src="images/showcase/Luocha_31_05_2024-19_10_33.png" />
+  <img src="images/showcase/Luocha_06_06_2024-08_47_29.png" />
 </details>
 <details align="center">
   <summary>SaturnPrime</summary>
-  <img src="images/showcase/SaturnPrime_31_05_2024-19_10_34.png" />
+  <img src="images/showcase/SaturnPrime_06_06_2024-08_47_29.png" />
 </details>
 <details align="center">
   <summary>Dr. Ratio</summary>
-  <img src="images/showcase/Dr.-Ratio_31_05_2024-19_10_34.png" />
+  <img src="images/showcase/Dr.-Ratio_06_06_2024-08_47_30.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_31_05_2024-19_10_35.png" />
+  <img src="images/showcase/Robin_06_06_2024-08_47_30.png" />
 </details>
 <h2 align="center">
   You can also check my HSR characters showcase/builds on
