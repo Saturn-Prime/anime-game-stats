@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 07, 2024 17:01 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 07, 2024 21:19 -0400</u></h3>
 <br />
 
 <details align="center" open>
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/SaturnPrime_08_06_2024-04_01_24.png" />
+    <img src="images/profile/SaturnPrime_08_06_2024-08_19_11.png" />
   </div>
   <div align="center">
     <h2>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>3029 (rate -82)</td>
+        <td>3329 (rate -80)</td>
       </tr>
       <tr>
         <td>
@@ -88,9 +88,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Event: 1100 (36%)<br />Daily Activity: 930 (30%)<br />Adventure
-          Rewards: 580 (19%)<br />Simulated Universe: 395 (13%)<br />Other: 4
-          (2%)<br />Forgotten Hall: 0 (0%)<br />Mail: 20 (0%)<br />
+          Event: 1100 (33%)<br />Daily Activity: 930 (27%)<br />Adventure
+          Rewards: 580 (17%)<br />Simulated Universe: 395 (11%)<br />Mail: 320
+          (9%)<br />Other: 4 (3%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -6376,36 +6376,36 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_08_06_2024-04_00_33.png" />
+  <img src="images/showcase/genshin_card_08_06_2024-08_17_59.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_08_06_2024-04_00_33.png" />
+  <img src="images/showcase/genshin_card_08_06_2024-08_18_01.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_08_06_2024-04_01_03.png" />
+  <img src="images/showcase/Acheron_08_06_2024-08_18_37.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_08_06_2024-04_01_03.png" />
+  <img src="images/showcase/Ruan-Mei_08_06_2024-08_18_38.png" />
 </details>
 <details align="center">
   <summary>Luocha</summary>
-  <img src="images/showcase/Luocha_08_06_2024-04_01_03.png" />
+  <img src="images/showcase/Luocha_08_06_2024-08_18_38.png" />
 </details>
 <details align="center">
   <summary>SaturnPrime</summary>
-  <img src="images/showcase/SaturnPrime_08_06_2024-04_01_04.png" />
+  <img src="images/showcase/SaturnPrime_08_06_2024-08_18_39.png" />
 </details>
 <details align="center">
   <summary>Dr. Ratio</summary>
-  <img src="images/showcase/Dr.-Ratio_08_06_2024-04_01_04.png" />
+  <img src="images/showcase/Dr.-Ratio_08_06_2024-08_18_39.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_08_06_2024-04_01_04.png" />
+  <img src="images/showcase/Robin_08_06_2024-08_18_40.png" />
 </details>
 <h2 align="center">
   You can also check my HSR characters showcase/builds on
