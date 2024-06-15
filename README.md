@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 15, 2024 01:20 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 15, 2024 09:10 -0400</u></h3>
 <br />
 
 <details align="center" open>
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/SaturnPrime_15_06_2024-12_19_47.png" />
+    <img src="images/profile/SaturnPrime_15_06_2024-20_10_26.png" />
   </div>
   <div align="center">
     <h2>
@@ -6463,36 +6463,36 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_15_06_2024-12_18_44.png" />
+  <img src="images/showcase/genshin_card_15_06_2024-20_09_24.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_15_06_2024-12_18_45.png" />
+  <img src="images/showcase/genshin_card_15_06_2024-20_09_25.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_15_06_2024-12_19_29.png" />
+  <img src="images/showcase/Acheron_15_06_2024-20_10_05.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_15_06_2024-12_19_29.png" />
+  <img src="images/showcase/Ruan-Mei_15_06_2024-20_10_06.png" />
 </details>
 <details align="center">
   <summary>Luocha</summary>
-  <img src="images/showcase/Luocha_15_06_2024-12_19_30.png" />
+  <img src="images/showcase/Luocha_15_06_2024-20_10_06.png" />
 </details>
 <details align="center">
   <summary>SaturnPrime</summary>
-  <img src="images/showcase/SaturnPrime_15_06_2024-12_19_30.png" />
+  <img src="images/showcase/SaturnPrime_15_06_2024-20_10_07.png" />
 </details>
 <details align="center">
   <summary>Dr. Ratio</summary>
-  <img src="images/showcase/Dr.-Ratio_15_06_2024-12_19_31.png" />
+  <img src="images/showcase/Dr.-Ratio_15_06_2024-20_10_07.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_15_06_2024-12_19_31.png" />
+  <img src="images/showcase/Robin_15_06_2024-20_10_08.png" />
 </details>
 <h2 align="center">
   You can also check my HSR characters showcase/builds on
