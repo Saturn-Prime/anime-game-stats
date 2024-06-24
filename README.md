@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 23, 2024 09:10 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 24, 2024 09:11 -0400</u></h3>
 <br />
 
 <details align="center" open>
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/SaturnPrime_23_06_2024-20_10_15.png" />
+    <img src="images/profile/SaturnPrime_24_06_2024-20_11_06.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>23</td>
+        <td>24</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Lost Gold Fragment
+          Credit
         </td>
       </tr>
     </table>
@@ -52,11 +52,11 @@
       </tr>
       <tr>
         <td>Total Avatar</td>
-        <td>43</td>
+        <td>44</td>
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>367</td>
+        <td>372</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>13353 (rate -22)</td>
+        <td>14383 (rate -17)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>30 (rate -50)</td>
+        <td>35 (rate -42)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 3240 (24%)<br />Event: 3065 (22%)<br />Adventure
-          Rewards: 2125 (15%)<br />Forgotten Hall: 1700 (12%)<br />Other: 898
-          (11%)<br />Simulated Universe: 1315 (9%)<br />Mail: 1010 (7%)<br />
+          Event: 3965 (27%)<br />Daily Activity: 3270 (22%)<br />Adventure
+          Rewards: 2225 (15%)<br />Forgotten Hall: 1700 (11%)<br />Simulated
+          Universe: 1315 (9%)<br />Other: 898 (9%)<br />Mail: 1010 (7%)<br />
         </td>
       </tr>
     </table>
@@ -1658,6 +1658,117 @@
       </table>
     </details>
     <details open>
+      <summary><b>Firefly </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Firefly</h3></th>
+          <th><h3>On the Fall of an Aeon</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/8c236e078a2dea456d3703fa639f9704.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/d925207ff21b515b2e06a0156103028e.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>70</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/7c5d4da18ada0bdb6339de7b5b8231ea.png"
+                    ,
+                    height="18"
+                  />
+                  Genius's Ultraremote Sensing Visor<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/445d62f345cbfff890200d435bb890d6.png"
+                    ,
+                    height="18"
+                  />
+                  Grand Duke's Gloves of Fieryfur<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/35bf82dee23a46be4a3fa3a5b7561b2f.png"
+                    ,
+                    height="18"
+                  />
+                  Champion's Chest Guard<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/ebbbe07d5b631e005380ed5e24b2c4f8.png"
+                    ,
+                    height="18"
+                  />
+                  Watchmaker's Dream-Concealing Dress Shoes<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/f2798db07b3f0ae570e88d419b8b7d94.png"
+                    ,
+                    height="18"
+                  />
+                  Talia's Nailscrap Town<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/076c17b66005170f2822d7bcb6135252.png"
+                    ,
+                    height="18"
+                  />
+                  Talia's Exposed Electric Wire<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>On the Fall of an Aeon</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details open>
       <summary><b>Jingliu </b></summary>
       <br />
       <table>
@@ -2813,7 +2924,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -4367,7 +4478,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -4890,17 +5001,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>21</td>
+        <td>22</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          5 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Mora
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -4921,7 +5032,7 @@
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>26</td>
+        <td>27</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -5121,7 +5232,7 @@
           />
           Primogems earned
         </td>
-        <td>420 (rate -70)</td>
+        <td>460 (rate -67)</td>
       </tr>
       <tr>
         <td>
@@ -5131,12 +5242,12 @@
           />
           Mora earned
         </td>
-        <td>65600 (rate -88)</td>
+        <td>100900 (rate -82)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 420 (100%)<br />Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral
+          Mail: 460 (100%)<br />Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral
           Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other: 0
           (0%)<br />
         </td>
@@ -6463,36 +6574,36 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_23_06_2024-20_09_07.png" />
+  <img src="images/showcase/genshin_card_24_06_2024-20_09_57.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_23_06_2024-20_09_08.png" />
+  <img src="images/showcase/genshin_card_24_06_2024-20_09_58.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_23_06_2024-20_09_52.png" />
+  <img src="images/showcase/Acheron_24_06_2024-20_10_48.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_23_06_2024-20_09_52.png" />
+  <img src="images/showcase/Ruan-Mei_24_06_2024-20_10_49.png" />
 </details>
 <details align="center">
   <summary>Luocha</summary>
-  <img src="images/showcase/Luocha_23_06_2024-20_09_53.png" />
+  <img src="images/showcase/Luocha_24_06_2024-20_10_49.png" />
 </details>
 <details align="center">
   <summary>SaturnPrime</summary>
-  <img src="images/showcase/SaturnPrime_23_06_2024-20_09_53.png" />
+  <img src="images/showcase/SaturnPrime_24_06_2024-20_10_49.png" />
 </details>
 <details align="center">
   <summary>Dr. Ratio</summary>
-  <img src="images/showcase/Dr.-Ratio_23_06_2024-20_09_54.png" />
+  <img src="images/showcase/Dr.-Ratio_24_06_2024-20_10_50.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_23_06_2024-20_09_54.png" />
+  <img src="images/showcase/Robin_24_06_2024-20_10_50.png" />
 </details>
 <h2 align="center">
   You can also check my HSR characters showcase/builds on
