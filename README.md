@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 26, 2024 09:11 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 27, 2024 09:11 -0400</u></h3>
 <br />
 
 <details align="center" open>
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/SaturnPrime_26_06_2024-20_11_05.png" />
+    <img src="images/profile/SaturnPrime_27_06_2024-20_11_01.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>26</td>
+        <td>27</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/7cb0e487e051f177d3f41de8d4bbc521_1182531883532191221.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/40c4661295cacb4f584fd7787375d7ac_9144584527481294308.png"
             height="20"
           />
-          Refined Aether
+          Lost Crystal
         </td>
       </tr>
     </table>
@@ -5001,17 +5001,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>24</td>
+        <td>25</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          3 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
             height="20"
           />
-          Mora
+          Hero's Wit
         </td>
       </tr>
     </table>
@@ -6574,36 +6574,36 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_26_06_2024-20_10_06.png" />
+  <img src="images/showcase/genshin_card_27_06_2024-20_09_59.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_26_06_2024-20_10_07.png" />
+  <img src="images/showcase/genshin_card_27_06_2024-20_10_00.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_26_06_2024-20_10_46.png" />
+  <img src="images/showcase/Acheron_27_06_2024-20_10_41.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_26_06_2024-20_10_47.png" />
+  <img src="images/showcase/Ruan-Mei_27_06_2024-20_10_42.png" />
 </details>
 <details align="center">
   <summary>Luocha</summary>
-  <img src="images/showcase/Luocha_26_06_2024-20_10_47.png" />
+  <img src="images/showcase/Luocha_27_06_2024-20_10_42.png" />
 </details>
 <details align="center">
   <summary>SaturnPrime</summary>
-  <img src="images/showcase/SaturnPrime_26_06_2024-20_10_48.png" />
+  <img src="images/showcase/SaturnPrime_27_06_2024-20_10_42.png" />
 </details>
 <details align="center">
   <summary>Dr. Ratio</summary>
-  <img src="images/showcase/Dr.-Ratio_26_06_2024-20_10_48.png" />
+  <img src="images/showcase/Dr.-Ratio_27_06_2024-20_10_43.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_26_06_2024-20_10_48.png" />
+  <img src="images/showcase/Robin_27_06_2024-20_10_43.png" />
 </details>
 <h2 align="center">
   You can also check my HSR characters showcase/builds on
