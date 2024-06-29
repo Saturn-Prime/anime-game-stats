@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 27, 2024 09:11 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 29, 2024 07:55 -0400</u></h3>
 <br />
 
 <details align="center" open>
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/SaturnPrime_27_06_2024-20_11_01.png" />
+    <img src="images/profile/SaturnPrime_29_06_2024-18_54_56.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>27</td>
+        <td>29</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/40c4661295cacb4f584fd7787375d7ac_9144584527481294308.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Lost Crystal
+          Credit
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>181</td>
+        <td>183</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>15048 (rate -13)</td>
+        <td>15258 (rate -11)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>41 (rate -32)</td>
+        <td>45 (rate -26)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 3965 (26%)<br />Daily Activity: 3570 (23%)<br />Adventure
-          Rewards: 2245 (14%)<br />Simulated Universe: 1660 (11%)<br />Forgotten
-          Hall: 1700 (11%)<br />Other: 898 (9%)<br />Mail: 1010 (6%)<br />
+          Event: 3965 (25%)<br />Daily Activity: 3720 (24%)<br />Adventure
+          Rewards: 2305 (15%)<br />Forgotten Hall: 1700 (11%)<br />Simulated
+          Universe: 1660 (10%)<br />Other: 898 (9%)<br />Mail: 1010 (6%)<br />
         </td>
       </tr>
     </table>
@@ -1663,7 +1663,7 @@
       <table>
         <tr>
           <th><h3>Firefly</h3></th>
-          <th><h3>On the Fall of an Aeon</h3></th>
+          <th><h3>Whereabouts Should Dreams Rest</h3></th>
         </tr>
         <tr>
           <td>
@@ -1676,7 +1676,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/d925207ff21b515b2e06a0156103028e.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/a086bdf8f575c3be3fa324ba315f3c34.png"
               />
             </p>
           </td>
@@ -1753,11 +1753,11 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>On the Fall of an Aeon</td>
+                <td>Whereabouts Should Dreams Rest</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>1</td>
+                <td>40</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -4367,7 +4367,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>5</td>
+                <td>6</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -5001,17 +5001,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>25</td>
+        <td>27</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Hero's Wit
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -6574,36 +6574,36 @@
 <h2 align="center">My Genshin Impact Characters Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_27_06_2024-20_09_59.png" />
+  <img src="images/showcase/genshin_card_29_06_2024-18_53_54.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_27_06_2024-20_10_00.png" />
+  <img src="images/showcase/genshin_card_29_06_2024-18_53_55.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_27_06_2024-20_10_41.png" />
+  <img src="images/showcase/Acheron_29_06_2024-18_54_38.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_27_06_2024-20_10_42.png" />
+  <img src="images/showcase/Ruan-Mei_29_06_2024-18_54_38.png" />
 </details>
 <details align="center">
   <summary>Luocha</summary>
-  <img src="images/showcase/Luocha_27_06_2024-20_10_42.png" />
+  <img src="images/showcase/Luocha_29_06_2024-18_54_39.png" />
 </details>
 <details align="center">
   <summary>SaturnPrime</summary>
-  <img src="images/showcase/SaturnPrime_27_06_2024-20_10_42.png" />
+  <img src="images/showcase/SaturnPrime_29_06_2024-18_54_39.png" />
 </details>
 <details align="center">
   <summary>Dr. Ratio</summary>
-  <img src="images/showcase/Dr.-Ratio_27_06_2024-20_10_43.png" />
+  <img src="images/showcase/Dr.-Ratio_29_06_2024-18_54_40.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_27_06_2024-20_10_43.png" />
+  <img src="images/showcase/Robin_29_06_2024-18_54_40.png" />
 </details>
 <h2 align="center">
   You can also check my HSR characters showcase/builds on
