@@ -1,487 +1,8 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 09, 2024 04:52 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 08, 2024 19:32 -0400</u></h3>
 <br />
 
-<details align="center">
-  <summary>:sleeping: Zenless Zone Zero Details</summary>
-
-  <div align="center">
-    <h2>
-      <img src="images/icons/zzz_check_in.png" height="20" /> Daily Rewards
-    </h2>
-    <table>
-      <tr>
-        <td>Total Rewards Claimed</td>
-        <td>6</td>
-      </tr>
-      <tr>
-        <td>Last Claimed Reward</td>
-        <td>
-          2 x
-          <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
-            height="20"
-          />
-          Official Investigator Logs
-        </td>
-      </tr>
-    </table>
-  </div>
-
-  <div align="center">
-    <h2>
-      <img
-        src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp"
-        height="20"
-      />
-      Stats
-    </h2>
-    <table>
-      <tr>
-        <td>Days Active</td>
-        <td>4</td>
-      </tr>
-      <tr>
-        <td>Obtained Character</td>
-        <td>6</td>
-      </tr>
-      <tr>
-        <td>Reputation Knot Inter</td>
-        <td>Novice Proxy</td>
-      </tr>
-      <tr>
-        <td>Obtained Bangboo</td>
-        <td>0</td>
-      </tr>
-    </table>
-  </div>
-
-  <div align="center">
-    <h2>
-      <img
-        src="https://static.wikia.nocookie.net/zenless-zone-zero/images/0/0a/Icon_Agents.png"
-        height="20"
-      />
-      Characters
-    </h2>
-    <details open>
-      <summary><b>Piper Wheel </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Piper Wheel</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1281.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rank</td>
-                <td>
-                  <img
-                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-a-icon.c9179f22.png"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Faction</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_76ea93/439248fd88616c4062fa1225c261f376.png"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Attribute</td>
-                <td>
-                  <img
-                    src="https://api.hakush.in/zzz/UI/IconPhysical.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr></tr>
-              <tr>
-                <td>Specialty</td>
-                <td>
-                  <img
-                    src="https://api.hakush.in/zzz/UI/IconAnomaly.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>10</td>
-              </tr>
-              <tr>
-                <td>Mindscape</td>
-                <td>2</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Soukaku </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Soukaku</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1131.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rank</td>
-                <td>
-                  <img
-                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-a-icon.c9179f22.png"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Faction</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_76ea93/7c01e0f514d60aa659488df6700be6ac.png"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Attribute</td>
-                <td>
-                  <img
-                    src="https://api.hakush.in/zzz/UI/IconIce.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr></tr>
-              <tr>
-                <td>Specialty</td>
-                <td>
-                  <img
-                    src="https://api.hakush.in/zzz/UI/IconSupport.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>10</td>
-              </tr>
-              <tr>
-                <td>Mindscape</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Billy Kid </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Billy Kid</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1081.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rank</td>
-                <td>
-                  <img
-                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-a-icon.c9179f22.png"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Faction</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_76ea93/41fd09abf20fd1eb98b68d6d8d4d326a.png"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Attribute</td>
-                <td>
-                  <img
-                    src="https://api.hakush.in/zzz/UI/IconPhysical.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr></tr>
-              <tr>
-                <td>Specialty</td>
-                <td>
-                  <img
-                    src="https://api.hakush.in/zzz/UI/IconAttack.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>10</td>
-              </tr>
-              <tr>
-                <td>Mindscape</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Corin Wickes </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Corin Wickes</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1061.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rank</td>
-                <td>
-                  <img
-                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-a-icon.c9179f22.png"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Faction</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_76ea93/802b31d629d4a232f20621cf8a9ea916.png"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Attribute</td>
-                <td>
-                  <img
-                    src="https://api.hakush.in/zzz/UI/IconPhysical.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr></tr>
-              <tr>
-                <td>Specialty</td>
-                <td>
-                  <img
-                    src="https://api.hakush.in/zzz/UI/IconAttack.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>10</td>
-              </tr>
-              <tr>
-                <td>Mindscape</td>
-                <td>0</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Nicole Demara </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Nicole Demara</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1031.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rank</td>
-                <td>
-                  <img
-                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-a-icon.c9179f22.png"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Faction</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_76ea93/41fd09abf20fd1eb98b68d6d8d4d326a.png"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Attribute</td>
-                <td>
-                  <img
-                    src="https://api.hakush.in/zzz/UI/IconEther.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr></tr>
-              <tr>
-                <td>Specialty</td>
-                <td>
-                  <img
-                    src="https://api.hakush.in/zzz/UI/IconSupport.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>10</td>
-              </tr>
-              <tr>
-                <td>Mindscape</td>
-                <td>0</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Anby Demara </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Anby Demara</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1011.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rank</td>
-                <td>
-                  <img
-                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-a-icon.c9179f22.png"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Faction</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_76ea93/41fd09abf20fd1eb98b68d6d8d4d326a.png"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Attribute</td>
-                <td>
-                  <img
-                    src="https://api.hakush.in/zzz/UI/IconElectric.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr></tr>
-              <tr>
-                <td>Specialty</td>
-                <td>
-                  <img
-                    src="https://api.hakush.in/zzz/UI/IconStun.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>10</td>
-              </tr>
-              <tr>
-                <td>Mindscape</td>
-                <td>0</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-  </div>
-</details>
-
-<details align="center">
+<details align="center" open="true">
   <summary>
     <img
       src="https://i.pinimg.com/originals/a3/33/85/a3338541288aa31ff713edaf12c99961.png"
@@ -491,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/SaturnPrime_09_08_2024-04_52_22.png" />
+    <img src="images/profile/SaturnPrime_09_08_2024-06_32_28.png" />
   </div>
   <div align="center">
     <h2>
@@ -6052,7 +5573,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_09_08_2024-04_51_48.png" />
+    <img src="images/profile/genshin_profile_09_08_2024-06_31_52.png" />
   </div>
   <div align="center">
     <h2>
@@ -7631,39 +7152,518 @@
     </details>
   </div>
 </details>
+
+<details align="center">
+  <summary>:sleeping: Zenless Zone Zero Details</summary>
+
+  <div align="center">
+    <h2>
+      <img src="images/icons/zzz_check_in.png" height="20" /> Daily Rewards
+    </h2>
+    <table>
+      <tr>
+        <td>Total Rewards Claimed</td>
+        <td>6</td>
+      </tr>
+      <tr>
+        <td>Last Claimed Reward</td>
+        <td>
+          2 x
+          <img
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
+            height="20"
+          />
+          Official Investigator Logs
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <div align="center">
+    <h2>
+      <img
+        src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp"
+        height="20"
+      />
+      Stats
+    </h2>
+    <table>
+      <tr>
+        <td>Days Active</td>
+        <td>4</td>
+      </tr>
+      <tr>
+        <td>Obtained Character</td>
+        <td>6</td>
+      </tr>
+      <tr>
+        <td>Reputation Knot Inter</td>
+        <td>Novice Proxy</td>
+      </tr>
+      <tr>
+        <td>Obtained Bangboo</td>
+        <td>0</td>
+      </tr>
+    </table>
+  </div>
+
+  <div align="center">
+    <h2>
+      <img
+        src="https://static.wikia.nocookie.net/zenless-zone-zero/images/0/0a/Icon_Agents.png"
+        height="20"
+      />
+      Characters
+    </h2>
+    <details open>
+      <summary><b>Piper Wheel </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Piper Wheel</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1281.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rank</td>
+                <td>
+                  <img
+                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-a-icon.c9179f22.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Faction</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_76ea93/439248fd88616c4062fa1225c261f376.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Attribute</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconPhysical.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr></tr>
+              <tr>
+                <td>Specialty</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconAnomaly.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>Mindscape</td>
+                <td>2</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Soukaku </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Soukaku</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1131.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rank</td>
+                <td>
+                  <img
+                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-a-icon.c9179f22.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Faction</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_76ea93/7c01e0f514d60aa659488df6700be6ac.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Attribute</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconIce.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr></tr>
+              <tr>
+                <td>Specialty</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconSupport.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>Mindscape</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Billy Kid </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Billy Kid</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1081.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rank</td>
+                <td>
+                  <img
+                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-a-icon.c9179f22.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Faction</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_76ea93/41fd09abf20fd1eb98b68d6d8d4d326a.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Attribute</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconPhysical.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr></tr>
+              <tr>
+                <td>Specialty</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconAttack.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>Mindscape</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Corin Wickes </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Corin Wickes</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1061.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rank</td>
+                <td>
+                  <img
+                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-a-icon.c9179f22.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Faction</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_76ea93/802b31d629d4a232f20621cf8a9ea916.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Attribute</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconPhysical.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr></tr>
+              <tr>
+                <td>Specialty</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconAttack.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>Mindscape</td>
+                <td>0</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Nicole Demara </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Nicole Demara</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1031.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rank</td>
+                <td>
+                  <img
+                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-a-icon.c9179f22.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Faction</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_76ea93/41fd09abf20fd1eb98b68d6d8d4d326a.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Attribute</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconEther.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr></tr>
+              <tr>
+                <td>Specialty</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconSupport.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>Mindscape</td>
+                <td>0</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Anby Demara </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Anby Demara</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1011.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rank</td>
+                <td>
+                  <img
+                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-a-icon.c9179f22.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Faction</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_76ea93/41fd09abf20fd1eb98b68d6d8d4d326a.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Attribute</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconElectric.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr></tr>
+              <tr>
+                <td>Specialty</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconStun.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>Mindscape</td>
+                <td>0</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+  </div>
+</details>
+<h2 align="center">My Honkai: Star Rail Character Showcase</h2>
+<details align="center" open="true">
+  <summary>Acheron</summary>
+  <img src="images/showcase/Acheron_09_08_2024-06_32_10.png" />
+</details>
+<details align="center" open="true">
+  <summary>Ruan Mei</summary>
+  <img src="images/showcase/Ruan-Mei_09_08_2024-06_32_11.png" />
+</details>
+<details align="center" open="true">
+  <summary>Luocha</summary>
+  <img src="images/showcase/Luocha_09_08_2024-06_32_11.png" />
+</details>
+<details align="center" open="true">
+  <summary>SaturnPrime</summary>
+  <img src="images/showcase/SaturnPrime_09_08_2024-06_32_11.png" />
+</details>
+<details align="center" open="true">
+  <summary>Dr. Ratio</summary>
+  <img src="images/showcase/Dr.-Ratio_09_08_2024-06_32_12.png" />
+</details>
+<details align="center" open="true">
+  <summary>Robin</summary>
+  <img src="images/showcase/Robin_09_08_2024-06_32_12.png" />
+</details>
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_09_08_2024-04_51_24.png" />
+  <img src="images/showcase/genshin_card_09_08_2024-06_31_26.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_09_08_2024-04_51_25.png" />
-</details>
-<h2 align="center">My Honkai: Star Rail Character Showcase</h2>
-<details align="center">
-  <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_09_08_2024-04_52_06.png" />
-</details>
-<details align="center">
-  <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_09_08_2024-04_52_06.png" />
-</details>
-<details align="center">
-  <summary>Luocha</summary>
-  <img src="images/showcase/Luocha_09_08_2024-04_52_07.png" />
-</details>
-<details align="center">
-  <summary>SaturnPrime</summary>
-  <img src="images/showcase/SaturnPrime_09_08_2024-04_52_07.png" />
-</details>
-<details align="center">
-  <summary>Dr. Ratio</summary>
-  <img src="images/showcase/Dr.-Ratio_09_08_2024-04_52_08.png" />
-</details>
-<details align="center">
-  <summary>Robin</summary>
-  <img src="images/showcase/Robin_09_08_2024-04_52_08.png" />
+  <img src="images/showcase/genshin_card_09_08_2024-06_31_27.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
