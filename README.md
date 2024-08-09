@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 08, 2024 19:32 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 08, 2024 20:11 -0400</u></h3>
 <br />
 
 <details align="center" open="true">
@@ -10,10 +10,6 @@
     />
     Honkai Star Rail Details
   </summary>
-  <div align="center">
-    <h2>Profile</h2>
-    <img src="images/profile/SaturnPrime_09_08_2024-06_32_28.png" />
-  </div>
   <div align="center">
     <h2>
       <img src="images/icons/hsr_check_in.png" height="20" /> Daily Rewards
@@ -5573,7 +5569,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_09_08_2024-06_31_52.png" />
+    <img src="images/profile/genshin_profile_09_08_2024-07_10_47.png" />
   </div>
   <div align="center">
     <h2>
@@ -7631,39 +7627,14 @@
     </details>
   </div>
 </details>
-<h2 align="center">My Honkai: Star Rail Character Showcase</h2>
-<details align="center" open="true">
-  <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_09_08_2024-06_32_10.png" />
-</details>
-<details align="center" open="true">
-  <summary>Ruan Mei</summary>
-  <img src="images/showcase/Ruan-Mei_09_08_2024-06_32_11.png" />
-</details>
-<details align="center" open="true">
-  <summary>Luocha</summary>
-  <img src="images/showcase/Luocha_09_08_2024-06_32_11.png" />
-</details>
-<details align="center" open="true">
-  <summary>SaturnPrime</summary>
-  <img src="images/showcase/SaturnPrime_09_08_2024-06_32_11.png" />
-</details>
-<details align="center" open="true">
-  <summary>Dr. Ratio</summary>
-  <img src="images/showcase/Dr.-Ratio_09_08_2024-06_32_12.png" />
-</details>
-<details align="center" open="true">
-  <summary>Robin</summary>
-  <img src="images/showcase/Robin_09_08_2024-06_32_12.png" />
-</details>
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_09_08_2024-06_31_26.png" />
+  <img src="images/showcase/genshin_card_09_08_2024-07_10_22.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_09_08_2024-06_31_27.png" />
+  <img src="images/showcase/genshin_card_09_08_2024-07_10_23.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
