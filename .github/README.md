@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 07, 2024 19:05 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 08, 2024 07:13 +0700</u></h3>
 <br />
 <details align="center" open="true">
   <summary>
@@ -11,7 +11,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/SaturnPrime_07_09_2024-19_05_32.png" />
+    <img src="../images/profile/SaturnPrime_08_09_2024-07_13_20.png" />
   </div>
   <div align="center">
     <h2>
@@ -20,17 +20,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>7</td>
+        <td>8</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
             height="20"
           />
-          Condensed Aether
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -47,7 +47,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>250</td>
+        <td>251</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -55,7 +55,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>473</td>
+        <td>475</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -72,7 +72,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>1606 (rate -86)</td>
+        <td>1801 (rate -85)</td>
       </tr>
       <tr>
         <td>
@@ -87,8 +87,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 840 (52%)<br />Adventure Rewards: 695 (43%)<br />Event:
-          50 (3%)<br />Mail: 20 (1%)<br />Other: 1 (1%)<br />Simulated Universe:
+          Daily Activity: 990 (54%)<br />Adventure Rewards: 740 (41%)<br />Event:
+          50 (2%)<br />Other: 1 (2%)<br />Mail: 20 (1%)<br />Simulated Universe:
           0 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -2534,6 +2534,117 @@
               <tr>
                 <td>Level</td>
                 <td>53</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Misha </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Misha</h3></th>
+          <th><h3>Woof! Walk Time!</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/2ba4feae11e07636dea8f9bcde47b561.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/24a62def45ea406e96c7c393558304c5.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>75</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>6</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/626d9d71de44479423d60227d40ea34e.png"
+                    ,
+                    height="18"
+                  />
+                  Hunter's Artaius Hood<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/f897d7a19be54baca73ac179f9d93743.png"
+                    ,
+                    height="18"
+                  />
+                  Hunter's Lizard Gloves<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/f99bf20c0f343e69facc7d82203a88ab.png"
+                    ,
+                    height="18"
+                  />
+                  Hunter's Ice Dragon Cloak<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/727028b2af8691ffeb74724d83e1847e.png"
+                    ,
+                    height="18"
+                  />
+                  Hunter's Soft Elkskin Boots<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/84d29e1ce1329c04f692d0f4afefbdd3.png"
+                    ,
+                    height="18"
+                  />
+                  Salsotto's Moving City<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/bba153ca03edcf671bd1605cd8c22b68.png"
+                    ,
+                    height="18"
+                  />
+                  Salsotto's Terminator Line<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Woof! Walk Time!</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>40</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -5098,117 +5209,6 @@
       </table>
     </details>
     <details>
-      <summary><b>Misha </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Misha</h3></th>
-          <th><h3>Woof! Walk Time!</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/2ba4feae11e07636dea8f9bcde47b561.png"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/24a62def45ea406e96c7c393558304c5.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>70</td>
-              </tr>
-              <tr>
-                <td>Eidolon</td>
-                <td>6</td>
-              </tr>
-              <tr>
-                <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/626d9d71de44479423d60227d40ea34e.png"
-                    ,
-                    height="18"
-                  />
-                  Hunter's Artaius Hood<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/f897d7a19be54baca73ac179f9d93743.png"
-                    ,
-                    height="18"
-                  />
-                  Hunter's Lizard Gloves<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/f99bf20c0f343e69facc7d82203a88ab.png"
-                    ,
-                    height="18"
-                  />
-                  Hunter's Ice Dragon Cloak<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/727028b2af8691ffeb74724d83e1847e.png"
-                    ,
-                    height="18"
-                  />
-                  Hunter's Soft Elkskin Boots<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Planar</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/84d29e1ce1329c04f692d0f4afefbdd3.png"
-                    ,
-                    height="18"
-                  />
-                  Salsotto's Moving City<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/bba153ca03edcf671bd1605cd8c22b68.png"
-                    ,
-                    height="18"
-                  />
-                  Salsotto's Terminator Line<br />
-                </td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Woof! Walk Time!</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>40</td>
-              </tr>
-              <tr>
-                <td>Superimpose</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
       <summary><b>Hanya </b></summary>
       <br />
       <table>
@@ -5664,17 +5664,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>7</td>
+        <td>8</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          1 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/7cb065bb13a5fba94a26302b0db2080c_3875449856155324808.png"
             height="20"
           />
-          W-Engine Power Supplies
+          Bangboo Algorithm Modules
         </td>
       </tr>
     </table>
@@ -5691,7 +5691,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>8</td>
+        <td>9</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
@@ -6139,7 +6139,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/genshin_profile_07_09_2024-19_04_46.png" />
+    <img src="../images/profile/genshin_profile_08_09_2024-07_12_36.png" />
   </div>
   <div align="center">
     <h2>
@@ -6149,17 +6149,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>7</td>
+        <td>8</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          3 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Mora
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -6176,15 +6176,15 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>21</td>
+        <td>26</td>
       </tr>
       <tr>
         <td>Days Active</td>
-        <td>30</td>
+        <td>31</td>
       </tr>
       <tr>
         <td>Characters</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Waypoints Unlocked</td>
@@ -6403,7 +6403,7 @@
           />
           Primogems earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>1715 (rate -32)</td>
       </tr>
       <tr>
         <td>
@@ -6413,14 +6413,14 @@
           />
           Mora earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>1185000 (rate 219)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0
-          (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure:
-          0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
+          Mail: 1530 (90%)<br />Events: 100 (6%)<br />Adventure: 45 (2%)<br />Daily
+          Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium Theater: 0
+          (0%)<br />Quests: 0 (0%)<br />Other: 40 (2%)<br />
         </td>
       </tr>
     </table>
@@ -7745,36 +7745,36 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="../images/showcase/genshin_card_07_09_2024-19_04_12.png" />
+  <img src="../images/showcase/genshin_card_08_09_2024-07_12_03.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="../images/showcase/genshin_card_07_09_2024-19_04_14.png" />
+  <img src="../images/showcase/genshin_card_08_09_2024-07_12_05.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="../images/showcase/Acheron_07_09_2024-19_05_13.png" />
+  <img src="../images/showcase/Acheron_08_09_2024-07_12_59.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="../images/showcase/Ruan-Mei_07_09_2024-19_05_14.png" />
+  <img src="../images/showcase/Ruan-Mei_08_09_2024-07_12_59.png" />
 </details>
 <details align="center">
   <summary>Luocha</summary>
-  <img src="../images/showcase/Luocha_07_09_2024-19_05_14.png" />
+  <img src="../images/showcase/Luocha_08_09_2024-07_13_00.png" />
 </details>
 <details align="center">
   <summary>SaturnPrime</summary>
-  <img src="../images/showcase/SaturnPrime_07_09_2024-19_05_15.png" />
+  <img src="../images/showcase/SaturnPrime_08_09_2024-07_13_01.png" />
 </details>
 <details align="center">
   <summary>Dr. Ratio</summary>
-  <img src="../images/showcase/Dr.-Ratio_07_09_2024-19_05_16.png" />
+  <img src="../images/showcase/Dr.-Ratio_08_09_2024-07_13_02.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="../images/showcase/Robin_07_09_2024-19_05_17.png" />
+  <img src="../images/showcase/Robin_08_09_2024-07_13_02.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
