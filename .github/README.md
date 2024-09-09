@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 08, 2024 20:12 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 09, 2024 08:06 -0400</u></h3>
 <br />
 <details align="center" open="true">
   <summary>
@@ -11,7 +11,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/SaturnPrime_09_09_2024-07_12_43.png" />
+    <img src="../images/profile/SaturnPrime_09_09_2024-19_06_33.png" />
   </div>
   <div align="center">
     <h2>
@@ -6160,7 +6160,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/genshin_profile_09_09_2024-07_12_00.png" />
+    <img src="../images/profile/genshin_profile_09_09_2024-19_05_49.png" />
   </div>
   <div align="center">
     <h2>
@@ -7853,36 +7853,36 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="../images/showcase/genshin_card_09_09_2024-07_11_27.png" />
+  <img src="../images/showcase/genshin_card_09_09_2024-19_05_15.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="../images/showcase/genshin_card_09_09_2024-07_11_29.png" />
+  <img src="../images/showcase/genshin_card_09_09_2024-19_05_16.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="../images/showcase/Acheron_09_09_2024-07_12_24.png" />
+  <img src="../images/showcase/Acheron_09_09_2024-19_06_14.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="../images/showcase/Ruan-Mei_09_09_2024-07_12_25.png" />
+  <img src="../images/showcase/Ruan-Mei_09_09_2024-19_06_14.png" />
 </details>
 <details align="center">
   <summary>Luocha</summary>
-  <img src="../images/showcase/Luocha_09_09_2024-07_12_26.png" />
+  <img src="../images/showcase/Luocha_09_09_2024-19_06_15.png" />
 </details>
 <details align="center">
   <summary>SaturnPrime</summary>
-  <img src="../images/showcase/SaturnPrime_09_09_2024-07_12_26.png" />
+  <img src="../images/showcase/SaturnPrime_09_09_2024-19_06_16.png" />
 </details>
 <details align="center">
   <summary>Dr. Ratio</summary>
-  <img src="../images/showcase/Dr.-Ratio_09_09_2024-07_12_27.png" />
+  <img src="../images/showcase/Dr.-Ratio_09_09_2024-19_06_17.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="../images/showcase/Robin_09_09_2024-07_12_28.png" />
+  <img src="../images/showcase/Robin_09_09_2024-19_06_17.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
