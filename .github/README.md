@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 09, 2024 08:06 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 09, 2024 20:12 -0400</u></h3>
 <br />
 <details align="center" open="true">
   <summary>
@@ -10,27 +10,23 @@
     Honkai Star Rail Details
   </summary>
   <div align="center">
-    <h2>Profile</h2>
-    <img src="../images/profile/SaturnPrime_09_09_2024-19_06_33.png" />
-  </div>
-  <div align="center">
     <h2>
       <img src="../images/icons/hsr_check_in.png" height="20" /> Daily Rewards
     </h2>
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>9</td>
+        <td>10</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Credit
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -47,7 +43,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>252</td>
+        <td>253</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -72,7 +68,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>3246 (rate -73)</td>
+        <td>3401 (rate -72)</td>
       </tr>
       <tr>
         <td>
@@ -82,13 +78,13 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>14 (rate -65)</td>
+        <td>15 (rate -62)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 1420 (43%)<br />Daily Activity: 1140 (35%)<br />Simulated
-          Universe: 465 (14%)<br />Event: 200 (6%)<br />Other: 1 (2%)<br />Forgotten
+          Adventure Rewards: 1425 (41%)<br />Daily Activity: 1290 (37%)<br />Simulated
+          Universe: 465 (13%)<br />Event: 200 (5%)<br />Other: 1 (4%)<br />Forgotten
           Hall: 0 (0%)<br />Mail: 20 (0%)<br />
         </td>
       </tr>
@@ -103,7 +99,7 @@
       </tr>
       <tr>
         <td>Max Floor</td>
-        <td>The Big Sleep Stage 2</td>
+        <td>The Big Sleep (II)</td>
       </tr>
       <tr>
         <td>Total Battles</td>
@@ -2444,6 +2440,117 @@
               <tr>
                 <td>Level</td>
                 <td>70</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Sushang </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Sushang</h3></th>
+          <th><h3>Subscribe for More!</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/87074d7afc5070a577bc81633cf92505.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/d7342ea6f2b730a8666b35a76eb6a953.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>76</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>6</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/5f0d7c92226fd0e59e8a994a8e8a3c39.png"
+                    ,
+                    height="18"
+                  />
+                  Thief's Myriad-Faced Mask<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/44afb582bf7aa6dc36bc3868f9c36fe9.png"
+                    ,
+                    height="18"
+                  />
+                  Thief's Gloves With Prints<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/b1714fdebbc0749cbdc93144f8b95fbb.png"
+                    ,
+                    height="18"
+                  />
+                  Thief's Steel Grappling Hook<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/1e53be35218c39e369d3176fc9a56c41.png"
+                    ,
+                    height="18"
+                  />
+                  Thief's Meteor Boots<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/3e6199198d556194bd6a3c771a63b128.png"
+                    ,
+                    height="18"
+                  />
+                  Glamoth's Iron Cavalry Regiment<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/e37a1e43f8d845bebe81370c43ee88a2.png"
+                    ,
+                    height="18"
+                  />
+                  Glamoth's Silent Tombstone<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Subscribe for More!</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>30</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -5452,117 +5559,6 @@
       </table>
     </details>
     <details>
-      <summary><b>Sushang </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Sushang</h3></th>
-          <th><h3>Subscribe for More!</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/87074d7afc5070a577bc81633cf92505.png"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/d7342ea6f2b730a8666b35a76eb6a953.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>70</td>
-              </tr>
-              <tr>
-                <td>Eidolon</td>
-                <td>6</td>
-              </tr>
-              <tr>
-                <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/5f0d7c92226fd0e59e8a994a8e8a3c39.png"
-                    ,
-                    height="18"
-                  />
-                  Thief's Myriad-Faced Mask<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/44afb582bf7aa6dc36bc3868f9c36fe9.png"
-                    ,
-                    height="18"
-                  />
-                  Thief's Gloves With Prints<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/b1714fdebbc0749cbdc93144f8b95fbb.png"
-                    ,
-                    height="18"
-                  />
-                  Thief's Steel Grappling Hook<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/1e53be35218c39e369d3176fc9a56c41.png"
-                    ,
-                    height="18"
-                  />
-                  Thief's Meteor Boots<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Planar</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/3e6199198d556194bd6a3c771a63b128.png"
-                    ,
-                    height="18"
-                  />
-                  Glamoth's Iron Cavalry Regiment<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u43ejc/e37a1e43f8d845bebe81370c43ee88a2.png"
-                    ,
-                    height="18"
-                  />
-                  Glamoth's Silent Tombstone<br />
-                </td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Subscribe for More!</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>30</td>
-              </tr>
-              <tr>
-                <td>Superimpose</td>
-                <td>5</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
       <summary><b>Jiaoqiu </b></summary>
       <br />
       <table>
@@ -5685,17 +5681,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>9</td>
+        <td>10</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
             height="20"
           />
-          Official Investigator Logs
+          W-Engine Power Supplies
         </td>
       </tr>
     </table>
@@ -6160,7 +6156,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/genshin_profile_09_09_2024-19_05_49.png" />
+    <img src="../images/profile/genshin_profile_10_09_2024-07_11_49.png" />
   </div>
   <div align="center">
     <h2>
@@ -6170,17 +6166,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>9</td>
+        <td>10</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Fine Enhancement Ore
+          Mora
         </td>
       </tr>
     </table>
@@ -7853,36 +7849,11 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="../images/showcase/genshin_card_09_09_2024-19_05_15.png" />
+  <img src="../images/showcase/genshin_card_10_09_2024-07_11_15.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="../images/showcase/genshin_card_09_09_2024-19_05_16.png" />
-</details>
-<h2 align="center">My Honkai: Star Rail Character Showcase</h2>
-<details align="center">
-  <summary>Acheron</summary>
-  <img src="../images/showcase/Acheron_09_09_2024-19_06_14.png" />
-</details>
-<details align="center">
-  <summary>Ruan Mei</summary>
-  <img src="../images/showcase/Ruan-Mei_09_09_2024-19_06_14.png" />
-</details>
-<details align="center">
-  <summary>Luocha</summary>
-  <img src="../images/showcase/Luocha_09_09_2024-19_06_15.png" />
-</details>
-<details align="center">
-  <summary>SaturnPrime</summary>
-  <img src="../images/showcase/SaturnPrime_09_09_2024-19_06_16.png" />
-</details>
-<details align="center">
-  <summary>Dr. Ratio</summary>
-  <img src="../images/showcase/Dr.-Ratio_09_09_2024-19_06_17.png" />
-</details>
-<details align="center">
-  <summary>Robin</summary>
-  <img src="../images/showcase/Robin_09_09_2024-19_06_17.png" />
+  <img src="../images/showcase/genshin_card_10_09_2024-07_11_17.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
