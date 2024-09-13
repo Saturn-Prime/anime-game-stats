@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 12, 2024 20:28 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 13, 2024 08:05 -0400</u></h3>
 <br />
 <details align="center" open="true">
   <summary>
@@ -11,7 +11,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/SaturnPrime_13_09_2024-07_27_43.png" />
+    <img src="../images/profile/SaturnPrime_13_09_2024-19_05_51.png" />
   </div>
   <div align="center">
     <h2>
@@ -47,11 +47,11 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>255</td>
+        <td>256</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
-        <td>50</td>
+        <td>51</td>
       </tr>
       <tr>
         <td>Total Achievement</td>
@@ -72,7 +72,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>5497 (rate -55)</td>
+        <td>5667 (rate -53)</td>
       </tr>
       <tr>
         <td>
@@ -82,13 +82,13 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>17 (rate -57)</td>
+        <td>20 (rate -50)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1590 (28%)<br />Adventure Rewards: 1490 (27%)<br />Event:
-          1280 (23%)<br />Mail: 670 (12%)<br />Simulated Universe: 465 (8%)<br />Other:
+          Daily Activity: 1740 (30%)<br />Adventure Rewards: 1490 (26%)<br />Event:
+          1280 (22%)<br />Mail: 690 (12%)<br />Simulated Universe: 465 (8%)<br />Other:
           2 (2%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -2566,6 +2566,117 @@
       </table>
     </details>
     <details>
+      <summary><b>Jade </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Jade</h3></th>
+          <th><h3>Yet Hope Is Priceless</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/ef9c29ae6926186b9366a289908321a2.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/0285b452887ee35bbe4596591f826dcb.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>75</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/f0730f6e124faed8c9787dc267d5a9b6.png"
+                    ,
+                    height="18"
+                  />
+                  Grand Duke's Crown of Netherflame<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/ce0be2257f22b0e01703ebe8d59c8653.png"
+                    ,
+                    height="18"
+                  />
+                  Grand Duke's Gloves of Fieryfur<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/0d189b0a5aafa25e74b6332bbaa8f329.png"
+                    ,
+                    height="18"
+                  />
+                  Grand Duke's Robe of Grace<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/fd2a5d65e336baafc2fa2d903f64c11a.png"
+                    ,
+                    height="18"
+                  />
+                  Grand Duke's Ceremonial Boots<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/66c2e7160579842864036c16c857a1fb.png"
+                    ,
+                    height="18"
+                  />
+                  Sigonia's Gaiathra Berth<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/92380c90ff9b512af4c7f7f05303e180.png"
+                    ,
+                    height="18"
+                  />
+                  Sigonia's Knot of Cyclicality<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Yet Hope Is Priceless</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>60</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Fu Xuan </b></summary>
       <br />
       <table>
@@ -4786,117 +4897,6 @@
       </table>
     </details>
     <details>
-      <summary><b>Jade </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Jade</h3></th>
-          <th><h3>Yet Hope Is Priceless</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/ef9c29ae6926186b9366a289908321a2.png"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/0285b452887ee35bbe4596591f826dcb.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>70</td>
-              </tr>
-              <tr>
-                <td>Eidolon</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/f0730f6e124faed8c9787dc267d5a9b6.png"
-                    ,
-                    height="18"
-                  />
-                  Grand Duke's Crown of Netherflame<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/ce0be2257f22b0e01703ebe8d59c8653.png"
-                    ,
-                    height="18"
-                  />
-                  Grand Duke's Gloves of Fieryfur<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/0d189b0a5aafa25e74b6332bbaa8f329.png"
-                    ,
-                    height="18"
-                  />
-                  Grand Duke's Robe of Grace<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/fd2a5d65e336baafc2fa2d903f64c11a.png"
-                    ,
-                    height="18"
-                  />
-                  Grand Duke's Ceremonial Boots<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Planar</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/66c2e7160579842864036c16c857a1fb.png"
-                    ,
-                    height="18"
-                  />
-                  Sigonia's Gaiathra Berth<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/92380c90ff9b512af4c7f7f05303e180.png"
-                    ,
-                    height="18"
-                  />
-                  Sigonia's Knot of Cyclicality<br />
-                </td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Yet Hope Is Priceless</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>60</td>
-              </tr>
-              <tr>
-                <td>Superimpose</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
       <summary><b>Argenti </b></summary>
       <br />
       <table>
@@ -5104,6 +5104,117 @@
               <tr>
                 <td>Name</td>
                 <td>On the Fall of an Aeon</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>40</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Jiaoqiu </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Jiaoqiu</h3></th>
+          <th><h3>In the Name of the World</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/24dad1651eac9842e0a2ff27c4064817.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/ef5df81c81cfdec9cdb8ffe5690da836.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>70</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/559bcf73ff2fe588185f4afd02a24083.png"
+                    ,
+                    height="18"
+                  />
+                  Prisoner's Sealed Muzzle<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/94c3c3cd6ba8af8503d8ed7963f2ff06.png"
+                    ,
+                    height="18"
+                  />
+                  Prisoner's Leadstone Shackles<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/05c58dbb119501ce672d39c5a461135a.png"
+                    ,
+                    height="18"
+                  />
+                  Prisoner's Repressive Straitjacket<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/8f982283f4c287b6739c1d26f626abf5.png"
+                    ,
+                    height="18"
+                  />
+                  Prisoner's Restrictive Fetters<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/9fcaccce73c820aeeaab9779a8d6dd5d.png"
+                    ,
+                    height="18"
+                  />
+                  The IPC's Mega HQ<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/7a795332c5f8957a111600709f6488b6.png"
+                    ,
+                    height="18"
+                  />
+                  The IPC's Trade Route<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>In the Name of the World</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -5563,25 +5674,25 @@
       </table>
     </details>
     <details>
-      <summary><b>Jiaoqiu </b></summary>
+      <summary><b>Moze </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Jiaoqiu</h3></th>
-          <th><h3>In the Name of the World</h3></th>
+          <th><h3>Moze</h3></th>
+          <th><h3>Sleep Like the Dead</h3></th>
         </tr>
         <tr>
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/24dad1651eac9842e0a2ff27c4064817.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/b10458f39c11957d473e26f789b444e6.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/ef5df81c81cfdec9cdb8ffe5690da836.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/a5de43659e0aeaf1b1c48e459cf79d56.png"
               />
             </p>
           </td>
@@ -5591,20 +5702,20 @@
             <table>
               <tr>
                 <td>Rarity</td>
-                <td>★★★★★</td>
+                <td>★★★★</td>
               </tr>
               <tr>
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
                     height="18"
                   />
                 </td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>69</td>
+                <td>1</td>
               </tr>
               <tr>
                 <td>Eidolon</td>
@@ -5614,42 +5725,42 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/559bcf73ff2fe588185f4afd02a24083.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/05f25f860c46097d7fcfa3dcf6f2a0cf.png"
                     ,
                     height="18"
                   />
-                  Prisoner's Sealed Muzzle<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/94c3c3cd6ba8af8503d8ed7963f2ff06.png"
+                  Pioneer's Heatproof Shell<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/e37f96c152d2b939dcc8203b5ab34136.png"
                     ,
                     height="18"
                   />
-                  Prisoner's Leadstone Shackles<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/05c58dbb119501ce672d39c5a461135a.png"
+                  Pioneer's Lacuna Compass<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/82bef8b81fd4576674ac5ba8d89f5d9c.png"
                     ,
                     height="18"
                   />
-                  Prisoner's Repressive Straitjacket<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/8f982283f4c287b6739c1d26f626abf5.png"
+                  Pioneer's Sealed Lead Apron<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/2cefca29fd83ba96d3e3471f9799f92a.png"
                     ,
                     height="18"
                   />
-                  Prisoner's Restrictive Fetters<br />
+                  Pioneer's Starfaring Anchor<br />
                 </td>
               </tr>
               <tr>
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/9fcaccce73c820aeeaab9779a8d6dd5d.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/7b189456e7423438912e8584dc9482f9.png"
                     ,
                     height="18"
                   />
-                  The IPC's Mega HQ<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/7a795332c5f8957a111600709f6488b6.png"
+                  Izumo's Magatsu no Morokami<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/1e9a423542fd15948a2cb539de9a72f2.png"
                     ,
                     height="18"
                   />
-                  The IPC's Trade Route<br />
+                  Izumo's Blades of Origin and End<br />
                 </td>
               </tr>
             </table>
@@ -5658,15 +5769,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>In the Name of the World</td>
+                <td>Sleep Like the Dead</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>40</td>
+                <td>32</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>1</td>
+                <td>2</td>
               </tr>
             </table>
           </td>
@@ -6160,7 +6271,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/genshin_profile_13_09_2024-07_26_35.png" />
+    <img src="../images/profile/genshin_profile_13_09_2024-19_04_56.png" />
   </div>
   <div align="center">
     <h2>
@@ -7857,36 +7968,36 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="../images/showcase/genshin_card_13_09_2024-07_25_38.png" />
+  <img src="../images/showcase/genshin_card_13_09_2024-19_04_24.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="../images/showcase/genshin_card_13_09_2024-07_25_39.png" />
+  <img src="../images/showcase/genshin_card_13_09_2024-19_04_25.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="../images/showcase/Acheron_13_09_2024-07_27_23.png" />
+  <img src="../images/showcase/Acheron_13_09_2024-19_05_33.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="../images/showcase/Ruan-Mei_13_09_2024-07_27_23.png" />
+  <img src="../images/showcase/Ruan-Mei_13_09_2024-19_05_33.png" />
 </details>
 <details align="center">
   <summary>Luocha</summary>
-  <img src="../images/showcase/Luocha_13_09_2024-07_27_24.png" />
+  <img src="../images/showcase/Luocha_13_09_2024-19_05_34.png" />
 </details>
 <details align="center">
   <summary>SaturnPrime</summary>
-  <img src="../images/showcase/SaturnPrime_13_09_2024-07_27_25.png" />
+  <img src="../images/showcase/SaturnPrime_13_09_2024-19_05_35.png" />
 </details>
 <details align="center">
   <summary>Dr. Ratio</summary>
-  <img src="../images/showcase/Dr.-Ratio_13_09_2024-07_27_26.png" />
+  <img src="../images/showcase/Dr.-Ratio_13_09_2024-19_05_36.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="../images/showcase/Robin_13_09_2024-07_27_27.png" />
+  <img src="../images/showcase/Robin_13_09_2024-19_05_36.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
