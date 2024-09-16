@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Sep 15, 2024 20:13 -0400</u></h3>
+<h3 align="center">🕒 Updated at <u>Sep 16, 2024 08:06 -0400</u></h3>
 <br />
 <details align="center" open="true">
   <summary>
@@ -11,7 +11,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/SaturnPrime_16_09_2024-07_13_19.png" />
+    <img src="../images/profile/SaturnPrime_16_09_2024-19_06_14.png" />
   </div>
   <div align="center">
     <h2>
@@ -55,7 +55,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>507</td>
+        <td>508</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -72,7 +72,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>8727 (rate -28)</td>
+        <td>8762 (rate -28)</td>
       </tr>
       <tr>
         <td>
@@ -87,8 +87,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 2375 (27%)<br />Daily Activity: 2190 (25%)<br />Event:
-          1790 (20%)<br />Other: 882 (12%)<br />Simulated Universe: 740 (8%)<br />Mail:
+          Adventure Rewards: 2410 (27%)<br />Daily Activity: 2190 (24%)<br />Event:
+          1790 (20%)<br />Other: 882 (13%)<br />Simulated Universe: 740 (8%)<br />Mail:
           750 (8%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -1334,6 +1334,117 @@
               <tr>
                 <td>Level</td>
                 <td>70</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Bronya </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Bronya</h3></th>
+          <th><h3>But the Battle Isn't Over</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/9727765de640bed8d56649021597c58f.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/7e278f483b393ca22ddf74a458261a3e.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/ae9ba13bf79f8311864ebc9c1816bf1d.png"
+                    ,
+                    height="18"
+                  />
+                  Watchmaker's Telescoping Lens<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/ce0be2257f22b0e01703ebe8d59c8653.png"
+                    ,
+                    height="18"
+                  />
+                  Grand Duke's Gloves of Fieryfur<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/6e7af85da2c01aa873ece5cd1f77a6f3.png"
+                    ,
+                    height="18"
+                  />
+                  Watchmaker's Illusory Formal Suit<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/1d540e29a8e7c358a3dab1dd35d15f2c.png"
+                    ,
+                    height="18"
+                  />
+                  Watchmaker's Dream-Concealing Dress Shoes<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/cb50d99e8dc21dda2c479cb61a38b09d.png"
+                    ,
+                    height="18"
+                  />
+                  The Xianzhou Luofu's Celestial Ark<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/12cec11522d540efaf99a0312eb2cc69.png"
+                    ,
+                    height="18"
+                  />
+                  The Xianzhou Luofu's Ambrosial Arbor Vines<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>But the Battle Isn't Over</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>50</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -4120,6 +4231,117 @@
       </table>
     </details>
     <details>
+      <summary><b>Gepard </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Gepard</h3></th>
+          <th><h3>Moment of Victory</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/19e7788033276b6dc4dfcab0dba3038d.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/9815010013cdf30e5f2fd50c7f604b11.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>72</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/b5517a40b69f08f6ea9740b3b63c50ad.png"
+                    ,
+                    height="18"
+                  />
+                  Disciple's Prosthetic Eye<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/1030cb109c43dc5128c572a81b3338ba.png"
+                    ,
+                    height="18"
+                  />
+                  Watchmaker's Fortuitous Wristwatch<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/896b661341e9fc449f4fab75d2deb908.png"
+                    ,
+                    height="18"
+                  />
+                  Band's Leather Jacket With Studs<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/1c77b6d70f33c216bf45b64772b5cc32.png"
+                    ,
+                    height="18"
+                  />
+                  Disciple's Celestial Silk Sandals<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/c926028f0cea482a49a3a870f21edc01.png"
+                    ,
+                    height="18"
+                  />
+                  Belobog's Fortress of Preservation<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/603b7afc06bc52ca7b658869a3ebdba2.png"
+                    ,
+                    height="18"
+                  />
+                  Belobog's Iron Defense<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Moment of Victory</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>60</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Xueyi </b></summary>
       <br />
       <table>
@@ -5341,228 +5563,6 @@
       </table>
     </details>
     <details>
-      <summary><b>Gepard </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Gepard</h3></th>
-          <th><h3>Moment of Victory</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/19e7788033276b6dc4dfcab0dba3038d.png"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/9815010013cdf30e5f2fd50c7f604b11.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>70</td>
-              </tr>
-              <tr>
-                <td>Eidolon</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/b5517a40b69f08f6ea9740b3b63c50ad.png"
-                    ,
-                    height="18"
-                  />
-                  Disciple's Prosthetic Eye<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/1030cb109c43dc5128c572a81b3338ba.png"
-                    ,
-                    height="18"
-                  />
-                  Watchmaker's Fortuitous Wristwatch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/896b661341e9fc449f4fab75d2deb908.png"
-                    ,
-                    height="18"
-                  />
-                  Band's Leather Jacket With Studs<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/1c77b6d70f33c216bf45b64772b5cc32.png"
-                    ,
-                    height="18"
-                  />
-                  Disciple's Celestial Silk Sandals<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Planar</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/c926028f0cea482a49a3a870f21edc01.png"
-                    ,
-                    height="18"
-                  />
-                  Belobog's Fortress of Preservation<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/603b7afc06bc52ca7b658869a3ebdba2.png"
-                    ,
-                    height="18"
-                  />
-                  Belobog's Iron Defense<br />
-                </td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Moment of Victory</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>60</td>
-              </tr>
-              <tr>
-                <td>Superimpose</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Bronya </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Bronya</h3></th>
-          <th><h3>But the Battle Isn't Over</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/9727765de640bed8d56649021597c58f.png"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/7e278f483b393ca22ddf74a458261a3e.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>70</td>
-              </tr>
-              <tr>
-                <td>Eidolon</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/ae9ba13bf79f8311864ebc9c1816bf1d.png"
-                    ,
-                    height="18"
-                  />
-                  Watchmaker's Telescoping Lens<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/ce0be2257f22b0e01703ebe8d59c8653.png"
-                    ,
-                    height="18"
-                  />
-                  Grand Duke's Gloves of Fieryfur<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/6e7af85da2c01aa873ece5cd1f77a6f3.png"
-                    ,
-                    height="18"
-                  />
-                  Watchmaker's Illusory Formal Suit<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/1d540e29a8e7c358a3dab1dd35d15f2c.png"
-                    ,
-                    height="18"
-                  />
-                  Watchmaker's Dream-Concealing Dress Shoes<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Planar</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/cb50d99e8dc21dda2c479cb61a38b09d.png"
-                    ,
-                    height="18"
-                  />
-                  The Xianzhou Luofu's Celestial Ark<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ufe9lc/12cec11522d540efaf99a0312eb2cc69.png"
-                    ,
-                    height="18"
-                  />
-                  The Xianzhou Luofu's Ambrosial Arbor Vines<br />
-                </td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>But the Battle Isn't Over</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>50</td>
-              </tr>
-              <tr>
-                <td>Superimpose</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
       <summary><b>Himeko </b></summary>
       <br />
       <table>
@@ -6271,7 +6271,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/genshin_profile_16_09_2024-07_12_32.png" />
+    <img src="../images/profile/genshin_profile_16_09_2024-19_05_31.png" />
   </div>
   <div align="center">
     <h2>
@@ -7968,36 +7968,36 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="../images/showcase/genshin_card_16_09_2024-07_11_58.png" />
+  <img src="../images/showcase/genshin_card_16_09_2024-19_04_57.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="../images/showcase/genshin_card_16_09_2024-07_12_00.png" />
+  <img src="../images/showcase/genshin_card_16_09_2024-19_04_58.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="../images/showcase/Acheron_16_09_2024-07_12_56.png" />
+  <img src="../images/showcase/Acheron_16_09_2024-19_05_55.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="../images/showcase/Ruan-Mei_16_09_2024-07_12_57.png" />
+  <img src="../images/showcase/Ruan-Mei_16_09_2024-19_05_56.png" />
 </details>
 <details align="center">
   <summary>Luocha</summary>
-  <img src="../images/showcase/Luocha_16_09_2024-07_12_57.png" />
+  <img src="../images/showcase/Luocha_16_09_2024-19_05_56.png" />
 </details>
 <details align="center">
   <summary>SaturnPrime</summary>
-  <img src="../images/showcase/SaturnPrime_16_09_2024-07_12_58.png" />
+  <img src="../images/showcase/SaturnPrime_16_09_2024-19_05_57.png" />
 </details>
 <details align="center">
   <summary>Dr. Ratio</summary>
-  <img src="../images/showcase/Dr.-Ratio_16_09_2024-07_12_59.png" />
+  <img src="../images/showcase/Dr.-Ratio_16_09_2024-19_05_58.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="../images/showcase/Robin_16_09_2024-07_13_00.png" />
+  <img src="../images/showcase/Robin_16_09_2024-19_05_59.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
