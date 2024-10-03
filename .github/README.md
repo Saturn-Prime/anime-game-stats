@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 03, 2024 07:11 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 03, 2024 19:05 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -561,6 +561,10 @@
     Honkai Star Rail Details
   </summary>
   <div align="center">
+    <h2>Profile</h2>
+    <img src="../images/profile/SaturnPrime_03_10_2024-19_05_45.png" />
+  </div>
+  <div align="center">
     <h2>
       <img src="../images/icons/hsr_check_in.png" height="20" /> Daily Rewards
     </h2>
@@ -619,7 +623,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>370 (rate -97)</td>
+        <td>610 (rate -95)</td>
       </tr>
       <tr>
         <td>
@@ -634,8 +638,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 300 (81%)<br />Mail: 70 (18%)<br />Other: 0 (1%)<br />Event:
-          0 (0%)<br />Adventure Rewards: 0 (0%)<br />Simulated Universe: 0
+          Daily Activity: 300 (49%)<br />Event: 240 (39%)<br />Mail: 70 (11%)<br />Other:
+          0 (1%)<br />Adventure Rewards: 0 (0%)<br />Simulated Universe: 0
           (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -3113,6 +3117,117 @@
       </table>
     </details>
     <details>
+      <summary><b>Herta </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Herta</h3></th>
+          <th><h3>Make the World Clamor</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/7af0303d7f1ed7196cc8467cd634846b.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/dd2994c2263d811cbee3620c14bbab34.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>79</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>6</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/cc969994912416c8dfb14b689f03474f.png"
+                    ,
+                    height="18"
+                  />
+                  Hunter's Artaius Hood<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/ae29181cab4c3a986b0fc8b3a0016a7e.png"
+                    ,
+                    height="18"
+                  />
+                  Hunter's Lizard Gloves<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/31eba261d48b74e2b854af21a5bd3753.png"
+                    ,
+                    height="18"
+                  />
+                  Hunter's Ice Dragon Cloak<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/46bd688c4eb065bb3e08bf055b5134de.png"
+                    ,
+                    height="18"
+                  />
+                  Hunter's Soft Elkskin Boots<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/2357d854b5d62cc99c6027a24935bd93.png"
+                    ,
+                    height="18"
+                  />
+                  Salsotto's Moving City<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/e02932819fe373225e26a5dd0a103c1b.png"
+                    ,
+                    height="18"
+                  />
+                  Salsotto's Terminator Line<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Make the World Clamor</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>50</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Yukong </b></summary>
       <br />
       <table>
@@ -5222,6 +5337,117 @@
       </table>
     </details>
     <details>
+      <summary><b>Sampo </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Sampo</h3></th>
+          <th><h3>Eyes of the Prey</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/5a72b72282e05d7ff1d0b43f4d5f4151.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/40356e58b2724e50cf30f6abbb5411f7.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>74</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>6</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/b2d8e65070a7ec87d9face00ae6d2f6d.png"
+                    ,
+                    height="18"
+                  />
+                  Eagle's Beaked Helmet<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/bf7accea31ae08198c1480cd256f0661.png"
+                    ,
+                    height="18"
+                  />
+                  Eagle's Soaring Ring<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/8ec0236f24405d9262a45a375bf43fc7.png"
+                    ,
+                    height="18"
+                  />
+                  Eagle's Winged Suit Harness<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/9606353e22e66854898fe5b89fdbb31a.png"
+                    ,
+                    height="18"
+                  />
+                  Eagle's Quilted Puttees<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/abc263bdb28029bb5714a75dd5bac045.png"
+                    ,
+                    height="18"
+                  />
+                  Herta's Space Station<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/d7a84ee48648c1be5fda732b1279b9ba.png"
+                    ,
+                    height="18"
+                  />
+                  Herta's Wandering Trek<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Eyes of the Prey</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>40</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Sparkle </b></summary>
       <br />
       <table>
@@ -6220,228 +6446,6 @@
         </tr>
       </table>
     </details>
-    <details>
-      <summary><b>Sampo </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Sampo</h3></th>
-          <th><h3>Eyes of the Prey</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/5a72b72282e05d7ff1d0b43f4d5f4151.png"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/40356e58b2724e50cf30f6abbb5411f7.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>72</td>
-              </tr>
-              <tr>
-                <td>Eidolon</td>
-                <td>6</td>
-              </tr>
-              <tr>
-                <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/b2d8e65070a7ec87d9face00ae6d2f6d.png"
-                    ,
-                    height="18"
-                  />
-                  Eagle's Beaked Helmet<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/bf7accea31ae08198c1480cd256f0661.png"
-                    ,
-                    height="18"
-                  />
-                  Eagle's Soaring Ring<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/8ec0236f24405d9262a45a375bf43fc7.png"
-                    ,
-                    height="18"
-                  />
-                  Eagle's Winged Suit Harness<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/9606353e22e66854898fe5b89fdbb31a.png"
-                    ,
-                    height="18"
-                  />
-                  Eagle's Quilted Puttees<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Planar</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/abc263bdb28029bb5714a75dd5bac045.png"
-                    ,
-                    height="18"
-                  />
-                  Herta's Space Station<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/d7a84ee48648c1be5fda732b1279b9ba.png"
-                    ,
-                    height="18"
-                  />
-                  Herta's Wandering Trek<br />
-                </td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Eyes of the Prey</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>40</td>
-              </tr>
-              <tr>
-                <td>Superimpose</td>
-                <td>5</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Herta </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Herta</h3></th>
-          <th><h3>Make the World Clamor</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/7af0303d7f1ed7196cc8467cd634846b.png"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/dd2994c2263d811cbee3620c14bbab34.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>72</td>
-              </tr>
-              <tr>
-                <td>Eidolon</td>
-                <td>6</td>
-              </tr>
-              <tr>
-                <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/cc969994912416c8dfb14b689f03474f.png"
-                    ,
-                    height="18"
-                  />
-                  Hunter's Artaius Hood<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/ae29181cab4c3a986b0fc8b3a0016a7e.png"
-                    ,
-                    height="18"
-                  />
-                  Hunter's Lizard Gloves<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/31eba261d48b74e2b854af21a5bd3753.png"
-                    ,
-                    height="18"
-                  />
-                  Hunter's Ice Dragon Cloak<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/46bd688c4eb065bb3e08bf055b5134de.png"
-                    ,
-                    height="18"
-                  />
-                  Hunter's Soft Elkskin Boots<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Planar</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/2357d854b5d62cc99c6027a24935bd93.png"
-                    ,
-                    height="18"
-                  />
-                  Salsotto's Moving City<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/e02932819fe373225e26a5dd0a103c1b.png"
-                    ,
-                    height="18"
-                  />
-                  Salsotto's Terminator Line<br />
-                </td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Make the World Clamor</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>50</td>
-              </tr>
-              <tr>
-                <td>Superimpose</td>
-                <td>5</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
   </div>
 </details>
 <details align="center">
@@ -6449,6 +6453,10 @@
     <img src="https://img.icons8.com/?size=20&id=lhMu5buYsjBC&format=png" />
     Genshin Impact Details
   </summary>
+  <div align="center">
+    <h2>Profile</h2>
+    <img src="../images/profile/genshin_profile_03_10_2024-19_05_15.png" />
+  </div>
   <div align="center">
     <h2>
       <img src="../images/icons/genshin_check_in.png" height="20" /> Daily
@@ -8517,6 +8525,40 @@
       </table>
     </details>
   </div>
+</details>
+<h2 align="center">My Genshin Impact Character Showcase</h2>
+<details align="center">
+  <summary>Showcase 1</summary>
+  <img src="../images/showcase/genshin_card_03_10_2024-19_04_54.png" />
+</details>
+<details align="center">
+  <summary>Showcase 2</summary>
+  <img src="../images/showcase/genshin_card_03_10_2024-19_04_55.png" />
+</details>
+<h2 align="center">My Honkai: Star Rail Character Showcase</h2>
+<details align="center">
+  <summary>Acheron</summary>
+  <img src="../images/showcase/Acheron_03_10_2024-19_05_29.png" />
+</details>
+<details align="center">
+  <summary>Ruan Mei</summary>
+  <img src="../images/showcase/Ruan-Mei_03_10_2024-19_05_29.png" />
+</details>
+<details align="center">
+  <summary>Luocha</summary>
+  <img src="../images/showcase/Luocha_03_10_2024-19_05_29.png" />
+</details>
+<details align="center">
+  <summary>SaturnPrime</summary>
+  <img src="../images/showcase/SaturnPrime_03_10_2024-19_05_30.png" />
+</details>
+<details align="center">
+  <summary>Dr. Ratio</summary>
+  <img src="../images/showcase/Dr.-Ratio_03_10_2024-19_05_30.png" />
+</details>
+<details align="center">
+  <summary>Robin</summary>
+  <img src="../images/showcase/Robin_03_10_2024-19_05_31.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
