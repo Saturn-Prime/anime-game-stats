@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 04, 2024 07:11 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 04, 2024 19:04 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -619,7 +619,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>700 (rate -95)</td>
+        <td>760 (rate -94)</td>
       </tr>
       <tr>
         <td>
@@ -634,7 +634,7 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 390 (55%)<br />Event: 240 (34%)<br />Mail: 70 (10%)<br />Other:
+          Daily Activity: 450 (59%)<br />Event: 240 (31%)<br />Mail: 70 (9%)<br />Other:
           0 (1%)<br />Adventure Rewards: 0 (0%)<br />Simulated Universe: 0
           (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
