@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 07, 2024 19:05 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 08, 2024 07:11 +0700</u></h3>
 <br />
 <details open="true" align="center">
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>7</td>
+        <td>8</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
             height="20"
           />
-          Condensed Aether
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -43,7 +43,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>280</td>
+        <td>281</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -51,11 +51,11 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>543</td>
+        <td>544</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>751</td>
+        <td>752</td>
       </tr>
     </table>
   </div>
@@ -68,7 +68,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>2085 (rate -85)</td>
+        <td>2176 (rate -85)</td>
       </tr>
       <tr>
         <td>
@@ -83,8 +83,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 900 (43%)<br />Event: 740 (35%)<br />Adventure
-          Rewards: 355 (17%)<br />Mail: 90 (4%)<br />Other: 0 (1%)<br />Simulated
+          Daily Activity: 990 (45%)<br />Event: 740 (34%)<br />Adventure
+          Rewards: 355 (16%)<br />Mail: 90 (4%)<br />Other: 1 (1%)<br />Simulated
           Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -5903,17 +5903,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>7</td>
+        <td>8</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          1 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/7cb065bb13a5fba94a26302b0db2080c_3875449856155324808.png"
             height="20"
           />
-          W-Engine Power Supplies
+          Bangboo Algorithm Modules
         </td>
       </tr>
     </table>
@@ -6457,17 +6457,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>7</td>
+        <td>8</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          3 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Mora
+          Adventurer's Experience
         </td>
       </tr>
     </table>
