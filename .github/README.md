@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 13, 2024 07:12 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 13, 2024 19:04 +0700</u></h3>
 <br />
 <details open="true" align="center">
   <summary>
@@ -51,11 +51,11 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>549</td>
+        <td>552</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>756</td>
+        <td>761</td>
       </tr>
     </table>
   </div>
@@ -68,7 +68,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>3841 (rate -73)</td>
+        <td>4276 (rate -71)</td>
       </tr>
       <tr>
         <td>
@@ -83,9 +83,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1740 (45%)<br />Event: 740 (19%)<br />Adventure
-          Rewards: 625 (16%)<br />Mail: 390 (10%)<br />Simulated Universe: 345
-          (8%)<br />Other: 1 (2%)<br />Forgotten Hall: 0 (0%)<br />
+          Daily Activity: 1800 (42%)<br />Event: 780 (18%)<br />Adventure
+          Rewards: 780 (18%)<br />Simulated Universe: 505 (11%)<br />Mail: 410
+          (9%)<br />Other: 1 (2%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -3561,6 +3561,117 @@
       </table>
     </details>
     <details>
+      <summary><b>Sparkle </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Sparkle</h3></th>
+          <th><h3>Planetary Rendezvous</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/327ab1c17f18bc9f8a4174c5f64c86c2.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/709e8afb4712c33147f89a08fa9efaf7.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>76</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/75f8e985a7edecc28c00604684a32512.png"
+                    ,
+                    height="18"
+                  />
+                  Knight's Forgiving Casque<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/8aeac07be0bcdf922d464e6cf66412ad.png"
+                    ,
+                    height="18"
+                  />
+                  Musketeer's Coarse Leather Gloves<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/1835e888f82f73ff13f93f6b15dfab53.png"
+                    ,
+                    height="18"
+                  />
+                  Thief's Steel Grappling Hook<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/15cce496eda2ce39cccd38d2bd6d3d92.png"
+                    ,
+                    height="18"
+                  />
+                  Genius's Gravity Walker<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/79ab044f7698562250c997a515fb784e.png"
+                    ,
+                    height="18"
+                  />
+                  Insumousu's Whalefall Ship<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/bd9d3a31b89285d86adb3ef772565ad2.png"
+                    ,
+                    height="18"
+                  />
+                  Insumousu's Frayed Hawser<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Planetary Rendezvous</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>40</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>4</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Yunli </b></summary>
       <br />
       <table>
@@ -4105,6 +4216,117 @@
               <tr>
                 <td>Level</td>
                 <td>70</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Xueyi </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Xueyi</h3></th>
+          <th><h3>A Secret Vow</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/d4d18134fb867d84eeb7152696fa58ea.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/4ad3c6da7296bdfd5d45014f238a6b4b.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>76</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>6</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/933fb04b52d3314e1715ae3ce408b177.png"
+                    ,
+                    height="18"
+                  />
+                  Thief's Myriad-Faced Mask<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/f17efbbbbb3135d1c5e06094cb1f7f4c.png"
+                    ,
+                    height="18"
+                  />
+                  Thief's Gloves With Prints<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/1835e888f82f73ff13f93f6b15dfab53.png"
+                    ,
+                    height="18"
+                  />
+                  Thief's Steel Grappling Hook<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/9182212ea73530430e7e356d5ce90d25.png"
+                    ,
+                    height="18"
+                  />
+                  Thief's Meteor Boots<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/918241ecd72f8cdfdcfbab2b07ef039f.png"
+                    ,
+                    height="18"
+                  />
+                  Talia's Nailscrap Town<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/7a57d6599313f10a4d0a877787102a86.png"
+                    ,
+                    height="18"
+                  />
+                  Talia's Exposed Electric Wire<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>A Secret Vow</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>40</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -5448,117 +5670,6 @@
       </table>
     </details>
     <details>
-      <summary><b>Xueyi </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Xueyi</h3></th>
-          <th><h3>A Secret Vow</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/d4d18134fb867d84eeb7152696fa58ea.png"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/4ad3c6da7296bdfd5d45014f238a6b4b.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>74</td>
-              </tr>
-              <tr>
-                <td>Eidolon</td>
-                <td>6</td>
-              </tr>
-              <tr>
-                <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/933fb04b52d3314e1715ae3ce408b177.png"
-                    ,
-                    height="18"
-                  />
-                  Thief's Myriad-Faced Mask<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/f17efbbbbb3135d1c5e06094cb1f7f4c.png"
-                    ,
-                    height="18"
-                  />
-                  Thief's Gloves With Prints<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/1835e888f82f73ff13f93f6b15dfab53.png"
-                    ,
-                    height="18"
-                  />
-                  Thief's Steel Grappling Hook<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/9182212ea73530430e7e356d5ce90d25.png"
-                    ,
-                    height="18"
-                  />
-                  Thief's Meteor Boots<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Planar</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/918241ecd72f8cdfdcfbab2b07ef039f.png"
-                    ,
-                    height="18"
-                  />
-                  Talia's Nailscrap Town<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/7a57d6599313f10a4d0a877787102a86.png"
-                    ,
-                    height="18"
-                  />
-                  Talia's Exposed Electric Wire<br />
-                </td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>A Secret Vow</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>40</td>
-              </tr>
-              <tr>
-                <td>Superimpose</td>
-                <td>5</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
       <summary><b>Luka </b></summary>
       <br />
       <table>
@@ -5774,117 +5885,6 @@
               <tr>
                 <td>Superimpose</td>
                 <td>5</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Sparkle </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Sparkle</h3></th>
-          <th><h3>Planetary Rendezvous</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/327ab1c17f18bc9f8a4174c5f64c86c2.png"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/709e8afb4712c33147f89a08fa9efaf7.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>73</td>
-              </tr>
-              <tr>
-                <td>Eidolon</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/75f8e985a7edecc28c00604684a32512.png"
-                    ,
-                    height="18"
-                  />
-                  Knight's Forgiving Casque<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/8aeac07be0bcdf922d464e6cf66412ad.png"
-                    ,
-                    height="18"
-                  />
-                  Musketeer's Coarse Leather Gloves<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/1835e888f82f73ff13f93f6b15dfab53.png"
-                    ,
-                    height="18"
-                  />
-                  Thief's Steel Grappling Hook<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/15cce496eda2ce39cccd38d2bd6d3d92.png"
-                    ,
-                    height="18"
-                  />
-                  Genius's Gravity Walker<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Planar</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/79ab044f7698562250c997a515fb784e.png"
-                    ,
-                    height="18"
-                  />
-                  Insumousu's Whalefall Ship<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/bd9d3a31b89285d86adb3ef772565ad2.png"
-                    ,
-                    height="18"
-                  />
-                  Insumousu's Frayed Hawser<br />
-                </td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Planetary Rendezvous</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>40</td>
-              </tr>
-              <tr>
-                <td>Superimpose</td>
-                <td>4</td>
               </tr>
             </table>
           </td>
