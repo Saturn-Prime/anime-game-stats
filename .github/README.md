@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 14, 2024 07:12 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 14, 2024 19:04 +0700</u></h3>
 <br />
 <details open="true" align="center">
   <summary>
@@ -87,27 +87,6 @@
           780 (17%)<br />Simulated Universe: 505 (11%)<br />Mail: 410 (9%)<br />Other:
           1 (2%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
-      </tr>
-    </table>
-  </div>
-  <div align="center">
-    <h2>Memory of Chaos</h2>
-    <table>
-      <tr>
-        <td>Season</td>
-        <td>1017</td>
-      </tr>
-      <tr>
-        <td>Max Floor</td>
-        <td>The Big Sleep (II)</td>
-      </tr>
-      <tr>
-        <td>Total Battles</td>
-        <td>2</td>
-      </tr>
-      <tr>
-        <td>Total Stars</td>
-        <td>2</td>
       </tr>
     </table>
   </div>
