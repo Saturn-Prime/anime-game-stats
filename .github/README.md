@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 15, 2024 07:11 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 15, 2024 19:04 +0700</u></h3>
 <br />
 <details open="true" align="center">
   <summary>
@@ -68,7 +68,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>4486 (rate -69)</td>
+        <td>4746 (rate -67)</td>
       </tr>
       <tr>
         <td>
@@ -83,9 +83,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1950 (43%)<br />Adventure Rewards: 840 (18%)<br />Event:
-          780 (17%)<br />Simulated Universe: 505 (11%)<br />Mail: 410 (9%)<br />Other:
-          1 (2%)<br />Forgotten Hall: 0 (0%)<br />
+          Daily Activity: 2100 (44%)<br />Adventure Rewards: 850 (17%)<br />Event:
+          780 (16%)<br />Simulated Universe: 505 (10%)<br />Mail: 510 (10%)<br />Other:
+          1 (3%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -6698,7 +6698,7 @@
           />
           Primogems earned
         </td>
-        <td>1280 (rate -48)</td>
+        <td>1660 (rate -33)</td>
       </tr>
       <tr>
         <td>
@@ -6708,12 +6708,12 @@
           />
           Mora earned
         </td>
-        <td>30000 (rate -97)</td>
+        <td>141000 (rate -89)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 1280 (100%)<br />Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral
+          Mail: 1660 (100%)<br />Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral
           Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure:
           0 (0%)<br />Other: 0 (0%)<br />
         </td>
@@ -8272,6 +8272,93 @@
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Artifacts<br /></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Hunter's Bow</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Collei</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Collei</h3></th>
+          <th><h3 align="center">Hunter's Bow</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Collei_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/de82d9383870bf6557ef2bc0b6cb5b03.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
                     height="18"
                   />
                 </td>
