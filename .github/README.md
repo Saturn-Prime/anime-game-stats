@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 17, 2024 07:11 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 17, 2024 19:04 +0700</u></h3>
 <br />
 <details open="true" align="center">
   <summary>
@@ -78,7 +78,7 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>13 (rate -69)</td>
+        <td>15 (rate -65)</td>
       </tr>
       <tr>
         <td>Categories</td>
@@ -6574,11 +6574,11 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>37</td>
+        <td>38</td>
       </tr>
       <tr>
         <td>Characters</td>
-        <td>18</td>
+        <td>20</td>
       </tr>
       <tr>
         <td>Spiral_Abyss</td>
