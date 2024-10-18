@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 18, 2024 07:11 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 18, 2024 19:04 +0700</u></h3>
 <br />
 <details open="true" align="center">
   <summary>
@@ -43,11 +43,11 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>289</td>
+        <td>290</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
-        <td>53</td>
+        <td>54</td>
       </tr>
       <tr>
         <td>Total Achievement</td>
@@ -68,7 +68,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>4896 (rate -66)</td>
+        <td>4986 (rate -66)</td>
       </tr>
       <tr>
         <td>
@@ -78,14 +78,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>15 (rate -65)</td>
+        <td>16 (rate -62)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 2250 (45%)<br />Adventure Rewards: 850 (17%)<br />Event:
+          Daily Activity: 2340 (46%)<br />Adventure Rewards: 850 (17%)<br />Event:
           780 (15%)<br />Simulated Universe: 505 (10%)<br />Mail: 510 (10%)<br />Other:
-          1 (3%)<br />Forgotten Hall: 0 (0%)<br />
+          1 (2%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -5971,6 +5971,117 @@
               <tr>
                 <td>Superimpose</td>
                 <td></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Welt </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Welt</h3></th>
+          <th><h3>Solitary Healing</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/42b07f31d3e4d9a15a369d48f31b6424.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/63ce7f02bc66a3cf1f58048b3d2a9c48.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>40</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/98e95d27eeb53f7459ab7c2df5651af2.png"
+                    ,
+                    height="18"
+                  />
+                  Musketeer's Wild Wheat Felt Hat<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/8aeac07be0bcdf922d464e6cf66412ad.png"
+                    ,
+                    height="18"
+                  />
+                  Musketeer's Coarse Leather Gloves<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/f85e5a7b21352e6e79fe5e52b4942cbf.png"
+                    ,
+                    height="18"
+                  />
+                  Musketeer's Wind-Hunting Shawl<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/6dd690fc242c7e8f9c7d4602ce991353.png"
+                    ,
+                    height="18"
+                  />
+                  Musketeer's Rivets Riding Boots<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/50438cadfb4ca2706d6e7a372cd5e757.png"
+                    ,
+                    height="18"
+                  />
+                  Taikiyan Laser Stadium<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/912c1c1e6cc2eb13f9715b98838c986d.png"
+                    ,
+                    height="18"
+                  />
+                  Taikiyan's Arclight Race Track<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Solitary Healing</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>1</td>
               </tr>
             </table>
           </td>
