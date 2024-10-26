@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 25, 2024 19:04 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 26, 2024 07:11 +0700</u></h3>
 <br />
 <details open="true" align="center">
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>25</td>
+        <td>26</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/7cb0e487e051f177d3f41de8d4bbc521_1182531883532191221.png"
             height="20"
           />
-          Disposable Kinetic Arm
+          Refined Aether
         </td>
       </tr>
     </table>
@@ -43,7 +43,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>296</td>
+        <td>297</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -68,7 +68,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>6596 (rate -55)</td>
+        <td>6746 (rate -54)</td>
       </tr>
       <tr>
         <td>
@@ -83,9 +83,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 3240 (49%)<br />Mail: 1180 (17%)<br />Adventure
+          Daily Activity: 3390 (50%)<br />Mail: 1180 (17%)<br />Adventure
           Rewards: 890 (13%)<br />Event: 780 (11%)<br />Simulated Universe: 505
-          (7%)<br />Other: 1 (3%)<br />Forgotten Hall: 0 (0%)<br />
+          (7%)<br />Other: 1 (2%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -6104,17 +6104,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>25</td>
+        <td>26</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/86e1f7a5ff283d527bbc019475847174_6873942739037299410.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/6ef3e419022c871257a936b1857ac9d1_7183854527138136141.png"
             height="20"
           />
-          Senior Investigator Logs
+          W-Engine Energy Modules
         </td>
       </tr>
     </table>
@@ -6865,17 +6865,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>25</td>
+        <td>26</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
             height="20"
           />
-          Hero's Wit
+          Almond Tofu
         </td>
       </tr>
     </table>
