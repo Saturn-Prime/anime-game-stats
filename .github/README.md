@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 01, 2024 19:05 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 02, 2024 07:11 +0700</u></h3>
 <br />
 <details open="true" align="center">
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>1</td>
+        <td>2</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -43,7 +43,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>301</td>
+        <td>302</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -68,7 +68,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>1030 (rate -87)</td>
       </tr>
       <tr>
         <td>
@@ -78,14 +78,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>6 (rate -79)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 0 (0%)<br />Event: 0 (0%)<br />Adventure Rewards: 0
-          (0%)<br />Simulated Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />Mail:
-          0 (0%)<br />Other: 0 (0%)<br />
+          Other: 880 (86%)<br />Daily Activity: 150 (14%)<br />Event: 0 (0%)<br />Adventure
+          Rewards: 0 (0%)<br />Simulated Universe: 0 (0%)<br />Forgotten Hall: 0
+          (0%)<br />Mail: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -6104,17 +6104,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>1</td>
+        <td>2</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
             height="20"
           />
-          Official Investigator Logs
+          W-Engine Power Supplies
         </td>
       </tr>
     </table>
@@ -6865,17 +6865,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>1</td>
+        <td>2</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
             height="20"
           />
-          Adventurer's Experience
+          Fine Enhancement Ore
         </td>
       </tr>
     </table>
@@ -7213,33 +7213,8 @@
                 <td>0</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />1 x Lucky Dog<br />3 x Adventurer<br />1 x
-                  Traveling Doctor<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/82f400a36d3d2a7a4c0eefcf8c2b277f.png"
-                    height="18"
-                  />
-                  Lucky Dog's Clover<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/6a37c0e21eb07f71ac2e7a7f5403f98a.png"
-                    height="18"
-                  />
-                  Adventurer's Tail Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/ec635a2b6e5125197236691350287552.png"
-                    height="18"
-                  />
-                  Adventurer's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/ca6230bb34c9011e7ae2231e3b837bfe.png"
-                    height="18"
-                  />
-                  Adventurer's Golden Goblet<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/8041b86026bca976460d60f135e45daf.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Handkerchief<br />
-                </td>
+                <td>Artifacts<br /></td>
+                <td></td>
               </tr>
               <tr>
                 <td>Outfits</td>
@@ -7325,33 +7300,8 @@
                 <td>1</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />2 x Berserker<br />2 x Adventurer<br />1 x
-                  Traveling Doctor<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/62a3024a5a185dacfc73edf70d9ce897.png"
-                    height="18"
-                  />
-                  Berserker's Rose<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/6a37c0e21eb07f71ac2e7a7f5403f98a.png"
-                    height="18"
-                  />
-                  Adventurer's Tail Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/9d25a187cfd76497faa25ff2bc751c0f.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/aa4bdbd488b63d316e4543b5fa04e600.png"
-                    height="18"
-                  />
-                  Berserker's Bone Goblet<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/2051dd13d5a58daf21c3bf718c79fcc0.png"
-                    height="18"
-                  />
-                  Adventurer's Bandana<br />
-                </td>
+                <td>Artifacts<br /></td>
+                <td></td>
               </tr>
               <tr>
                 <td>Outfits</td>
@@ -7437,24 +7387,8 @@
                 <td>0</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />1 x Traveling Doctor<br />2 x Adventurer<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/1392dfa458b5b7e6f1a193c3665a4b49.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Silver Lotus<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/6a37c0e21eb07f71ac2e7a7f5403f98a.png"
-                    height="18"
-                  />
-                  Adventurer's Tail Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/ec635a2b6e5125197236691350287552.png"
-                    height="18"
-                  />
-                  Adventurer's Pocket Watch<br />
-                </td>
+                <td>Artifacts<br /></td>
+                <td></td>
               </tr>
               <tr>
                 <td>Outfits</td>
@@ -7540,33 +7474,8 @@
                 <td>0</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />3 x Traveling Doctor<br />1 x Adventurer<br />1
-                  x Lucky Dog<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/1392dfa458b5b7e6f1a193c3665a4b49.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Silver Lotus<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/b41c99dd498da5b4de31b456a8d1639c.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Owl Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/9d25a187cfd76497faa25ff2bc751c0f.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/ca6230bb34c9011e7ae2231e3b837bfe.png"
-                    height="18"
-                  />
-                  Adventurer's Golden Goblet<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/cee455acd1ef2b8cbef4f1d21e7e34ff.png"
-                    height="18"
-                  />
-                  Lucky Dog's Silver Circlet<br />
-                </td>
+                <td>Artifacts<br /></td>
+                <td></td>
               </tr>
               <tr>
                 <td>Outfits</td>
@@ -7652,33 +7561,8 @@
                 <td>0</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />1 x Instructor<br />2 x Resolution of
-                  Sojourner<br />1 x Martial Artist<br />1 x Traveling Doctor<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/2c8f98a6f73169f90def3a444317578b.png"
-                    height="18"
-                  />
-                  Instructor's Brooch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/3dab220fff8334fb7785db2d5b4e240c.png"
-                    height="18"
-                  />
-                  Feather of Homecoming<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/cabe689aba3fc5fb062b56a8515ad359.png"
-                    height="18"
-                  />
-                  Martial Artist's Water Hourglass<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/7541c65ae5d0bf597141b13a6ed376dc.png"
-                    height="18"
-                  />
-                  Goblet of the Sojourner<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/8041b86026bca976460d60f135e45daf.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Handkerchief<br />
-                </td>
+                <td>Artifacts<br /></td>
+                <td></td>
               </tr>
               <tr>
                 <td>Outfits</td>
@@ -7764,32 +7648,8 @@
                 <td>0</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />3 x Traveling Doctor<br />2 x Berserker<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/1392dfa458b5b7e6f1a193c3665a4b49.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Silver Lotus<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/4dfd7f3e0fcc132dcf6c51715b39fb79.png"
-                    height="18"
-                  />
-                  Berserker's Indigo Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/9d25a187cfd76497faa25ff2bc751c0f.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/b14200c1bd154aa54c0f63fd4d6b593a.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Medicine Pot<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/892bec4232cd92f1d0649de6eef709f5.png"
-                    height="18"
-                  />
-                  Berserker's Battle Mask<br />
-                </td>
+                <td>Artifacts<br /></td>
+                <td></td>
               </tr>
               <tr>
                 <td>Outfits</td>
@@ -7875,32 +7735,8 @@
                 <td>0</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />4 x Traveling Doctor<br />1 x Adventurer<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/1392dfa458b5b7e6f1a193c3665a4b49.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Silver Lotus<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/6a37c0e21eb07f71ac2e7a7f5403f98a.png"
-                    height="18"
-                  />
-                  Adventurer's Tail Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/9d25a187cfd76497faa25ff2bc751c0f.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/b14200c1bd154aa54c0f63fd4d6b593a.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Medicine Pot<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/8041b86026bca976460d60f135e45daf.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Handkerchief<br />
-                </td>
+                <td>Artifacts<br /></td>
+                <td></td>
               </tr>
               <tr>
                 <td>Outfits</td>
@@ -7986,37 +7822,12 @@
                 <td>0</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />1 x Instructor<br />1 x Berserker<br />2 x
-                  Traveling Doctor<br />1 x Blizzard Strayer<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/2c8f98a6f73169f90def3a444317578b.png"
-                    height="18"
-                  />
-                  Instructor's Brooch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/4dfd7f3e0fcc132dcf6c51715b39fb79.png"
-                    height="18"
-                  />
-                  Berserker's Indigo Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/9d25a187cfd76497faa25ff2bc751c0f.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/b14200c1bd154aa54c0f63fd4d6b593a.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Medicine Pot<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/e2ecd861b967b2fd73b005fff6f841db.png"
-                    height="18"
-                  />
-                  Broken Rime's Echo<br />
-                </td>
+                <td>Artifacts<br /></td>
+                <td></td>
               </tr>
               <tr>
                 <td>Outfits</td>
-                <td>100% Outrider</td>
+                <td></td>
               </tr>
             </table>
           </td>
@@ -8098,33 +7909,8 @@
                 <td>0</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />2 x Adventurer<br />1 x Traveling Doctor<br />2
-                  x Berserker<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/4bba018eecd2adde8197932299b28d0e.png"
-                    height="18"
-                  />
-                  Adventurer's Flower<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/b41c99dd498da5b4de31b456a8d1639c.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Owl Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/2ab7cd6c3abe720c00aa0b07f8cb21e8.png"
-                    height="18"
-                  />
-                  Berserker's Timepiece<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/aa4bdbd488b63d316e4543b5fa04e600.png"
-                    height="18"
-                  />
-                  Berserker's Bone Goblet<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/2051dd13d5a58daf21c3bf718c79fcc0.png"
-                    height="18"
-                  />
-                  Adventurer's Bandana<br />
-                </td>
+                <td>Artifacts<br /></td>
+                <td></td>
               </tr>
               <tr>
                 <td>Outfits</td>
@@ -8210,32 +7996,8 @@
                 <td>0</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />3 x Adventurer<br />2 x Traveling Doctor<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/4bba018eecd2adde8197932299b28d0e.png"
-                    height="18"
-                  />
-                  Adventurer's Flower<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/b41c99dd498da5b4de31b456a8d1639c.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Owl Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/9d25a187cfd76497faa25ff2bc751c0f.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/ca6230bb34c9011e7ae2231e3b837bfe.png"
-                    height="18"
-                  />
-                  Adventurer's Golden Goblet<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/2051dd13d5a58daf21c3bf718c79fcc0.png"
-                    height="18"
-                  />
-                  Adventurer's Bandana<br />
-                </td>
+                <td>Artifacts<br /></td>
+                <td></td>
               </tr>
               <tr>
                 <td>Outfits</td>
@@ -8321,32 +8083,8 @@
                 <td>0</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />4 x Traveling Doctor<br />1 x Adventurer<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/1392dfa458b5b7e6f1a193c3665a4b49.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Silver Lotus<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/6a37c0e21eb07f71ac2e7a7f5403f98a.png"
-                    height="18"
-                  />
-                  Adventurer's Tail Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/9d25a187cfd76497faa25ff2bc751c0f.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/b14200c1bd154aa54c0f63fd4d6b593a.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Medicine Pot<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/8041b86026bca976460d60f135e45daf.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Handkerchief<br />
-                </td>
+                <td>Artifacts<br /></td>
+                <td></td>
               </tr>
               <tr>
                 <td>Outfits</td>
@@ -8432,33 +8170,8 @@
                 <td>0</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />2 x Berserker<br />2 x Adventurer<br />1 x
-                  Traveling Doctor<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/62a3024a5a185dacfc73edf70d9ce897.png"
-                    height="18"
-                  />
-                  Berserker's Rose<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/4dfd7f3e0fcc132dcf6c51715b39fb79.png"
-                    height="18"
-                  />
-                  Berserker's Indigo Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/ec635a2b6e5125197236691350287552.png"
-                    height="18"
-                  />
-                  Adventurer's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/ca6230bb34c9011e7ae2231e3b837bfe.png"
-                    height="18"
-                  />
-                  Adventurer's Golden Goblet<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/8041b86026bca976460d60f135e45daf.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Handkerchief<br />
-                </td>
+                <td>Artifacts<br /></td>
+                <td></td>
               </tr>
               <tr>
                 <td>Outfits</td>
@@ -8549,7 +8262,7 @@
               </tr>
               <tr>
                 <td>Outfits</td>
-                <td>Pact of Stars and Moon</td>
+                <td></td>
               </tr>
             </table>
           </td>
