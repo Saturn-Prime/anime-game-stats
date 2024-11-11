@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 10, 2024 19:04 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 11, 2024 07:11 +0700</u></h3>
 <br />
 <details open="true" align="center">
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>10</td>
+        <td>11</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
             height="20"
           />
-          Adventure Log
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -43,7 +43,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>308</td>
+        <td>309</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -68,7 +68,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>2445 (rate -69)</td>
+        <td>2900 (rate -63)</td>
       </tr>
       <tr>
         <td>
@@ -78,14 +78,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>20 (rate -31)</td>
+        <td>21 (rate -27)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 990 (40%)<br />Other: 880 (38%)<br />Event: 500
-          (20%)<br />Mail: 70 (2%)<br />Adventure Rewards: 5 (0%)<br />Simulated
-          Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />
+          Daily Activity: 1140 (39%)<br />Other: 880 (32%)<br />Event: 500
+          (17%)<br />Simulated Universe: 305 (10%)<br />Mail: 70 (2%)<br />Adventure
+          Rewards: 5 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -6215,17 +6215,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>10</td>
+        <td>11</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          3000 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
             height="20"
           />
-          W-Engine Power Supplies
+          Dennies
         </td>
       </tr>
     </table>
@@ -6976,17 +6976,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>10</td>
+        <td>11</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          20 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
             height="20"
           />
-          Mora
+          Primogem
         </td>
       </tr>
     </table>
