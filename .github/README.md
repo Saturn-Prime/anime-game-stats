@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 23, 2024 07:11 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 23, 2024 19:05 +0700</u></h3>
 <br />
 <details open="true" align="center">
   <summary>
@@ -43,7 +43,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>317</td>
+        <td>319</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -51,7 +51,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>566</td>
+        <td>570</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -68,7 +68,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>4915 (rate -38)</td>
+        <td>5885 (rate -26)</td>
       </tr>
       <tr>
         <td>
@@ -78,14 +78,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>23 (rate -20)</td>
+        <td>24 (rate -17)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 2340 (47%)<br />Other: 880 (20%)<br />Adventure
-          Rewards: 780 (15%)<br />Event: 500 (10%)<br />Simulated Universe: 305
-          (6%)<br />Mail: 110 (2%)<br />Forgotten Hall: 0 (0%)<br />
+          Daily Activity: 2590 (44%)<br />Other: 880 (18%)<br />Event: 880
+          (14%)<br />Adventure Rewards: 820 (13%)<br />Mail: 410 (6%)<br />Simulated
+          Universe: 305 (5%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -699,7 +699,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>0</td>
+                <td>1</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -1419,7 +1419,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>50</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -2640,7 +2640,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -6134,7 +6134,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>60</td>
+                <td>69</td>
               </tr>
               <tr>
                 <td>Eidolon</td>
@@ -7007,7 +7007,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>40</td>
+        <td>41</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -7238,7 +7238,7 @@
           />
           Primogems earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>140 (rate -91)</td>
       </tr>
       <tr>
         <td>
@@ -7253,9 +7253,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0
+          Events: 100 (72%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0
           (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure:
-          0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
+          0 (0%)<br />Mail: 0 (0%)<br />Other: 40 (28%)<br />
         </td>
       </tr>
     </table>
