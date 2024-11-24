@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 24, 2024 07:14 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 24, 2024 19:04 +0700</u></h3>
 <br />
 <details open="true" align="center">
   <summary>
@@ -43,7 +43,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>319</td>
+        <td>320</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -51,7 +51,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>570</td>
+        <td>571</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -68,7 +68,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>6095 (rate -23)</td>
+        <td>6520 (rate -18)</td>
       </tr>
       <tr>
         <td>
@@ -83,9 +83,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 2640 (43%)<br />Event: 1040 (17%)<br />Other: 880
-          (16%)<br />Adventure Rewards: 820 (13%)<br />Mail: 410 (6%)<br />Simulated
-          Universe: 305 (5%)<br />Forgotten Hall: 0 (0%)<br />
+          Daily Activity: 2640 (40%)<br />Event: 1440 (22%)<br />Other: 880
+          (16%)<br />Adventure Rewards: 845 (12%)<br />Mail: 410 (6%)<br />Simulated
+          Universe: 305 (4%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -6134,7 +6134,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td>73</td>
               </tr>
               <tr>
                 <td>Eidolon</td>
@@ -7007,7 +7007,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>41</td>
+        <td>42</td>
       </tr>
       <tr>
         <td>Characters</td>
