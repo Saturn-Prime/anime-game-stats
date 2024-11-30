@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 29, 2024 19:04 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 30, 2024 07:12 +0700</u></h3>
 <br />
 <details open="true" align="center">
   <summary>
@@ -16,7 +16,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -43,7 +43,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>323</td>
+        <td>324</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -55,7 +55,7 @@
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>779</td>
+        <td>782</td>
       </tr>
     </table>
   </div>
@@ -68,7 +68,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>8160 (rate 2)</td>
+        <td>8535 (rate 7)</td>
       </tr>
       <tr>
         <td>
@@ -78,15 +78,36 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>24 (rate -17)</td>
+        <td>25 (rate -13)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 3240 (39%)<br />Event: 2420 (29%)<br />Other: 880
-          (13%)<br />Adventure Rewards: 905 (11%)<br />Mail: 410 (5%)<br />Simulated
-          Universe: 305 (3%)<br />Forgotten Hall: 0 (0%)<br />
+          Daily Activity: 3390 (39%)<br />Event: 2420 (28%)<br />Other: 880
+          (13%)<br />Adventure Rewards: 905 (10%)<br />Simulated Universe: 530
+          (6%)<br />Mail: 410 (4%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
+      </tr>
+    </table>
+  </div>
+  <div align="center">
+    <h2>Memory of Chaos</h2>
+    <table>
+      <tr>
+        <td>Season</td>
+        <td>1019</td>
+      </tr>
+      <tr>
+        <td>Max Floor</td>
+        <td>Dancing with the Dreams Stage 2</td>
+      </tr>
+      <tr>
+        <td>Total Battles</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Total Stars</td>
+        <td>2</td>
       </tr>
     </table>
   </div>
@@ -6215,7 +6236,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -7045,7 +7066,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
