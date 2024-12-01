@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 30, 2024 19:04 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 01, 2024 19:04 +0700</u></h3>
 <br />
 <details open="true" align="center">
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>30</td>
+        <td>1</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Credit
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -43,7 +43,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>324</td>
+        <td>325</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -51,7 +51,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>573</td>
+        <td>577</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -68,7 +68,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>8600 (rate 8)</td>
+        <td>0 (rate -100)</td>
       </tr>
       <tr>
         <td>
@@ -78,14 +78,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>25 (rate -13)</td>
+        <td>0 (rate -100)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 3390 (39%)<br />Event: 2470 (28%)<br />Other: 880
-          (13%)<br />Adventure Rewards: 920 (10%)<br />Simulated Universe: 530
-          (6%)<br />Mail: 410 (4%)<br />Forgotten Hall: 0 (0%)<br />
+          Daily Activity: 0 (0%)<br />Event: 0 (0%)<br />Adventure Rewards: 0
+          (0%)<br />Simulated Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />Mail:
+          0 (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -6236,17 +6236,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>30</td>
+        <td>1</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3000 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
             height="20"
           />
-          Dennies
+          Official Investigator Logs
         </td>
       </tr>
     </table>
@@ -7066,17 +7066,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>30</td>
+        <td>1</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          3 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Mora
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -7328,7 +7328,7 @@
           />
           Primogems earned
         </td>
-        <td>140 (rate -91)</td>
+        <td>0 (rate -100)</td>
       </tr>
       <tr>
         <td>
@@ -7338,14 +7338,14 @@
           />
           Mora earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>0 (rate 0)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 100 (72%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0
+          Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0
           (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure:
-          0 (0%)<br />Mail: 0 (0%)<br />Other: 40 (28%)<br />
+          0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
     </table>
