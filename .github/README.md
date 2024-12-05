@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 05, 2024 07:12 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 05, 2024 19:05 +0700</u></h3>
 <br />
 <details open="true" align="center">
   <summary>
@@ -43,7 +43,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>328</td>
+        <td>330</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -68,7 +68,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>1200 (rate -87)</td>
+        <td>2400 (rate -74)</td>
       </tr>
       <tr>
         <td>
@@ -78,13 +78,13 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>11 (rate -56)</td>
+        <td>12 (rate -52)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 650 (54%)<br />Daily Activity: 450 (37%)<br />Adventure Rewards:
-          60 (5%)<br />Event: 40 (3%)<br />Other: 0 (1%)<br />Simulated
+          Mail: 1670 (69%)<br />Daily Activity: 630 (26%)<br />Adventure
+          Rewards: 60 (2%)<br />Other: 0 (2%)<br />Event: 40 (1%)<br />Simulated
           Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -7328,7 +7328,7 @@
           />
           Primogems earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>930 (rate 564)</td>
       </tr>
       <tr>
         <td>
@@ -7338,14 +7338,14 @@
           />
           Mora earned
         </td>
-        <td>0 (rate 0)</td>
+        <td>277544 (rate 27754400)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0
-          (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure:
-          0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
+          Mail: 920 (99%)<br />Daily Activity: 10 (1%)<br />Events: 0 (0%)<br />Spiral
+          Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure:
+          0 (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
     </table>
