@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 08, 2024 07:13 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 08, 2024 19:04 +0700</u></h3>
 <br />
 <details open="true" align="center">
   <summary>
@@ -78,7 +78,7 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>15 (rate -40)</td>
+        <td>16 (rate -36)</td>
       </tr>
       <tr>
         <td>Categories</td>
@@ -7097,7 +7097,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>43</td>
+        <td>44</td>
       </tr>
       <tr>
         <td>Characters</td>
