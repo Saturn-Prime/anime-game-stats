@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 18, 2024 07:12 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 18, 2024 19:05 +0700</u></h3>
 <br />
 <details open="true" align="center">
   <summary>
@@ -6435,7 +6435,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u642mb/df32c995b40bb36526f47d221f7b588a.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uc0cob/9b7466c8a19f82da2427bcc192f6d01a.png"
                     height="18"
                   />
                 </td>
@@ -6504,7 +6504,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u642mb/cc9b1e5aa254211b6f335c1523fe4d5f.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uc0cob/7605acd083d9f7577d95f47c46d75139.png"
                     height="18"
                   />
                 </td>
@@ -6573,7 +6573,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u642mb/a6c6f864844e7d8fcbe369b45714b63f.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uc0cob/4ac607ddd0aa74e931c25923911bb484.png"
                     height="18"
                   />
                 </td>
@@ -6642,7 +6642,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u642mb/a6c6f864844e7d8fcbe369b45714b63f.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uc0cob/4ac607ddd0aa74e931c25923911bb484.png"
                     height="18"
                   />
                 </td>
@@ -6711,7 +6711,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u642mb/a6c6f864844e7d8fcbe369b45714b63f.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uc0cob/4ac607ddd0aa74e931c25923911bb484.png"
                     height="18"
                   />
                 </td>
@@ -6780,7 +6780,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u642mb/df32c995b40bb36526f47d221f7b588a.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uc0cob/9b7466c8a19f82da2427bcc192f6d01a.png"
                     height="18"
                   />
                 </td>
@@ -6849,7 +6849,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u642mb/408f5979dd15fafe6bcf063decf29b5e.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uc0cob/89480280d73cefc480dc24f1b1c3e449.png"
                     height="18"
                   />
                 </td>
@@ -6918,7 +6918,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u642mb/2722d5b4141c184c60f23269648246c3.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uc0cob/efe476c1a7356a4703849ea3b811bb20.png"
                     height="18"
                   />
                 </td>
@@ -6987,7 +6987,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u642mb/cc9b1e5aa254211b6f335c1523fe4d5f.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uc0cob/7605acd083d9f7577d95f47c46d75139.png"
                     height="18"
                   />
                 </td>
@@ -7056,7 +7056,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u642mb/2722d5b4141c184c60f23269648246c3.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uc0cob/efe476c1a7356a4703849ea3b811bb20.png"
                     height="18"
                   />
                 </td>
@@ -7125,7 +7125,7 @@
                 <td>Faction</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_u642mb/2722d5b4141c184c60f23269648246c3.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uc0cob/efe476c1a7356a4703849ea3b811bb20.png"
                     height="18"
                   />
                 </td>
