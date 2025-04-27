@@ -1,7 +1,7 @@
-<h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 27, 2025 22:42 +0700</u></h3>
+<h1 align="center">Anime Game Stats</h1>
+<h3 align="center">🕒 Updated at <u>Apr 27, 2025 22:45 +0700</u></h3>
 <br />
-<details align="center">
+<details align="center" open>
   <summary>
     <img
       src="https://i.pinimg.com/originals/a3/33/85/a3338541288aa31ff713edaf12c99961.png"
@@ -234,7 +234,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Castorice </b></summary>
       <br />
       <table>
@@ -345,7 +345,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Mydei </b></summary>
       <br />
       <table>
@@ -456,7 +456,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Tribbie </b></summary>
       <br />
       <table>
@@ -567,7 +567,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Aglaea </b></summary>
       <br />
       <table>
@@ -678,7 +678,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>The Herta </b></summary>
       <br />
       <table>
@@ -789,7 +789,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Rappa </b></summary>
       <br />
       <table>
@@ -900,7 +900,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Boothill </b></summary>
       <br />
       <table>
@@ -1011,7 +1011,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Jade </b></summary>
       <br />
       <table>
@@ -1122,7 +1122,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Sunday </b></summary>
       <br />
       <table>
@@ -1233,7 +1233,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Firefly </b></summary>
       <br />
       <table>
@@ -1344,7 +1344,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Robin </b></summary>
       <br />
       <table>
@@ -1455,7 +1455,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Acheron </b></summary>
       <br />
       <table>
@@ -1566,7 +1566,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Black Swan </b></summary>
       <br />
       <table>
@@ -1677,7 +1677,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Sparkle </b></summary>
       <br />
       <table>
@@ -1788,7 +1788,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Dr. Ratio </b></summary>
       <br />
       <table>
@@ -1899,7 +1899,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Aventurine </b></summary>
       <br />
       <table>
@@ -2010,7 +2010,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Ruan Mei </b></summary>
       <br />
       <table>
@@ -2121,7 +2121,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Argenti </b></summary>
       <br />
       <table>
@@ -2232,7 +2232,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Fugue </b></summary>
       <br />
       <table>
@@ -2343,7 +2343,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Lingsha </b></summary>
       <br />
       <table>
@@ -2454,7 +2454,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Yunli </b></summary>
       <br />
       <table>
@@ -2565,7 +2565,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Feixiao </b></summary>
       <br />
       <table>
@@ -2676,7 +2676,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Jiaoqiu </b></summary>
       <br />
       <table>
@@ -2787,7 +2787,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Huohuo </b></summary>
       <br />
       <table>
@@ -2898,7 +2898,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Dan Heng • Imbibitor Lunae </b></summary>
       <br />
       <table>
@@ -3009,7 +3009,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Jingliu </b></summary>
       <br />
       <table>
@@ -3120,7 +3120,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Bailu </b></summary>
       <br />
       <table>
@@ -3231,7 +3231,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Yanqing </b></summary>
       <br />
       <table>
@@ -3342,7 +3342,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Fu Xuan </b></summary>
       <br />
       <table>
@@ -3453,7 +3453,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Blade </b></summary>
       <br />
       <table>
@@ -3564,7 +3564,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Jing Yuan </b></summary>
       <br />
       <table>
@@ -3675,7 +3675,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Luocha </b></summary>
       <br />
       <table>
@@ -3786,7 +3786,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Topaz & Numby </b></summary>
       <br />
       <table>
@@ -3897,7 +3897,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Clara </b></summary>
       <br />
       <table>
@@ -4008,7 +4008,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Gepard </b></summary>
       <br />
       <table>
@@ -4119,7 +4119,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Bronya </b></summary>
       <br />
       <table>
@@ -4230,7 +4230,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Silver Wolf </b></summary>
       <br />
       <table>
@@ -4341,7 +4341,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Kafka </b></summary>
       <br />
       <table>
@@ -4452,7 +4452,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Welt </b></summary>
       <br />
       <table>
@@ -4563,7 +4563,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Himeko </b></summary>
       <br />
       <table>
@@ -4674,7 +4674,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Misha </b></summary>
       <br />
       <table>
@@ -4785,7 +4785,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Gallagher </b></summary>
       <br />
       <table>
@@ -4896,7 +4896,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>March 7th </b></summary>
       <br />
       <table>
@@ -5007,7 +5007,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Moze </b></summary>
       <br />
       <table>
@@ -5118,7 +5118,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Hanya </b></summary>
       <br />
       <table>
@@ -5229,7 +5229,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Xueyi </b></summary>
       <br />
       <table>
@@ -5340,7 +5340,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Guinaifen </b></summary>
       <br />
       <table>
@@ -5451,7 +5451,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Yukong </b></summary>
       <br />
       <table>
@@ -5562,7 +5562,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Sushang </b></summary>
       <br />
       <table>
@@ -5673,7 +5673,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Tingyun </b></summary>
       <br />
       <table>
@@ -5784,7 +5784,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Qingque </b></summary>
       <br />
       <table>
@@ -5895,7 +5895,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Luka </b></summary>
       <br />
       <table>
@@ -6006,7 +6006,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Lynx </b></summary>
       <br />
       <table>
@@ -6117,7 +6117,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Hook </b></summary>
       <br />
       <table>
@@ -6228,7 +6228,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Sampo </b></summary>
       <br />
       <table>
@@ -6339,7 +6339,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Pela </b></summary>
       <br />
       <table>
@@ -6450,7 +6450,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Natasha </b></summary>
       <br />
       <table>
@@ -6561,7 +6561,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Serval </b></summary>
       <br />
       <table>
@@ -6672,7 +6672,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Herta </b></summary>
       <br />
       <table>
@@ -6783,7 +6783,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Asta </b></summary>
       <br />
       <table>
@@ -6894,7 +6894,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Arlan </b></summary>
       <br />
       <table>
@@ -7005,7 +7005,7 @@
         </tr>
       </table>
     </details>
-    <details>
+    <details open>
       <summary><b>Dan Heng </b></summary>
       <br />
       <table>
