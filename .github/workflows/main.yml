@@ -2,7 +2,7 @@ name: "Daily check and update"
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "10 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -32,8 +32,8 @@ jobs:
       - name: Commit and push if changed
         run: |
           git diff
-          git config user.name "Shenhe"
-          git config user.email "shenhe@github.com"
+          git config user.name "Game Stats Cron"
+          git config user.email "GameStats@GameStats.com"
           git add .
-          git commit -m "Joy's Anime Game stats"
+          git commit -m "Game stats cron"
           git push
