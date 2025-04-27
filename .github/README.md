@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 27, 2025 22:45 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 28, 2025 00:04 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -16,30 +16,24 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>27</td>
+        <td>28</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://act.hoyoverse.com/event-static/2023/10/20/77cb5426637574ba524ac458fa963da0_6987227144772086779.png"
+            src="https://act.hoyoverse.com/event-static/2023/10/19/5ec24224c0e731d65270c6f2310e84a4_1327294036092457046.png"
             height="20"
           />
-          Stellar Jade
+          Adventure Log
         </td>
       </tr>
     </table>
   </div>
 
   <div align="center">
-    <h2>
-      <img
-        src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp"
-        height="20"
-      />
-      Stats
-    </h2>
+    <h2><img src="../images/icons/viewpoint_35.png" height="20" /> Stats</h2>
     <table>
       <tr>
         <td>Days Active</td>
@@ -72,7 +66,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>15561 (rate 39)</td>
+        <td>16148 (rate 44)</td>
       </tr>
       <tr>
         <td>
@@ -82,14 +76,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>57 (rate 62)</td>
+        <td>59 (rate 68)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 4490 (28%)<br />Daily Activity: 3360 (21%)<br />Adventure
-          Rewards: 2395 (15%)<br />Forgotten Hall: 1860 (11%)<br />Other: 886
-          (9%)<br />Simulated Universe: 1290 (8%)<br />Mail: 1280 (8%)<br />
+          Event: 4490 (27%)<br />Daily Activity: 3510 (21%)<br />Adventure
+          Rewards: 2400 (14%)<br />Forgotten Hall: 1860 (11%)<br />Simulated
+          Universe: 1720 (10%)<br />Other: 888 (10%)<br />Mail: 1280 (7%)<br />
         </td>
       </tr>
     </table>
@@ -158,7 +152,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/physical-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -269,7 +263,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -380,7 +374,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -491,7 +485,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -602,7 +596,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -713,7 +707,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/ice-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -824,7 +818,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -935,7 +929,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/physical-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -1046,7 +1040,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -1157,7 +1151,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -1268,7 +1262,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/fire-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -1379,7 +1373,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/physical-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -1490,7 +1484,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -1601,7 +1595,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/wind-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -1712,7 +1706,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -1823,7 +1817,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -1934,7 +1928,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -2045,7 +2039,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/ice-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -2156,7 +2150,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/physical-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -2267,7 +2261,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/fire-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -2378,7 +2372,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/fire-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -2489,7 +2483,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/physical-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -2600,7 +2594,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/wind-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -2711,7 +2705,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/fire-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -2822,7 +2816,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/wind-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -2933,7 +2927,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -3044,7 +3038,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/ice-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -3155,7 +3149,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -3266,7 +3260,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/ice-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -3377,7 +3371,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -3488,7 +3482,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/wind-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -3599,7 +3593,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -3710,7 +3704,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -3821,7 +3815,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/fire-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -3932,7 +3926,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/physical-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -4043,7 +4037,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/ice-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -4154,7 +4148,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/wind-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -4265,7 +4259,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -4376,7 +4370,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -4487,7 +4481,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -4598,7 +4592,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/fire-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -4709,7 +4703,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/ice-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -4820,7 +4814,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/fire-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -4931,7 +4925,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -5042,7 +5036,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -5153,7 +5147,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/physical-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -5264,7 +5258,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -5375,7 +5369,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/fire-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -5486,7 +5480,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -5597,7 +5591,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/physical-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -5708,7 +5702,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -5819,7 +5813,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -5930,7 +5924,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/physical-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -6041,7 +6035,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -6152,7 +6146,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/fire-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -6263,7 +6257,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/wind-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -6374,7 +6368,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/ice-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -6485,7 +6479,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/physical-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -6596,7 +6590,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -6707,7 +6701,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/ice-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -6818,7 +6812,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/fire-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -6929,7 +6923,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -7040,7 +7034,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
+                    src="https://starrail.honeyhunterworld.com/img/damage_type/wind-damage_type_icon.webp"
                     height="18"
                   />
                 </td>
@@ -7128,17 +7122,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>27</td>
+        <td>28</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/5dc8f83551ad36b7c1ec57f2e4f223d1_6882324669759105258.png"
             height="20"
           />
-          Dennies
+          Ether Plating Agents
         </td>
       </tr>
     </table>
@@ -8307,17 +8301,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>27</td>
+        <td>28</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
             height="20"
           />
-          Adventurer's Experience
+          Hero's Wit
         </td>
       </tr>
     </table>
