@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 28, 2025 00:04 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 28, 2025 00:08 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -33,7 +33,7 @@
   </div>
 
   <div align="center">
-    <h2><img src="../images/icons/viewpoint_35.png" height="20" /> Stats</h2>
+    <h2>Stats</h2>
     <table>
       <tr>
         <td>Days Active</td>
@@ -150,12 +150,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/physical-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>physical</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -261,12 +256,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>quantum</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -372,12 +362,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>imaginary</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -483,12 +468,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>quantum</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -594,12 +574,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>lightning</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -705,12 +680,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/ice-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>ice</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -816,12 +786,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>imaginary</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -927,12 +892,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/physical-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>physical</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -1038,12 +998,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>quantum</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -1149,12 +1104,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>imaginary</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -1260,12 +1210,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/fire-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>fire</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -1371,12 +1316,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/physical-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>physical</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -1482,12 +1422,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>lightning</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -1593,12 +1528,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/wind-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>wind</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -1704,12 +1634,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>quantum</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -1815,12 +1740,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>imaginary</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -1926,12 +1846,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>imaginary</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -2037,12 +1952,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/ice-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>ice</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -2148,12 +2058,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/physical-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>physical</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -2259,12 +2164,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/fire-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>fire</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -2370,12 +2270,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/fire-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>fire</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -2481,12 +2376,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/physical-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>physical</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -2592,12 +2482,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/wind-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>wind</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -2703,12 +2588,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/fire-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>fire</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -2814,12 +2694,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/wind-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>wind</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -2925,12 +2800,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>imaginary</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -3036,12 +2906,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/ice-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>ice</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -3147,12 +3012,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>lightning</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -3258,12 +3118,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/ice-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>ice</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -3369,12 +3224,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>quantum</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -3480,12 +3330,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/wind-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>wind</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -3591,12 +3436,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>lightning</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -3702,12 +3542,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>imaginary</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -3813,12 +3648,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/fire-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>fire</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -3924,12 +3754,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/physical-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>physical</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -4035,12 +3860,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/ice-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>ice</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -4146,12 +3966,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/wind-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>wind</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -4257,12 +4072,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>quantum</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -4368,12 +4178,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>lightning</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -4479,12 +4284,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>imaginary</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -4590,12 +4390,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/fire-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>fire</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -4701,12 +4496,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/ice-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>ice</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -4812,12 +4602,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/fire-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>fire</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -4923,12 +4708,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>imaginary</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -5034,12 +4814,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>lightning</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -5145,12 +4920,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/physical-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>physical</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -5256,12 +5026,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>quantum</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -5367,12 +5132,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/fire-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>fire</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -5478,12 +5238,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>imaginary</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -5589,12 +5344,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/physical-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>physical</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -5700,12 +5450,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>lightning</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -5811,12 +5556,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>quantum</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -5922,12 +5662,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/physical-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>physical</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -6033,12 +5768,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>quantum</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -6144,12 +5874,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/fire-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>fire</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -6255,12 +5980,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/wind-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>wind</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -6366,12 +6086,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/ice-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>ice</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -6477,12 +6192,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/physical-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>physical</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -6588,12 +6298,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>lightning</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -6699,12 +6404,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/ice-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>ice</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -6810,12 +6510,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/fire-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>fire</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -6921,12 +6616,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>lightning</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -7032,12 +6722,7 @@
               </tr>
               <tr>
                 <td>Element</td>
-                <td>
-                  <img
-                    src="https://starrail.honeyhunterworld.com/img/damage_type/wind-damage_type_icon.webp"
-                    height="18"
-                  />
-                </td>
+                <td>wind</td>
               </tr>
               <tr>
                 <td>Level</td>
