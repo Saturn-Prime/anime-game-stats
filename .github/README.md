@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 28, 2025 00:08 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 28, 2025 07:37 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -318,7 +318,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>29</td>
+                <td>50</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
