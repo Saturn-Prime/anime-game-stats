@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Apr 29, 2025 19:16 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Apr 30, 2025 07:36 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://act.hoyoverse.com/event-static/2023/10/20/77cb5426637574ba524ac458fa963da0_6987227144772086779.png"
+            src="https://act.hoyoverse.com/event-static/2023/10/19/6b6ff68f20a7d6d647ca02a7fe5e7a6a_6821519863151223655.png"
             height="20"
           />
-          Stellar Jade
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -37,7 +37,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>466</td>
+        <td>467</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -66,7 +66,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>16678 (rate 49)</td>
+        <td>17233 (rate 54)</td>
       </tr>
       <tr>
         <td>
@@ -76,14 +76,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>59 (rate 68)</td>
+        <td>60 (rate 71)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 4490 (26%)<br />Daily Activity: 3660 (21%)<br />Adventure
-          Rewards: 2400 (14%)<br />Forgotten Hall: 2220 (13%)<br />Simulated
-          Universe: 1720 (10%)<br />Other: 888 (9%)<br />Mail: 1300 (7%)<br />
+          Event: 4490 (26%)<br />Daily Activity: 3810 (22%)<br />Adventure
+          Rewards: 2400 (13%)<br />Simulated Universe: 2125 (12%)<br />Forgotten
+          Hall: 2220 (12%)<br />Other: 888 (8%)<br />Mail: 1300 (7%)<br />
         </td>
       </tr>
     </table>
@@ -2650,7 +2650,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>1</td>
+                <td>40</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -4770,7 +4770,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>60</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -4999,7 +4999,7 @@
       <table>
         <tr>
           <th><h3>Xueyi</h3></th>
-          <th><h3>Nowhere to Run</h3></th>
+          <th><h3>On the Fall of an Aeon</h3></th>
         </tr>
         <tr>
           <td>
@@ -5012,7 +5012,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/c4c908e82f2439a19fca6bbd9a22f8f4.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/a25e474dfa3e46afe4c1748779aa09a1.png"
               />
             </p>
           </td>
@@ -5084,11 +5084,11 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Nowhere to Run</td>
+                <td>On the Fall of an Aeon</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>40</td>
+                <td>60</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -5423,7 +5423,7 @@
       <table>
         <tr>
           <th><h3>Tingyun</h3></th>
-          <th><h3>Dance! Dance! Dance!</h3></th>
+          <th><h3>Carve the Moon, Weave the Clouds</h3></th>
         </tr>
         <tr>
           <td>
@@ -5436,7 +5436,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/bb3a6f0cd92a0ba2995f3916bc7f998c.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/ffb87965b21792554d28d45556f8e360.png"
               />
             </p>
           </td>
@@ -5508,15 +5508,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Dance! Dance! Dance!</td>
+                <td>Carve the Moon, Weave the Clouds</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>60</td>
+                <td>1</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>2</td>
+                <td>1</td>
               </tr>
             </table>
           </td>
@@ -5529,7 +5529,7 @@
       <table>
         <tr>
           <th><h3>Qingque</h3></th>
-          <th><h3>The Birth of the Self</h3></th>
+          <th><h3>Today Is Another Peaceful Day</h3></th>
         </tr>
         <tr>
           <td>
@@ -5542,7 +5542,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/d1767db573bab61a32a2232630eb6219.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/df9dfd61fb9a243c4832ef09b1bac8ee.png"
               />
             </p>
           </td>
@@ -5614,15 +5614,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>The Birth of the Self</td>
+                <td>Today Is Another Peaceful Day</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>30</td>
+                <td>1</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>5</td>
+                <td>2</td>
               </tr>
             </table>
           </td>
@@ -6271,7 +6271,7 @@
       <table>
         <tr>
           <th><h3>Serval</h3></th>
-          <th><h3>The Seriousness of Breakfast</h3></th>
+          <th><h3>Make the World Clamor</h3></th>
         </tr>
         <tr>
           <td>
@@ -6284,7 +6284,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/2f43d66d8d33d050102ba1b95d056915.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/ca3117aee2cc441f86c24ffac4447f2a.png"
               />
             </p>
           </td>
@@ -6356,15 +6356,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>The Seriousness of Breakfast</td>
+                <td>Make the World Clamor</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>30</td>
+                <td>50</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>3</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -6377,7 +6377,7 @@
       <table>
         <tr>
           <th><h3>Herta</h3></th>
-          <th><h3>Make the World Clamor</h3></th>
+          <th><h3>The Birth of the Self</h3></th>
         </tr>
         <tr>
           <td>
@@ -6390,7 +6390,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/ca3117aee2cc441f86c24ffac4447f2a.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/d1767db573bab61a32a2232630eb6219.png"
               />
             </p>
           </td>
@@ -6462,11 +6462,11 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Make the World Clamor</td>
+                <td>The Birth of the Self</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>50</td>
+                <td>20</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -6572,7 +6572,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>1</td>
+                <td>30</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -6589,7 +6589,7 @@
       <table>
         <tr>
           <th><h3>Arlan</h3></th>
-          <th><h3>Indelible Promise</h3></th>
+          <th><h3>A Secret Vow</h3></th>
         </tr>
         <tr>
           <td>
@@ -6602,7 +6602,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/247b2f6549a47972ad46b6587c68db56.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/a05efc68d15ec9e833b6564c2fccd6be.png"
               />
             </p>
           </td>
@@ -6674,11 +6674,11 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Indelible Promise</td>
+                <td>A Secret Vow</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td>40</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -6807,7 +6807,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -7986,7 +7986,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
