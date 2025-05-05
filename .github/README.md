@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 05, 2025 07:39 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 05, 2025 19:16 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -37,7 +37,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>471</td>
+        <td>472</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -66,7 +66,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>560 (rate -96)</td>
+        <td>970 (rate -94)</td>
       </tr>
       <tr>
         <td>
@@ -81,9 +81,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 450 (80%)<br />Event: 110 (19%)<br />Other: 0 (1%)<br />Adventure
-          Rewards: 0 (0%)<br />Simulated Universe: 0 (0%)<br />Forgotten Hall: 0
-          (0%)<br />Mail: 0 (0%)<br />
+          Daily Activity: 600 (61%)<br />Event: 290 (29%)<br />Mail: 80 (8%)<br />Other:
+          0 (2%)<br />Adventure Rewards: 0 (0%)<br />Simulated Universe: 0
+          (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -636,7 +636,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -1166,7 +1166,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>1</td>
+                <td>30</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
