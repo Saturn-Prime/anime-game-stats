@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 11, 2025 07:39 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 11, 2025 19:16 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -37,7 +37,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>477</td>
+        <td>478</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -153,12 +153,6 @@
                 <td>ice</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -263,12 +257,6 @@
               <tr>
                 <td>Element</td>
                 <td>quantum</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -377,12 +365,6 @@
                 <td>imaginary</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -487,12 +469,6 @@
               <tr>
                 <td>Element</td>
                 <td>quantum</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -601,12 +577,6 @@
                 <td>lightning</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -711,12 +681,6 @@
               <tr>
                 <td>Element</td>
                 <td>ice</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -825,12 +789,6 @@
                 <td>imaginary</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -935,12 +893,6 @@
               <tr>
                 <td>Element</td>
                 <td>physical</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -1049,12 +1001,6 @@
                 <td>quantum</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -1159,12 +1105,6 @@
               <tr>
                 <td>Element</td>
                 <td>imaginary</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -1273,12 +1213,6 @@
                 <td>fire</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -1383,12 +1317,6 @@
               <tr>
                 <td>Element</td>
                 <td>physical</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -1497,12 +1425,6 @@
                 <td>lightning</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -1607,12 +1529,6 @@
               <tr>
                 <td>Element</td>
                 <td>wind</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -1721,12 +1637,6 @@
                 <td>quantum</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -1831,12 +1741,6 @@
               <tr>
                 <td>Element</td>
                 <td>imaginary</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -1945,12 +1849,6 @@
                 <td>imaginary</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -2055,12 +1953,6 @@
               <tr>
                 <td>Element</td>
                 <td>ice</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -2169,12 +2061,6 @@
                 <td>physical</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -2279,12 +2165,6 @@
               <tr>
                 <td>Element</td>
                 <td>fire</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -2393,12 +2273,6 @@
                 <td>fire</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -2503,12 +2377,6 @@
               <tr>
                 <td>Element</td>
                 <td>physical</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -2617,12 +2485,6 @@
                 <td>wind</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -2727,12 +2589,6 @@
               <tr>
                 <td>Element</td>
                 <td>fire</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -2841,12 +2697,6 @@
                 <td>wind</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -2951,12 +2801,6 @@
               <tr>
                 <td>Element</td>
                 <td>imaginary</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -3065,12 +2909,6 @@
                 <td>ice</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -3175,12 +3013,6 @@
               <tr>
                 <td>Element</td>
                 <td>lightning</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -3289,12 +3121,6 @@
                 <td>ice</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -3399,12 +3225,6 @@
               <tr>
                 <td>Element</td>
                 <td>quantum</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -3513,12 +3333,6 @@
                 <td>wind</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -3623,12 +3437,6 @@
               <tr>
                 <td>Element</td>
                 <td>lightning</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -3737,12 +3545,6 @@
                 <td>imaginary</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -3847,12 +3649,6 @@
               <tr>
                 <td>Element</td>
                 <td>fire</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -3961,12 +3757,6 @@
                 <td>physical</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -4071,12 +3861,6 @@
               <tr>
                 <td>Element</td>
                 <td>ice</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -4185,12 +3969,6 @@
                 <td>wind</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -4295,12 +4073,6 @@
               <tr>
                 <td>Element</td>
                 <td>quantum</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -4409,12 +4181,6 @@
                 <td>lightning</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -4519,12 +4285,6 @@
               <tr>
                 <td>Element</td>
                 <td>imaginary</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -4633,12 +4393,6 @@
                 <td>fire</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -4743,12 +4497,6 @@
               <tr>
                 <td>Element</td>
                 <td>ice</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -4857,12 +4605,6 @@
                 <td>fire</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -4967,12 +4709,6 @@
               <tr>
                 <td>Element</td>
                 <td>lightning</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -5081,12 +4817,6 @@
                 <td>physical</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -5191,12 +4921,6 @@
               <tr>
                 <td>Element</td>
                 <td>quantum</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -5305,12 +5029,6 @@
                 <td>fire</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -5415,12 +5133,6 @@
               <tr>
                 <td>Element</td>
                 <td>imaginary</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -5529,12 +5241,6 @@
                 <td>physical</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -5639,12 +5345,6 @@
               <tr>
                 <td>Element</td>
                 <td>lightning</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -5753,12 +5453,6 @@
                 <td>quantum</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -5863,12 +5557,6 @@
               <tr>
                 <td>Element</td>
                 <td>physical</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -5977,12 +5665,6 @@
                 <td>quantum</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -6087,12 +5769,6 @@
               <tr>
                 <td>Element</td>
                 <td>fire</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -6201,12 +5877,6 @@
                 <td>wind</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -6311,12 +5981,6 @@
               <tr>
                 <td>Element</td>
                 <td>ice</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -6425,12 +6089,6 @@
                 <td>physical</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -6535,12 +6193,6 @@
               <tr>
                 <td>Element</td>
                 <td>lightning</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -6649,12 +6301,6 @@
                 <td>ice</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -6759,12 +6405,6 @@
               <tr>
                 <td>Element</td>
                 <td>fire</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -6873,12 +6513,6 @@
                 <td>lightning</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -6983,12 +6617,6 @@
               <tr>
                 <td>Element</td>
                 <td>wind</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -7097,12 +6725,6 @@
                 <td>ice</td>
               </tr>
               <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
-              </tr>
-              <tr>
                 <td>Level</td>
                 <td>80</td>
               </tr>
@@ -7207,12 +6829,6 @@
               <tr>
                 <td>Element</td>
                 <td>wind</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <p align="center"><img src="" /></p>
-                </td>
               </tr>
               <tr>
                 <td>Level</td>
