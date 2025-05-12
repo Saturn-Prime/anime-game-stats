@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 12, 2025 07:39 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 12, 2025 19:16 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -85,27 +85,6 @@
           380 (17%)<br />Event: 290 (13%)<br />Other: 0 (2%)<br />Adventure
           Rewards: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
-      </tr>
-    </table>
-  </div>
-  <div align="center">
-    <h2>Memory of Chaos</h2>
-    <table>
-      <tr>
-        <td>Season</td>
-        <td>1022</td>
-      </tr>
-      <tr>
-        <td>Max Floor</td>
-        <td>Out of Home (VIII)</td>
-      </tr>
-      <tr>
-        <td>Total Battles</td>
-        <td>5</td>
-      </tr>
-      <tr>
-        <td>Total Stars</td>
-        <td>24</td>
       </tr>
     </table>
   </div>
