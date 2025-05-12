@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 11, 2025 19:16 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 12, 2025 07:39 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>11</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Lost Gold Fragment
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -66,7 +66,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>2135 (rate -87)</td>
+        <td>2195 (rate -87)</td>
       </tr>
       <tr>
         <td>
@@ -81,7 +81,7 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1080 (50%)<br />Simulated Universe: 385 (18%)<br />Mail:
+          Daily Activity: 1140 (51%)<br />Simulated Universe: 385 (17%)<br />Mail:
           380 (17%)<br />Event: 290 (13%)<br />Other: 0 (2%)<br />Adventure
           Rewards: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
@@ -6913,17 +6913,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>11</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3000 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/2dc72dda579740117cc613a7c4b61072_8116301305434853429.png"
             height="20"
           />
-          Dennies
+          Crystallized Plating Agents
         </td>
       </tr>
     </table>
@@ -8092,17 +8092,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>11</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
             height="20"
           />
-          Primogem
+          Fried Radish Balls
         </td>
       </tr>
     </table>
