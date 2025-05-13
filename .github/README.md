@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 12, 2025 19:16 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 13, 2025 07:37 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
             height="20"
           />
-          Condensed Aether
+          Stellar Jade
         </td>
       </tr>
     </table>
@@ -37,7 +37,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>478</td>
+        <td>479</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -45,7 +45,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>744</td>
+        <td>745</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -66,7 +66,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>2195 (rate -87)</td>
+        <td>2280 (rate -87)</td>
       </tr>
       <tr>
         <td>
@@ -81,9 +81,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1140 (51%)<br />Simulated Universe: 385 (17%)<br />Mail:
-          380 (17%)<br />Event: 290 (13%)<br />Other: 0 (2%)<br />Adventure
-          Rewards: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />
+          Daily Activity: 1200 (52%)<br />Mail: 400 (17%)<br />Simulated
+          Universe: 385 (16%)<br />Event: 290 (12%)<br />Other: 0 (3%)<br />Adventure
+          Rewards: 5 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -6892,17 +6892,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          20 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/2dc72dda579740117cc613a7c4b61072_8116301305434853429.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/d7da97e53408b8485a9f9f0fe339f853_2231547654644822801.png"
             height="20"
           />
-          Crystallized Plating Agents
+          Polychromes
         </td>
       </tr>
     </table>
@@ -6919,7 +6919,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>37</td>
+        <td>38</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
@@ -8071,17 +8071,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Fried Radish Balls
+          Adventurer's Experience
         </td>
       </tr>
     </table>
