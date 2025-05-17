@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 17, 2025 07:36 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 17, 2025 19:16 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -66,7 +66,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>2940 (rate -83)</td>
+        <td>3195 (rate -81)</td>
       </tr>
       <tr>
         <td>
@@ -76,14 +76,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>13 (rate -78)</td>
+        <td>14 (rate -76)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1440 (48%)<br />Forgotten Hall: 420 (14%)<br />Simulated
-          Universe: 385 (13%)<br />Mail: 400 (13%)<br />Event: 290 (9%)<br />Other:
-          0 (3%)<br />Adventure Rewards: 5 (0%)<br />
+          Daily Activity: 1440 (45%)<br />Simulated Universe: 640 (20%)<br />Forgotten
+          Hall: 420 (13%)<br />Mail: 400 (12%)<br />Event: 290 (9%)<br />Other:
+          0 (1%)<br />Adventure Rewards: 5 (0%)<br />
         </td>
       </tr>
     </table>
@@ -8123,11 +8123,11 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>55</td>
+        <td>56</td>
       </tr>
       <tr>
         <td>Characters</td>
-        <td>26</td>
+        <td>27</td>
       </tr>
       <tr>
         <td>Spiral_Abyss</td>
@@ -8358,7 +8358,7 @@
           />
           Primogems earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>1300 (rate 550)</td>
       </tr>
       <tr>
         <td>
@@ -8368,14 +8368,14 @@
           />
           Mora earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>144000 (rate -22)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0
-          (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure:
-          0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
+          Mail: 1160 (90%)<br />Events: 100 (7%)<br />Daily Activity: 0 (0%)<br />Spiral
+          Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure:
+          0 (0%)<br />Other: 40 (3%)<br />
         </td>
       </tr>
     </table>
@@ -9834,6 +9834,93 @@
               <tr>
                 <td>Constellation</td>
                 <td>1</td>
+              </tr>
+              <tr>
+                <td>Artifacts<br /></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Apprentice's Notes</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Ifa</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Ifa</h3></th>
+          <th><h3 align="center">Apprentice's Notes</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Ifa_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/852d232e46ddaacdfcb86b3f53413405.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
               </tr>
               <tr>
                 <td>Artifacts<br /></td>
