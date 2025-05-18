@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 17, 2025 19:16 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 18, 2025 07:40 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
             height="20"
           />
-          Condensed Aether
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -37,7 +37,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>483</td>
+        <td>484</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -45,11 +45,11 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>745</td>
+        <td>748</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>1047</td>
+        <td>1048</td>
       </tr>
       <tr>
         <td>Sticker Pass Dreamscape</td>
@@ -66,7 +66,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>3195 (rate -81)</td>
+        <td>3555 (rate -79)</td>
       </tr>
       <tr>
         <td>
@@ -81,9 +81,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1440 (45%)<br />Simulated Universe: 640 (20%)<br />Forgotten
-          Hall: 420 (13%)<br />Mail: 400 (12%)<br />Event: 290 (9%)<br />Other:
-          0 (1%)<br />Adventure Rewards: 5 (0%)<br />
+          Daily Activity: 1590 (44%)<br />Simulated Universe: 640 (18%)<br />Forgotten
+          Hall: 420 (11%)<br />Mail: 400 (11%)<br />Event: 290 (8%)<br />Adventure
+          Rewards: 215 (6%)<br />Other: 0 (2%)<br />
         </td>
       </tr>
     </table>
@@ -848,7 +848,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>60</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -1166,7 +1166,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>30</td>
+                <td>40</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -1713,7 +1713,7 @@
       <table>
         <tr>
           <th><h3>Dr. Ratio</h3></th>
-          <th><h3>Swordplay</h3></th>
+          <th><h3>Baptism of Pure Thought</h3></th>
         </tr>
         <tr>
           <td>
@@ -1726,7 +1726,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/9260e84affb9c7dd1b38c3122c09b243.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/b945d49b3bd40206f290e07ebe0315eb.png"
               />
             </p>
           </td>
@@ -1798,15 +1798,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Swordplay</td>
+                <td>Baptism of Pure Thought</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>80</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>5</td>
+                <td>1</td>
               </tr>
             </table>
           </td>
@@ -4134,7 +4134,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -6801,7 +6801,7 @@
       <table>
         <tr>
           <th><h3>Anaxa</h3></th>
-          <th><h3>The Great Cosmic Enterprise</h3></th>
+          <th><h3>Life Should Be Cast to Flames</h3></th>
         </tr>
         <tr>
           <td>
@@ -6814,7 +6814,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/cd2a843a17c0aeffb4689b11c871adef.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/0c545875bd08f15553d57895b9b3695f.png"
               />
             </p>
           </td>
@@ -6886,15 +6886,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>The Great Cosmic Enterprise</td>
+                <td>Life Should Be Cast to Flames</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>80</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>5</td>
+                <td>1</td>
               </tr>
             </table>
           </td>
@@ -6913,17 +6913,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
             height="20"
           />
-          Official Investigator Logs
+          W-Engine Power Supplies
         </td>
       </tr>
     </table>
@@ -8092,17 +8092,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          20 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
             height="20"
           />
-          Mora
+          Primogem
         </td>
       </tr>
     </table>
