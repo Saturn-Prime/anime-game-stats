@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 19, 2025 07:39 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 19, 2025 19:16 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -76,14 +76,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>16 (rate -73)</td>
+        <td>17 (rate -71)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
           Daily Activity: 1740 (38%)<br />Simulated Universe: 1030 (22%)<br />Adventure
-          Rewards: 630 (13%)<br />Forgotten Hall: 420 (9%)<br />Mail: 400
-          (8%)<br />Event: 290 (6%)<br />Other: 1 (4%)<br />
+          Rewards: 920 (20%)<br />Forgotten Hall: 420 (9%)<br />Mail: 400
+          (8%)<br />Other: 1 (3%)<br />Event: 0 (0%)<br />
         </td>
       </tr>
     </table>
