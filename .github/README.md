@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 19, 2025 19:16 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 20, 2025 07:37 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>19</td>
+        <td>20</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
             height="20"
           />
-          Credit
+          Stellar Jade
         </td>
       </tr>
     </table>
@@ -37,7 +37,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>485</td>
+        <td>486</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -45,11 +45,11 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>750</td>
+        <td>763</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>1048</td>
+        <td>1054</td>
       </tr>
       <tr>
         <td>Sticker Pass Dreamscape</td>
@@ -66,7 +66,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>4511 (rate -74)</td>
+        <td>5247 (rate -70)</td>
       </tr>
       <tr>
         <td>
@@ -81,9 +81,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1740 (38%)<br />Simulated Universe: 1030 (22%)<br />Adventure
-          Rewards: 920 (20%)<br />Forgotten Hall: 420 (9%)<br />Mail: 400
-          (8%)<br />Other: 1 (3%)<br />Event: 0 (0%)<br />
+          Daily Activity: 1890 (36%)<br />Adventure Rewards: 1455 (27%)<br />Simulated
+          Universe: 1030 (19%)<br />Forgotten Hall: 420 (8%)<br />Mail: 420
+          (8%)<br />Other: 2 (2%)<br />Event: 30 (0%)<br />
         </td>
       </tr>
     </table>
@@ -319,6 +319,112 @@
               <tr>
                 <td>Level</td>
                 <td>50</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details open>
+      <summary><b>Anaxa </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Anaxa</h3></th>
+          <th><h3>Life Should Be Cast to Flames</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/ebf98b8eb3afbd6e2e904017876f8db5.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/0c545875bd08f15553d57895b9b3695f.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>wind</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/fcddc55d0318296895debcbfeb646199.png"
+                    ,
+                    height="18"
+                  />
+                  Eagle's Beaked Helmet<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/ac499b087ffefcb82b895b0c8411bd3c.png"
+                    ,
+                    height="18"
+                  />
+                  Eagle's Soaring Ring<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/e9845798d0c1e48ed26b45925b956bf4.png"
+                    ,
+                    height="18"
+                  />
+                  Eagle's Winged Suit Harness<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/25f9c01a99c36330a644bec973e9fa44.png"
+                    ,
+                    height="18"
+                  />
+                  Eagle's Quilted Puttees<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/c7273e1d87e25040650eb974d2bf8447.png"
+                    ,
+                    height="18"
+                  />
+                  Taikiyan Laser Stadium<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/678b115c792be36d52f4d35374616ae8.png"
+                    ,
+                    height="18"
+                  />
+                  Taikiyan's Arclight Race Track<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Life Should Be Cast to Flames</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -1696,7 +1802,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>30</td>
+                <td>50</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -2332,7 +2438,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>30</td>
+                <td>40</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -6795,112 +6901,6 @@
         </tr>
       </table>
     </details>
-    <details open>
-      <summary><b>Anaxa </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Anaxa</h3></th>
-          <th><h3>Life Should Be Cast to Flames</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/ebf98b8eb3afbd6e2e904017876f8db5.png"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/0c545875bd08f15553d57895b9b3695f.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>wind</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>70</td>
-              </tr>
-              <tr>
-                <td>Eidolon</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/fcddc55d0318296895debcbfeb646199.png"
-                    ,
-                    height="18"
-                  />
-                  Eagle's Beaked Helmet<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/ac499b087ffefcb82b895b0c8411bd3c.png"
-                    ,
-                    height="18"
-                  />
-                  Eagle's Soaring Ring<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/e9845798d0c1e48ed26b45925b956bf4.png"
-                    ,
-                    height="18"
-                  />
-                  Eagle's Winged Suit Harness<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/25f9c01a99c36330a644bec973e9fa44.png"
-                    ,
-                    height="18"
-                  />
-                  Eagle's Quilted Puttees<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Planar</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/c7273e1d87e25040650eb974d2bf8447.png"
-                    ,
-                    height="18"
-                  />
-                  Taikiyan Laser Stadium<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u65b7c/678b115c792be36d52f4d35374616ae8.png"
-                    ,
-                    height="18"
-                  />
-                  Taikiyan's Arclight Race Track<br />
-                </td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Life Should Be Cast to Flames</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>70</td>
-              </tr>
-              <tr>
-                <td>Superimpose</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
   </div>
 </details>
 <details align="center">
@@ -6913,17 +6913,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>19</td>
+        <td>20</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3000 x
+          20 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/d7da97e53408b8485a9f9f0fe339f853_2231547654644822801.png"
             height="20"
           />
-          Dennies
+          Polychromes
         </td>
       </tr>
     </table>
@@ -8092,17 +8092,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>19</td>
+        <td>20</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Fisherman's Toast
+          Adventurer's Experience
         </td>
       </tr>
     </table>
