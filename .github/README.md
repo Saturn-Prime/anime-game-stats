@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 22, 2025 19:16 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 23, 2025 07:37 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>22</td>
+        <td>23</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
             height="20"
           />
-          Condensed Aether
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -37,7 +37,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>488</td>
+        <td>489</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -45,7 +45,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>765</td>
+        <td>766</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -66,7 +66,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>7062 (rate -60)</td>
+        <td>8742 (rate -50)</td>
       </tr>
       <tr>
         <td>
@@ -76,14 +76,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>19 (rate -68)</td>
+        <td>24 (rate -60)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 2190 (31%)<br />Adventure Rewards: 1470 (20%)<br />Mail:
-          1100 (15%)<br />Simulated Universe: 1030 (14%)<br />Event: 850
-          (12%)<br />Forgotten Hall: 420 (5%)<br />Other: 2 (3%)<br />
+          Daily Activity: 2340 (26%)<br />Adventure Rewards: 1505 (17%)<br />Simulated
+          Universe: 1445 (16%)<br />Other: 882 (13%)<br />Event: 1050 (12%)<br />Mail:
+          1100 (12%)<br />Forgotten Hall: 420 (4%)<br />
         </td>
       </tr>
     </table>
@@ -6913,17 +6913,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>22</td>
+        <td>23</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
             height="20"
           />
-          Official Investigator Logs
+          W-Engine Power Supplies
         </td>
       </tr>
     </table>
@@ -8092,17 +8092,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>22</td>
+        <td>23</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           5 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
             height="20"
           />
-          Adventurer's Experience
+          Fine Enhancement Ore
         </td>
       </tr>
     </table>
