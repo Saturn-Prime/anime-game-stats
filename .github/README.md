@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 25, 2025 07:40 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 25, 2025 19:16 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -37,7 +37,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>491</td>
+        <td>492</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -45,7 +45,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>767</td>
+        <td>768</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
