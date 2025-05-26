@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 26, 2025 07:38 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 26, 2025 19:16 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -37,7 +37,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>492</td>
+        <td>493</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
