@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 26, 2025 19:16 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 27, 2025 07:36 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>26</td>
+        <td>27</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/7cb0e487e051f177d3f41de8d4bbc521_1182531883532191221.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/40c4661295cacb4f584fd7787375d7ac_9144584527481294308.png"
             height="20"
           />
-          Refined Aether
+          Lost Crystal
         </td>
       </tr>
     </table>
@@ -45,7 +45,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>777</td>
+        <td>778</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -66,7 +66,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>10817 (rate -39)</td>
+        <td>11783 (rate -33)</td>
       </tr>
       <tr>
         <td>
@@ -76,14 +76,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>27 (rate -55)</td>
+        <td>32 (rate -46)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 2755 (25%)<br />Daily Activity: 2700 (24%)<br />Event:
-          1450 (13%)<br />Simulated Universe: 1445 (13%)<br />Other: 887
-          (12%)<br />Mail: 1160 (10%)<br />Forgotten Hall: 420 (3%)<br />
+          Adventure Rewards: 3115 (26%)<br />Daily Activity: 2850 (24%)<br />Simulated
+          Universe: 1900 (16%)<br />Event: 1450 (12%)<br />Other: 888 (10%)<br />Mail:
+          1160 (9%)<br />Forgotten Hall: 420 (3%)<br />
         </td>
       </tr>
     </table>
@@ -6913,17 +6913,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>26</td>
+        <td>27</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/6ef3e419022c871257a936b1857ac9d1_7183854527138136141.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
             height="20"
           />
-          W-Engine Energy Modules
+          Dennies
         </td>
       </tr>
     </table>
@@ -8092,17 +8092,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>26</td>
+        <td>27</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Almond Tofu
+          Adventurer's Experience
         </td>
       </tr>
     </table>
