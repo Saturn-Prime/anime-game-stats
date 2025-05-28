@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 28, 2025 07:37 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 28, 2025 19:16 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -41,7 +41,7 @@
       </tr>
       <tr>
         <td>Total Avatar</td>
-        <td>64</td>
+        <td>65</td>
       </tr>
       <tr>
         <td>Total Achievement</td>
@@ -66,7 +66,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>11873 (rate -33)</td>
+        <td>11933 (rate -32)</td>
       </tr>
       <tr>
         <td>
@@ -76,13 +76,13 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>32 (rate -46)</td>
+        <td>39 (rate -35)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 3115 (26%)<br />Daily Activity: 2940 (24%)<br />Simulated
-          Universe: 1900 (16%)<br />Event: 1450 (12%)<br />Other: 888 (10%)<br />Mail:
+          Adventure Rewards: 3115 (26%)<br />Daily Activity: 3000 (25%)<br />Simulated
+          Universe: 1900 (15%)<br />Event: 1450 (12%)<br />Other: 888 (10%)<br />Mail:
           1160 (9%)<br />Forgotten Hall: 420 (3%)<br />
         </td>
       </tr>
@@ -6895,6 +6895,112 @@
               <tr>
                 <td>Superimpose</td>
                 <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details open>
+      <summary><b>Hyacine </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Hyacine</h3></th>
+          <th><h3>Geniuses' Greetings</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua979c/96eb9149d716ae4339c6d41119afb517.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua979c/e03729dd9f7a73a99df19bd530c85777.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>wind</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>70</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua979c/ae477e9c31da04a96294654783b4941a.png"
+                    ,
+                    height="18"
+                  />
+                  Warrior Goddess's Winged Helm<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua979c/ed76b7e5258bb842ff68f6a493e962cb.png"
+                    ,
+                    height="18"
+                  />
+                  Warrior Goddess's Cavalry Gauntlets<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua979c/c04e0bd711b38f1779ba24d399d2c064.png"
+                    ,
+                    height="18"
+                  />
+                  Warrior Goddess's Dawn Cape<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua979c/d8d5d6f39105a562d87ce1af2f0c479a.png"
+                    ,
+                    height="18"
+                  />
+                  Warrior Goddess's Honor Spurs<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua979c/712ba8d3bffb3e4b61655eaf69d386d4.png"
+                    ,
+                    height="18"
+                  />
+                  Grove of Epiphany's Pondering Colossus<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua979c/236b18cfaa5bdb6d70556f3578632fa0.png"
+                    ,
+                    height="18"
+                  />
+                  Grove of Epiphany's Interwoven Veins<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Geniuses' Greetings</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>4</td>
               </tr>
             </table>
           </td>
