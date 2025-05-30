@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 29, 2025 19:16 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 30, 2025 07:37 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -16,7 +16,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -37,7 +37,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>495</td>
+        <td>496</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -66,7 +66,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>12083 (rate -31)</td>
+        <td>12233 (rate -31)</td>
       </tr>
       <tr>
         <td>
@@ -81,8 +81,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 3150 (26%)<br />Adventure Rewards: 3115 (25%)<br />Simulated
-          Universe: 1900 (15%)<br />Event: 1450 (12%)<br />Other: 888 (10%)<br />Mail:
+          Daily Activity: 3300 (26%)<br />Adventure Rewards: 3115 (25%)<br />Simulated
+          Universe: 1900 (15%)<br />Event: 1450 (11%)<br />Other: 888 (11%)<br />Mail:
           1160 (9%)<br />Forgotten Hall: 420 (3%)<br />
         </td>
       </tr>
@@ -7019,7 +7019,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -8198,7 +8198,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
