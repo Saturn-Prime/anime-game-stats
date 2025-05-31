@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>May 31, 2025 07:36 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>May 31, 2025 19:16 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -123,7 +123,7 @@
       <table>
         <tr>
           <th><h3>Trailblazer</h3></th>
-          <th><h3>Victory In a Blink</h3></th>
+          <th><h3>Memory's Curtain Never Falls</h3></th>
         </tr>
         <tr>
           <td>
@@ -136,7 +136,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua979c/b064a2242df0a0c5c818868501a39c82.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua979c/d11fa98d8bc8cb7d2cd6dc51f3267495.png"
               />
             </p>
           </td>
@@ -208,11 +208,11 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Victory In a Blink</td>
+                <td>Memory's Curtain Never Falls</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>60</td>
+                <td>40</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -6046,7 +6046,7 @@
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>1</td>
+                <td>2</td>
               </tr>
             </table>
           </td>
