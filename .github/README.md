@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 05, 2025 19:16 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 06, 2025 07:37 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>5</td>
+        <td>6</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Stellar Jade
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -66,7 +66,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>645 (rate -94)</td>
+        <td>815 (rate -93)</td>
       </tr>
       <tr>
         <td>
@@ -81,8 +81,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 450 (69%)<br />Adventure Rewards: 105 (16%)<br />Simulated
-          Universe: 60 (9%)<br />Mail: 30 (4%)<br />Other: 0 (2%)<br />Event: 0
+          Daily Activity: 600 (73%)<br />Adventure Rewards: 105 (12%)<br />Simulated
+          Universe: 60 (7%)<br />Mail: 50 (6%)<br />Other: 0 (2%)<br />Event: 0
           (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -7019,17 +7019,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>5</td>
+        <td>6</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/d7da97e53408b8485a9f9f0fe339f853_2231547654644822801.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/09/03/9cf680db857144ba6c99d0d4b7a86c8e_5008867765661835353.png"
             height="20"
           />
-          Polychromes
+          Official Investigator Logs
         </td>
       </tr>
     </table>
@@ -8198,17 +8198,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>5</td>
+        <td>6</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Sweet Madame
+          Adventurer's Experience
         </td>
       </tr>
     </table>
