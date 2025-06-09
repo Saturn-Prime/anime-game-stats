@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 09, 2025 07:40 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 09, 2025 19:16 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -37,7 +37,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>504</td>
+        <td>505</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -66,7 +66,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>1960 (rate -84)</td>
+        <td>2110 (rate -83)</td>
       </tr>
       <tr>
         <td>
@@ -81,9 +81,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 900 (45%)<br />Simulated Universe: 385 (19%)<br />Forgotten
-          Hall: 360 (18%)<br />Mail: 170 (8%)<br />Adventure Rewards: 105
-          (5%)<br />Other: 0 (3%)<br />Event: 40 (2%)<br />
+          Daily Activity: 1050 (49%)<br />Simulated Universe: 385 (18%)<br />Forgotten
+          Hall: 360 (17%)<br />Mail: 170 (8%)<br />Adventure Rewards: 105
+          (4%)<br />Other: 0 (3%)<br />Event: 40 (1%)<br />
         </td>
       </tr>
     </table>
@@ -229,7 +229,7 @@
       <table>
         <tr>
           <th><h3>Hyacine</h3></th>
-          <th><h3>Geniuses' Greetings</h3></th>
+          <th><h3>Long May Rainbows Adorn the Sky</h3></th>
         </tr>
         <tr>
           <td>
@@ -242,7 +242,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua979c/e03729dd9f7a73a99df19bd530c85777.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ua979c/a18963ebf3abb632376121d906d346f2.png"
               />
             </p>
           </td>
@@ -314,15 +314,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Geniuses' Greetings</td>
+                <td>Long May Rainbows Adorn the Sky</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>1</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>4</td>
+                <td>1</td>
               </tr>
             </table>
           </td>
