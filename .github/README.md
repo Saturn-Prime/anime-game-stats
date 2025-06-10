@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 09, 2025 19:16 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 10, 2025 07:37 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>9</td>
+        <td>10</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Credit
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -37,7 +37,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>505</td>
+        <td>506</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -66,7 +66,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>2110 (rate -83)</td>
+        <td>2260 (rate -81)</td>
       </tr>
       <tr>
         <td>
@@ -81,8 +81,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1050 (49%)<br />Simulated Universe: 385 (18%)<br />Forgotten
-          Hall: 360 (17%)<br />Mail: 170 (8%)<br />Adventure Rewards: 105
+          Daily Activity: 1200 (53%)<br />Simulated Universe: 385 (17%)<br />Forgotten
+          Hall: 360 (15%)<br />Mail: 170 (7%)<br />Adventure Rewards: 105
           (4%)<br />Other: 0 (3%)<br />Event: 40 (1%)<br />
         </td>
       </tr>
@@ -7019,17 +7019,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>9</td>
+        <td>10</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/18/9c3085e9abec0272f623338bf8ee6c58_105284454118290029.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/09/03/decf1a0ec272930638f0794ce348d65a_4601448372274251372.png"
             height="20"
           />
-          Polychromes
+          Senior Investigator Logs
         </td>
       </tr>
     </table>
@@ -7046,7 +7046,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>41</td>
+        <td>42</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
@@ -8336,17 +8336,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>9</td>
+        <td>10</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Fine Enhancement Ore
+          Mora
         </td>
       </tr>
     </table>
