@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 10, 2025 19:16 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 11, 2025 07:37 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>10</td>
+        <td>11</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
             height="20"
           />
-          Adventure Log
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -66,7 +66,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>2260 (rate -81)</td>
+        <td>2410 (rate -80)</td>
       </tr>
       <tr>
         <td>
@@ -81,8 +81,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1200 (53%)<br />Simulated Universe: 385 (17%)<br />Forgotten
-          Hall: 360 (15%)<br />Mail: 170 (7%)<br />Adventure Rewards: 105
+          Daily Activity: 1350 (56%)<br />Simulated Universe: 385 (15%)<br />Forgotten
+          Hall: 360 (14%)<br />Mail: 170 (7%)<br />Adventure Rewards: 105
           (4%)<br />Other: 0 (3%)<br />Event: 40 (1%)<br />
         </td>
       </tr>
@@ -7019,17 +7019,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>10</td>
+        <td>11</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          20 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/09/03/decf1a0ec272930638f0794ce348d65a_4601448372274251372.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/18/9c3085e9abec0272f623338bf8ee6c58_105284454118290029.png"
             height="20"
           />
-          Senior Investigator Logs
+          Polychromes
         </td>
       </tr>
     </table>
@@ -8336,17 +8336,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>10</td>
+        <td>11</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          20 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
             height="20"
           />
-          Mora
+          Primogem
         </td>
       </tr>
     </table>
