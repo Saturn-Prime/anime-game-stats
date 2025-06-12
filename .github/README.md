@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 12, 2025 07:37 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 12, 2025 19:16 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -37,7 +37,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>507</td>
+        <td>508</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -66,7 +66,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>2410 (rate -80)</td>
+        <td>2560 (rate -79)</td>
       </tr>
       <tr>
         <td>
@@ -81,9 +81,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1350 (56%)<br />Simulated Universe: 385 (15%)<br />Forgotten
-          Hall: 360 (14%)<br />Mail: 170 (7%)<br />Adventure Rewards: 105
-          (4%)<br />Other: 0 (3%)<br />Event: 40 (1%)<br />
+          Daily Activity: 1500 (58%)<br />Simulated Universe: 385 (15%)<br />Forgotten
+          Hall: 360 (14%)<br />Mail: 170 (6%)<br />Adventure Rewards: 105
+          (4%)<br />Other: 0 (2%)<br />Event: 40 (1%)<br />
         </td>
       </tr>
     </table>
@@ -2544,7 +2544,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>40</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -2650,7 +2650,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -4028,7 +4028,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>30</td>
+                <td>70</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
@@ -4610,7 +4610,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>2</td>
+                <td>3</td>
               </tr>
               <tr>
                 <td>Relics</td>
