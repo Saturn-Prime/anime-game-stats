@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 14, 2025 07:36 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 14, 2025 19:16 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -66,7 +66,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>2560 (rate -79)</td>
+        <td>3005 (rate -75)</td>
       </tr>
       <tr>
         <td>
@@ -76,14 +76,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>12 (rate -69)</td>
+        <td>13 (rate -66)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1500 (58%)<br />Simulated Universe: 385 (15%)<br />Forgotten
-          Hall: 360 (14%)<br />Mail: 170 (6%)<br />Adventure Rewards: 105
-          (4%)<br />Other: 0 (2%)<br />Event: 40 (1%)<br />
+          Daily Activity: 1650 (54%)<br />Simulated Universe: 610 (20%)<br />Forgotten
+          Hall: 360 (11%)<br />Mail: 240 (7%)<br />Other: 0 (4%)<br />Adventure
+          Rewards: 105 (3%)<br />Event: 40 (1%)<br />
         </td>
       </tr>
     </table>
