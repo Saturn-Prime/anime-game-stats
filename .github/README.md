@@ -1,5 +1,5 @@
 <h1 align="center">Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 16, 2025 19:16 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 17, 2025 07:37 +0700</u></h3>
 <br />
 <details align="center" open>
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -37,7 +37,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>511</td>
+        <td>512</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -66,7 +66,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>3845 (rate -69)</td>
+        <td>3905 (rate -68)</td>
       </tr>
       <tr>
         <td>
@@ -81,9 +81,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1950 (50%)<br />Event: 580 (15%)<br />Simulated
-          Universe: 610 (15%)<br />Forgotten Hall: 360 (9%)<br />Mail: 240
-          (6%)<br />Other: 0 (3%)<br />Adventure Rewards: 105 (2%)<br />
+          Daily Activity: 2010 (51%)<br />Simulated Universe: 610 (15%)<br />Event:
+          580 (14%)<br />Forgotten Hall: 360 (9%)<br />Mail: 240 (6%)<br />Other:
+          0 (3%)<br />Adventure Rewards: 105 (2%)<br />
         </td>
       </tr>
     </table>
@@ -7019,17 +7019,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/7cb065bb13a5fba94a26302b0db2080c_3875449856155324808.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
             height="20"
           />
-          Bangboo Algorithm Modules
+          Official Investigator Logs
         </td>
       </tr>
     </table>
@@ -8336,17 +8336,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Fine Enhancement Ore
+          Mora
         </td>
       </tr>
     </table>
